@@ -1361,3 +1361,35 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.10.28-13.51.50:522][104]BlueprintLog: New page: Compile ThirdPersonMap
 [2024.10.28-13.51.50:543][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
 [2024.10.28-13.51.51:118][162]LogSlate: Took 0.003678 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.10.28-13.59.23:198][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.10.28-13.59.24:007][185]LogSlate: Window 'Save Content' being destroyed
+[2024.10.28-13.59.24:024][185]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.28-13.59.24:095][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.10.28-13.59.24:106][185]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2024.10.28-13.59.24:106][185]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Bludgeons--Flagons/BludgeonsFlagons/Saved/ThirdPersonMap1BE6BD494A9DB61D9A8130902FFC01A0.tmp' to '../../../../../../Users/Student/Documents/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2024.10.28-13.59.24:109][185]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/OP/6W70D4UJ6DHH8CDJ6OMSGB
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG
+[2024.10.28-13.59.24:109][185]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.28-13.59.24:110][185]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/OP/6W70D4UJ6DHH8CDJ6OMSGB
+[2024.10.28-13.59.24:110][185]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Bludgeons--Flagons/BludgeonsFlagons/Saved/6W70D4UJ6DHH8CDJ6OMSGBA180D09F4C48DBB13C92A4A7C7244F53.tmp' to '../../../../../../Users/Student/Documents/Bludgeons--Flagons/BludgeonsFlagons/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/OP/6W70D4UJ6DHH8CDJ6OMSGB.uasset'
+[2024.10.28-13.59.24:111][185]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG
+[2024.10.28-13.59.24:111][185]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Bludgeons--Flagons/BludgeonsFlagons/Saved/GK06JAEJ82TQ0GA2QB0DJGD0D8E3CC4227983F30054FAD5A06A644.tmp' to '../../../../../../Users/Student/Documents/Bludgeons--Flagons/BludgeonsFlagons/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset'
+[2024.10.28-13.59.24:112][185]LogFileHelpers: InternalPromptForCheckoutAndSave took 3 ms
+[2024.10.28-13.59.24:112][185]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/OP/6W70D4UJ6DHH8CDJ6OMSGB
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG
+[2024.10.28-13.59.24:112][185]LogFileHelpers: Saving map 'ThirdPersonMap' took 0.038
+[2024.10.28-13.59.24:112][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/test/BP_ThirdPersonChar2" FILE="../../../../../../Users/Student/Documents/Bludgeons--Flagons/BludgeonsFlagons/Content/test/BP_ThirdPersonChar2.uasset" SILENT=true
+[2024.10.28-13.59.24:120][185]LogSavePackage: Moving output files for package: /Game/test/BP_ThirdPersonChar2
+[2024.10.28-13.59.24:120][185]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Bludgeons--Flagons/BludgeonsFlagons/Saved/BP_ThirdPersonChar21A33A4274248244AE054B2B738787D80.tmp' to '../../../../../../Users/Student/Documents/Bludgeons--Flagons/BludgeonsFlagons/Content/test/BP_ThirdPersonChar2.uasset'
+[2024.10.28-13.59.24:121][185]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/OP/6W70D4UJ6DHH8CDJ6OMSGB
+[2024.10.28-13.59.24:122][185]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Bludgeons--Flagons/BludgeonsFlagons/Saved/6W70D4UJ6DHH8CDJ6OMSGB835BDD4C48D9116A6908D9A83E0897C4.tmp' to '../../../../../../Users/Student/Documents/Bludgeons--Flagons/BludgeonsFlagons/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/OP/6W70D4UJ6DHH8CDJ6OMSGB.uasset'
+[2024.10.28-13.59.24:123][185]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG
+[2024.10.28-13.59.24:123][185]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Bludgeons--Flagons/BludgeonsFlagons/Saved/GK06JAEJ82TQ0GA2QB0DJGD9C82CB64796A51407485A8DE5BF6712.tmp' to '../../../../../../Users/Student/Documents/Bludgeons--Flagons/BludgeonsFlagons/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset'
+[2024.10.28-13.59.24:130][185]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 109 ms)
+[2024.10.28-13.59.24:132][185]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.28-13.59.24:132][185]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2024.10.28-13.59.24:132][185]LogContentValidation: Display: Validating /Script/Engine.CameraActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.CameraActor_UAID_08BFB8A61E643F2602_2083773711
+[2024.10.28-13.59.24:132][185]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_2
+[2024.10.28-13.59.24:132][185]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/test/BP_ThirdPersonChar2.BP_ThirdPersonChar2
