@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/UNREAL/git/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Blueprints/BP_FightingGameMode.uasset",
+				"D:/UNREAL/git/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Blueprints/BP_PlayerController.uasset",
+				"D:/UNREAL/git/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Blueprints/Interfaces/BPI_DAMAGE.uasset",
+				"D:/UNREAL/git/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/Student/Documents/Bludgeons--Flagons/BludgeonsFlagons/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
 				"C:/Users/Student/Documents/Bludgeons--Flagons/BludgeonsFlagons/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
 				"C:/Users/Student/Documents/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Blueprints/BP_FightingGameMode.uasset",
