@@ -2584,3 +2584,1212 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.12.02-21.34.06:347][ 65]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
 [2024.12.02-21.34.06:354][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
 [2024.12.02-21.34.06:417][ 67]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2024.12.02-21.34.33:424][252]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.02-21.34.33:526][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.12.02-21.34.33:559][252]LogSavePackage: Moving output files for package: /Game/Level/MAP_CharacterSelect
+[2024.12.02-21.34.33:560][252]LogSavePackage: Moving 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Saved/MAP_CharacterSelectDC7A6E1E4C05EF1EABA726BCD44A83F5.tmp' to 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Content/Level/MAP_CharacterSelect.umap'
+[2024.12.02-21.34.33:568][252]LogFileHelpers: Saving map 'MAP_CharacterSelect' took 0.087
+[2024.12.02-21.34.33:574][252]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 1.52 sec)
+[2024.12.02-21.34.33:576][252]AssetCheck: New page: Asset Save: MAP_CharacterSelect
+[2024.12.02-21.34.33:576][252]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/MAP_CharacterSelect.MAP_CharacterSelect
+[2024.12.02-21.44.34:080][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.12.02-21.44.34:084][179]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/MAP_CharacterSelect' took 0.019
+[2024.12.02-21.44.34:085][179]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Widgets/WB_SelectionMenu] ([2] browsable assets)...
+[2024.12.02-21.44.34:090][179]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ThirdPerson/Widgets/WB_SelectionMenu.WB_SelectionMenu]
+[2024.12.02-21.44.34:090][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Widgets/WB_SelectionMenu]
+[2024.12.02-21.44.34:105][179]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Widgets/WB_SelectionMenu_Auto1
+[2024.12.02-21.44.34:105][179]LogSavePackage: Moving 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Saved/WB_SelectionMenu_Auto16A5C89284C699D7B37A8EABB1D6E74FD.tmp' to 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Saved/Autosaves/Game/ThirdPerson/Widgets/WB_SelectionMenu_Auto1.uasset'
+[2024.12.02-21.44.34:106][179]LogFileHelpers: Auto-saving content packages took 0.022
+[2024.12.02-21.44.46:996][996]LogInterchangeEngine: [Pending] Importing
+[2024.12.02-21.44.46:997][996]LogInterchangeEngine: Display: Interchange start importing source [F:/Bodvar.PNG]
+[2024.12.02-21.44.47:026][997]LogInterchangeEngine: [Pending] Importing
+[2024.12.02-21.44.47:309][997]LogTexture: Display: Building textures: /Game/Inported/Bodvar.Bodvar (BGRA8, 430x334 x1x1x1) (Required Memory Estimate: 4.262806 MB), EncodeSpeed: Fast
+[2024.12.02-21.44.47:350][997]LogInterchangeEngine: [Success] Import Done
+[2024.12.02-21.44.47:408][998]LogInterchangeEngine: [Success] Import Done
+[2024.12.02-21.44.54:779][706]LogShaderCompilers: Display: ================================================
+[2024.12.02-21.44.54:779][706]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.02-21.44.54:779][706]LogShaderCompilers: Display: Total job queries 182, among them cache hits 13 (7.14%)
+[2024.12.02-21.44.54:779][706]LogShaderCompilers: Display: Tracking 141 distinct input hashes that result in 88 distinct outputs (62.41%)
+[2024.12.02-21.44.54:779][706]LogShaderCompilers: Display: RAM used: 3.32 MiB of 1.60 GiB budget. Usage: 0.20%
+[2024.12.02-21.44.54:779][706]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.02-21.44.54:779][706]LogShaderCompilers: Display: Shaders Compiled: 141
+[2024.12.02-21.44.54:779][706]LogShaderCompilers: Display: Jobs assigned 145, completed 141 (97.24%)
+[2024.12.02-21.44.54:779][706]LogShaderCompilers: Display: Average time worker was idle: 67.36 s
+[2024.12.02-21.44.54:779][706]LogShaderCompilers: Display: Time job spent in pending queue: average 0.42 s, longest 2.26 s
+[2024.12.02-21.44.54:779][706]LogShaderCompilers: Display: Job execution time: average 0.39 s, max 1.08 s
+[2024.12.02-21.44.54:779][706]LogShaderCompilers: Display: Job life time (pending + execution): average 0.82 s, max 2.87
+[2024.12.02-21.44.54:779][706]LogShaderCompilers: Display: Shader code size: average 38.732 KiB, min 3.559 KiB, max 95.887 KiB
+[2024.12.02-21.44.54:779][706]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 13.02 s
+[2024.12.02-21.44.54:779][706]LogShaderCompilers: Display: Jobs were issued in 145 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.02-21.44.54:779][706]LogShaderCompilers: Display: Average processing rate: 10.83 jobs/sec
+[2024.12.02-21.44.54:779][706]LogShaderCompilers: Display: Total thread time: 39.381 s
+[2024.12.02-21.44.54:780][706]LogShaderCompilers: Display: Total thread preprocess time: 4.851 s
+[2024.12.02-21.44.54:780][706]LogShaderCompilers: Display: Percentage time preprocessing: 12.32%
+[2024.12.02-21.44.54:780][706]LogShaderCompilers: Display: Effective parallelization: 3.02 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.02-21.44.54:780][706]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.02-21.44.54:780][706]LogShaderCompilers: Display:                        FLumenTranslucencyRadianceCacheMarkVS (compiled    1 times, average 0.49 sec, max 0.49 sec, min 0.49 sec)
+[2024.12.02-21.44.54:780][706]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled    1 times, average 0.49 sec, max 0.49 sec, min 0.49 sec)
+[2024.12.02-21.44.54:780][706]LogShaderCompilers: Display:                        FLumenFrontLayerTranslucencyGBufferVS (compiled    1 times, average 0.47 sec, max 0.47 sec, min 0.47 sec)
+[2024.12.02-21.44.54:780][706]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    3 times, average 0.42 sec, max 0.55 sec, min 0.22 sec)
+[2024.12.02-21.44.54:780][706]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    2 times, average 0.35 sec, max 0.39 sec, min 0.30 sec)
+[2024.12.02-21.44.54:780][706]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.02-21.44.54:780][706]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 29.07% of total time (compiled   37 times, average 0.31 sec, max 0.66 sec, min 0.20 sec)
+[2024.12.02-21.44.54:780][706]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 26.00% of total time (compiled   33 times, average 0.31 sec, max 0.41 sec, min 0.20 sec)
+[2024.12.02-21.44.54:780][706]LogShaderCompilers: Display:                                                 FLumenCardVS - 15.23% of total time (compiled   21 times, average 0.29 sec, max 0.40 sec, min 0.18 sec)
+[2024.12.02-21.44.54:780][706]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.98% of total time (compiled   22 times, average 0.14 sec, max 0.32 sec, min 0.09 sec)
+[2024.12.02-21.44.54:780][706]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 3.16% of total time (compiled    3 times, average 0.42 sec, max 0.55 sec, min 0.22 sec)
+[2024.12.02-21.44.54:780][706]LogShaderCompilers: Display: ================================================
+[2024.12.02-21.45.04:553][729]BlueprintLog: New page: Compile WB_SelectionMenu
+[2024.12.02-21.45.04:594][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.12.02-21.45.05:264][783]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.02-21.45.05:314][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Widgets/WB_SelectionMenu" FILE="F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_SelectionMenu.uasset" SILENT=true
+[2024.12.02-21.45.05:329][783]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Widgets/WB_SelectionMenu
+[2024.12.02-21.45.05:330][783]LogSavePackage: Moving 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Saved/WB_SelectionMenu9F5C3FB546F42D080AE2FFBC280A4506.tmp' to 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_SelectionMenu.uasset'
+[2024.12.02-21.45.05:336][783]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 1.60 sec)
+[2024.12.02-21.45.05:338][783]AssetCheck: New page: Asset Save: WB_SelectionMenu
+[2024.12.02-21.45.05:338][783]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Widgets/WB_SelectionMenu.WB_SelectionMenu
+[2024.12.02-21.45.06:893][925]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.02-21.45.06:904][925]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.02-21.45.06:904][925]PIE: New page: PIE session: MAP_CharacterSelect (2 Dec 2024, 21:45:06)
+[2024.12.02-21.45.06:904][925]LogPlayLevel: Display: Creating online subsystem for client :Context_30
+[2024.12.02-21.45.06:906][925]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2024.12.02-21.45.06:916][926]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MAP_CharacterSelect
+[2024.12.02-21.45.06:920][926]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004532s)
+[2024.12.02-21.45.06:920][926]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MAP_CharacterSelect.MAP_CharacterSelect to /Game/Level/UEDPIE_0_MAP_CharacterSelect.MAP_CharacterSelect (0.004566s)
+[2024.12.02-21.45.06:935][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.12.02-21.45.06:940][926]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-21.45.06:940][926]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-21.45.06:941][926]LogAIModule: Creating AISystem for world MAP_CharacterSelect
+[2024.12.02-21.45.06:941][926]LogPlayLevel: PIE: World Init took: (0.000956s)
+[2024.12.02-21.45.06:941][926]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.12.02-21.45.06:941][926]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.02-21.45.06:941][926]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.02-21.45.06:941][926]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.02-21.45.06:941][926]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.02-21.45.06:941][926]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.02-21.45.06:941][926]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.02-21.45.06:941][926]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.02-21.45.06:941][926]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.02-21.45.06:942][926]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.02-21.45.06:942][926]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.02-21.45.06:942][926]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.02-21.45.06:944][926]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.02-21.45.06:959][926]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2024.12.02-21.45.06:959][926]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.02-21.45.06:959][926]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.02-21.45.06:959][926]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.02-21.45.06:961][926]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2024.12.02-21.45.06:961][926]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=20
+[2024.12.02-21.45.06:962][926]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2024.12.02-21.45.06:962][926]LogInit: FAudioDevice initialized with ID 20.
+[2024.12.02-21.45.06:962][926]LogAudio: Display: Audio Device (ID: 20) registered with world 'MAP_CharacterSelect'.
+[2024.12.02-21.45.06:962][926]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2024.12.02-21.45.06:962][926]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2024.12.02-21.45.06:965][926]LogLoad: Game class is 'GM_CharSelection_C'
+[2024.12.02-21.45.06:966][926]LogWorld: Bringing World /Game/Level/UEDPIE_0_MAP_CharacterSelect.MAP_CharacterSelect up for play (max tick rate 0) at 2024.12.02-21.45.06
+[2024.12.02-21.45.06:966][926]LogWorld: Bringing up level for play took: 0.000865
+[2024.12.02-21.45.06:967][926]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.12.02-21.45.06:967][926]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.12.02-21.45.06:967][926]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.12.02-21.45.06:967][926]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.12.02-21.45.06:967][926]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.12.02-21.45.06:967][926]LogNet: GameNetDriver IpNetDriver_18 IpNetDriver listening on port 17777
+[2024.12.02-21.45.06:968][926]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.12.02-21.45.06:971][926]PIE: Server logged in
+[2024.12.02-21.45.06:972][926]PIE: Play in editor total start time 0.069 seconds.
+[2024.12.02-21.45.19:832][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.02-21.45.19:832][135]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MAP_CharacterSelect
+[2024.12.02-21.45.19:832][135]LogWorld: UWorld::CleanupWorld for MAP_CharacterSelect, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-21.45.19:832][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-21.45.19:833][135]LogNet: World NetDriver shutdown IpNetDriver_18 [GameNetDriver]
+[2024.12.02-21.45.19:833][135]LogNet: DestroyNamedNetDriver IpNetDriver_18 [GameNetDriver]
+[2024.12.02-21.45.19:833][135]LogExit: GameNetDriver IpNetDriver_18 shut down
+[2024.12.02-21.45.19:835][135]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.02-21.45.19:840][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-21.45.19:855][135]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.02-21.45.19:856][135]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2024.12.02-21.45.19:857][135]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.12.02-21.45.19:858][135]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.12.02-21.45.19:870][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.02-21.45.19:875][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.12.02-21.45.19:923][136]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2024.12.02-21.45.40:475][137]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.12.02-21.45.40:489][137]LogContentBrowser: Creating deferred item: NewFolder
+[2024.12.02-21.45.40:501][138]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.12.02-21.45.47:291][865]LogContentBrowser: Attempting asset rename: NewFolder -> CharSelectImages
+[2024.12.02-21.45.47:292][865]LogContentBrowser: End creating deferred item NewFolder
+[2024.12.02-21.45.50:744][183]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.02-21.45.50:797][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Widgets/WB_SelectionMenu" FILE="F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_SelectionMenu.uasset" SILENT=true
+[2024.12.02-21.45.50:813][183]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Widgets/WB_SelectionMenu
+[2024.12.02-21.45.50:813][183]LogSavePackage: Moving 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Saved/WB_SelectionMenuCDC3B81F4064616780B644A035068E33.tmp' to 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_SelectionMenu.uasset'
+[2024.12.02-21.45.50:817][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inported/CharSelectImages/Bodvar" FILE="F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Content/Inported/CharSelectImages/Bodvar.uasset" SILENT=true
+[2024.12.02-21.45.50:822][183]LogSavePackage: Moving output files for package: /Game/Inported/CharSelectImages/Bodvar
+[2024.12.02-21.45.50:822][183]LogSavePackage: Moving 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Saved/Bodvar6C0A8A594F798350DFDFDABFBC579A4A.tmp' to 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Content/Inported/CharSelectImages/Bodvar.uasset'
+[2024.12.02-21.45.50:834][183]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 1.69 sec)
+[2024.12.02-21.45.50:855][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.12.02-21.45.50:871][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.12.02-21.45.50:883][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.12.02-21.45.50:897][183]AssetCheck: New page: Asset Save: multiple assets
+[2024.12.02-21.45.50:897][183]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Widgets/WB_SelectionMenu.WB_SelectionMenu
+[2024.12.02-21.45.50:898][183]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Inported/CharSelectImages/Bodvar.Bodvar
+[2024.12.02-21.51.27:480][503]LogInterchangeEngine: [Pending] Importing
+[2024.12.02-21.51.27:480][503]LogInterchangeEngine: Display: Interchange start importing source [F:/TheHeavyWeight.PNG]
+[2024.12.02-21.51.27:486][504]LogTexture: Display: Building textures: /Game/Inported/CharSelectImages/TheHeavyWeight.TheHeavyWeight (BGRA8, 431x335 x1x1x1) (Required Memory Estimate: 4.285179 MB), EncodeSpeed: Fast
+[2024.12.02-21.51.27:618][504]LogInterchangeEngine: [Success] Import Done
+[2024.12.02-21.51.27:621][504]LogInterchangeEngine: [Success] Import Done
+[2024.12.02-21.51.27:872][505]LogInterchangeEngine: [Success] Import Done
+[2024.12.02-21.51.33:368][895]LogShaderCompilers: Display: ================================================
+[2024.12.02-21.51.33:368][895]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.02-21.51.33:368][895]LogShaderCompilers: Display: Total job queries 196, among them cache hits 13 (6.63%)
+[2024.12.02-21.51.33:368][895]LogShaderCompilers: Display: Tracking 158 distinct input hashes that result in 95 distinct outputs (60.13%)
+[2024.12.02-21.51.33:368][895]LogShaderCompilers: Display: RAM used: 3.68 MiB of 1.60 GiB budget. Usage: 0.22%
+[2024.12.02-21.51.33:369][895]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.02-21.51.33:369][895]LogShaderCompilers: Display: Shaders Compiled: 158
+[2024.12.02-21.51.33:369][895]LogShaderCompilers: Display: Jobs assigned 159, completed 158 (99.37%)
+[2024.12.02-21.51.33:369][895]LogShaderCompilers: Display: Average time worker was idle: 66.39 s
+[2024.12.02-21.51.33:369][895]LogShaderCompilers: Display: Time job spent in pending queue: average 0.39 s, longest 2.26 s
+[2024.12.02-21.51.33:369][895]LogShaderCompilers: Display: Job execution time: average 0.38 s, max 1.08 s
+[2024.12.02-21.51.33:369][895]LogShaderCompilers: Display: Job life time (pending + execution): average 0.76 s, max 2.87
+[2024.12.02-21.51.33:369][895]LogShaderCompilers: Display: Shader code size: average 38.627 KiB, min 3.559 KiB, max 95.887 KiB
+[2024.12.02-21.51.33:369][895]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 14.57 s
+[2024.12.02-21.51.33:369][895]LogShaderCompilers: Display: Jobs were issued in 159 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.02-21.51.33:369][895]LogShaderCompilers: Display: Average processing rate: 10.85 jobs/sec
+[2024.12.02-21.51.33:369][895]LogShaderCompilers: Display: Total thread time: 42.444 s
+[2024.12.02-21.51.33:369][895]LogShaderCompilers: Display: Total thread preprocess time: 5.286 s
+[2024.12.02-21.51.33:369][895]LogShaderCompilers: Display: Percentage time preprocessing: 12.45%
+[2024.12.02-21.51.33:369][895]LogShaderCompilers: Display: Effective parallelization: 2.91 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.02-21.51.33:369][895]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.02-21.51.33:369][895]LogShaderCompilers: Display:                        FLumenTranslucencyRadianceCacheMarkVS (compiled    1 times, average 0.49 sec, max 0.49 sec, min 0.49 sec)
+[2024.12.02-21.51.33:369][895]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled    1 times, average 0.49 sec, max 0.49 sec, min 0.49 sec)
+[2024.12.02-21.51.33:369][895]LogShaderCompilers: Display:                        FLumenFrontLayerTranslucencyGBufferVS (compiled    1 times, average 0.47 sec, max 0.47 sec, min 0.47 sec)
+[2024.12.02-21.51.33:369][895]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    3 times, average 0.42 sec, max 0.55 sec, min 0.22 sec)
+[2024.12.02-21.51.33:369][895]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    2 times, average 0.35 sec, max 0.39 sec, min 0.30 sec)
+[2024.12.02-21.51.33:369][895]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.02-21.51.33:369][895]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 28.97% of total time (compiled   41 times, average 0.30 sec, max 0.66 sec, min 0.17 sec)
+[2024.12.02-21.51.33:369][895]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 26.98% of total time (compiled   39 times, average 0.29 sec, max 0.41 sec, min 0.18 sec)
+[2024.12.02-21.51.33:369][895]LogShaderCompilers: Display:                                                 FLumenCardVS - 15.87% of total time (compiled   25 times, average 0.27 sec, max 0.40 sec, min 0.17 sec)
+[2024.12.02-21.51.33:369][895]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 8.01% of total time (compiled   25 times, average 0.14 sec, max 0.32 sec, min 0.08 sec)
+[2024.12.02-21.51.33:369][895]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 2.94% of total time (compiled    3 times, average 0.42 sec, max 0.55 sec, min 0.22 sec)
+[2024.12.02-21.51.33:369][895]LogShaderCompilers: Display: ================================================
+[2024.12.02-21.51.39:934][625]BlueprintLog: New page: Compile WB_SelectionMenu
+[2024.12.02-21.51.39:970][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.12.02-21.51.40:652][676]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.02-21.51.40:710][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Widgets/WB_SelectionMenu" FILE="F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_SelectionMenu.uasset" SILENT=true
+[2024.12.02-21.51.40:725][676]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Widgets/WB_SelectionMenu
+[2024.12.02-21.51.40:726][676]LogSavePackage: Moving 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Saved/WB_SelectionMenu83C8B4D046B5BF135D29DDAD66AA3EF7.tmp' to 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_SelectionMenu.uasset'
+[2024.12.02-21.51.40:733][676]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 1.77 sec)
+[2024.12.02-21.51.40:735][676]AssetCheck: New page: Asset Save: WB_SelectionMenu
+[2024.12.02-21.51.40:735][676]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Widgets/WB_SelectionMenu.WB_SelectionMenu
+[2024.12.02-21.52.22:953][565]BlueprintLog: New page: Compile WB_SelectionMenu
+[2024.12.02-21.52.22:965][565]LogBlueprint: Warning: [AssetLog] F:\UNREAL\git11\Bludgeons--Flagons\BludgeonsFlagons\Content\ThirdPerson\Widgets\WB_SelectionMenu.uasset: [Compiler] Could not find a variable named "Image_3" in 'WB_SelectionMenu_C'.
+Make sure 'WB_SelectionMenu_C' has been compiled for  Get Image_3
+[2024.12.02-21.52.22:966][565]LogBlueprint: Error: [AssetLog] F:\UNREAL\git11\Bludgeons--Flagons\BludgeonsFlagons\Content\ThirdPerson\Widgets\WB_SelectionMenu.uasset: [Compiler] The property associated with  Image 3  could not be found in '/Game/ThirdPerson/Widgets/WB_SelectionMenu.WB_SelectionMenu_C'
+[2024.12.02-21.52.23:004][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.12.02-21.52.23:571][604]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.02-21.52.23:629][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Widgets/WB_SelectionMenu" FILE="F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_SelectionMenu.uasset" SILENT=true
+[2024.12.02-21.52.23:644][604]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Widgets/WB_SelectionMenu
+[2024.12.02-21.52.23:645][604]LogSavePackage: Moving 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Saved/WB_SelectionMenu1C340D72442B5705056C16878FDE91FD.tmp' to 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_SelectionMenu.uasset'
+[2024.12.02-21.52.23:652][604]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 1.85 sec)
+[2024.12.02-21.52.23:653][604]AssetCheck: New page: Asset Save: WB_SelectionMenu
+[2024.12.02-21.52.23:653][604]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Widgets/WB_SelectionMenu.WB_SelectionMenu
+[2024.12.02-21.52.36:566][ 41]BlueprintLog: New page: Compile WB_SelectionMenu
+[2024.12.02-21.52.36:598][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.12.02-21.52.37:276][101]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.02-21.52.37:326][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Widgets/WB_SelectionMenu" FILE="F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_SelectionMenu.uasset" SILENT=true
+[2024.12.02-21.52.37:343][101]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Widgets/WB_SelectionMenu
+[2024.12.02-21.52.37:343][101]LogSavePackage: Moving 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Saved/WB_SelectionMenu96D8F22441DA16BAFC4C7EAD2566AA80.tmp' to 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_SelectionMenu.uasset'
+[2024.12.02-21.52.37:351][101]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 1.92 sec)
+[2024.12.02-21.52.37:353][101]AssetCheck: New page: Asset Save: WB_SelectionMenu
+[2024.12.02-21.52.37:353][101]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Widgets/WB_SelectionMenu.WB_SelectionMenu
+[2024.12.02-21.52.52:544][893]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.02-21.52.52:590][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Widgets/WB_SelectionMenu" FILE="F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_SelectionMenu.uasset" SILENT=true
+[2024.12.02-21.52.52:606][893]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Widgets/WB_SelectionMenu
+[2024.12.02-21.52.52:609][893]LogSavePackage: Moving 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Saved/WB_SelectionMenu4A049F214572DF416E32DB961B91F03F.tmp' to 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_SelectionMenu.uasset'
+[2024.12.02-21.52.52:616][893]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 2.00 sec)
+[2024.12.02-21.52.52:617][893]AssetCheck: New page: Asset Save: WB_SelectionMenu
+[2024.12.02-21.52.52:617][893]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Widgets/WB_SelectionMenu.WB_SelectionMenu
+[2024.12.02-21.52.58:164][476]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.02-21.52.58:176][476]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.02-21.52.58:176][476]PIE: New page: PIE session: MAP_CharacterSelect (2 Dec 2024, 21:52:58)
+[2024.12.02-21.52.58:200][476]LogPlayLevel: Display: Creating online subsystem for client :Context_31
+[2024.12.02-21.52.58:202][476]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2024.12.02-21.52.58:213][477]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MAP_CharacterSelect
+[2024.12.02-21.52.58:217][477]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004308s)
+[2024.12.02-21.52.58:217][477]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MAP_CharacterSelect.MAP_CharacterSelect to /Game/Level/UEDPIE_0_MAP_CharacterSelect.MAP_CharacterSelect (0.004347s)
+[2024.12.02-21.52.58:232][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.12.02-21.52.58:237][477]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-21.52.58:237][477]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-21.52.58:238][477]LogAIModule: Creating AISystem for world MAP_CharacterSelect
+[2024.12.02-21.52.58:238][477]LogPlayLevel: PIE: World Init took: (0.000899s)
+[2024.12.02-21.52.58:238][477]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2024.12.02-21.52.58:238][477]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.02-21.52.58:238][477]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.02-21.52.58:238][477]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.02-21.52.58:238][477]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.02-21.52.58:238][477]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.02-21.52.58:238][477]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.02-21.52.58:238][477]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.02-21.52.58:238][477]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.02-21.52.58:239][477]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.02-21.52.58:239][477]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.02-21.52.58:239][477]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.02-21.52.58:240][477]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.02-21.52.58:257][477]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2024.12.02-21.52.58:257][477]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.02-21.52.58:257][477]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.02-21.52.58:257][477]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.02-21.52.58:258][477]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2024.12.02-21.52.58:258][477]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=21
+[2024.12.02-21.52.58:259][477]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2024.12.02-21.52.58:259][477]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2024.12.02-21.52.58:259][477]LogInit: FAudioDevice initialized with ID 21.
+[2024.12.02-21.52.58:259][477]LogAudio: Display: Audio Device (ID: 21) registered with world 'MAP_CharacterSelect'.
+[2024.12.02-21.52.58:259][477]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2024.12.02-21.52.58:262][477]LogLoad: Game class is 'GM_CharSelection_C'
+[2024.12.02-21.52.58:263][477]LogWorld: Bringing World /Game/Level/UEDPIE_0_MAP_CharacterSelect.MAP_CharacterSelect up for play (max tick rate 0) at 2024.12.02-21.52.58
+[2024.12.02-21.52.58:263][477]LogWorld: Bringing up level for play took: 0.000862
+[2024.12.02-21.52.58:264][477]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.12.02-21.52.58:264][477]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.12.02-21.52.58:264][477]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.12.02-21.52.58:264][477]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.12.02-21.52.58:264][477]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.12.02-21.52.58:264][477]LogNet: GameNetDriver IpNetDriver_19 IpNetDriver listening on port 17777
+[2024.12.02-21.52.58:265][477]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.12.02-21.52.58:268][477]PIE: Server logged in
+[2024.12.02-21.52.58:269][477]PIE: Play in editor total start time 0.093 seconds.
+[2024.12.02-21.53.01:201][742]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.02-21.53.01:201][742]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MAP_CharacterSelect
+[2024.12.02-21.53.01:201][742]LogWorld: UWorld::CleanupWorld for MAP_CharacterSelect, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-21.53.01:201][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-21.53.01:202][742]LogNet: World NetDriver shutdown IpNetDriver_19 [GameNetDriver]
+[2024.12.02-21.53.01:202][742]LogNet: DestroyNamedNetDriver IpNetDriver_19 [GameNetDriver]
+[2024.12.02-21.53.01:202][742]LogExit: GameNetDriver IpNetDriver_19 shut down
+[2024.12.02-21.53.01:204][742]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.02-21.53.01:209][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-21.53.01:222][742]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.02-21.53.01:223][742]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2024.12.02-21.53.01:223][742]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.12.02-21.53.01:225][742]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.12.02-21.53.01:229][742]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.02-21.53.01:232][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.12.02-21.53.01:292][743]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2024.12.02-21.53.03:328][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.12.02-21.53.04:632][948]LogSlate: Window 'Delete Assets' being destroyed
+[2024.12.02-21.53.04:673][948]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Inported/CharSelectImages/Bodvar.Bodvar
+	Asset Type: Texture2D
+[2024.12.02-21.53.04:953][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.12.02-21.53.04:966][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.12.02-21.53.04:978][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.12.02-21.53.06:006][ 50]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.02-21.53.06:016][ 50]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.02-21.53.06:016][ 50]PIE: New page: PIE session: MAP_CharacterSelect (2 Dec 2024, 21:53:06)
+[2024.12.02-21.53.06:016][ 50]LogPlayLevel: Display: Creating online subsystem for client :Context_32
+[2024.12.02-21.53.06:018][ 50]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2024.12.02-21.53.06:032][ 51]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MAP_CharacterSelect
+[2024.12.02-21.53.06:037][ 51]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005274s)
+[2024.12.02-21.53.06:037][ 51]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MAP_CharacterSelect.MAP_CharacterSelect to /Game/Level/UEDPIE_0_MAP_CharacterSelect.MAP_CharacterSelect (0.005315s)
+[2024.12.02-21.53.06:050][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.12.02-21.53.06:052][ 51]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-21.53.06:052][ 51]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-21.53.06:052][ 51]LogAIModule: Creating AISystem for world MAP_CharacterSelect
+[2024.12.02-21.53.06:053][ 51]LogPlayLevel: PIE: World Init took: (0.000869s)
+[2024.12.02-21.53.06:053][ 51]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.12.02-21.53.06:053][ 51]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.02-21.53.06:053][ 51]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.02-21.53.06:053][ 51]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.02-21.53.06:053][ 51]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.02-21.53.06:053][ 51]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.02-21.53.06:053][ 51]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.02-21.53.06:053][ 51]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.02-21.53.06:053][ 51]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.02-21.53.06:053][ 51]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.02-21.53.06:053][ 51]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.02-21.53.06:053][ 51]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.02-21.53.06:055][ 51]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.02-21.53.06:069][ 51]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2024.12.02-21.53.06:070][ 51]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.02-21.53.06:070][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.02-21.53.06:070][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.02-21.53.06:071][ 51]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2024.12.02-21.53.06:071][ 51]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=22
+[2024.12.02-21.53.06:072][ 51]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2024.12.02-21.53.06:072][ 51]LogInit: FAudioDevice initialized with ID 22.
+[2024.12.02-21.53.06:072][ 51]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2024.12.02-21.53.06:072][ 51]LogAudio: Display: Audio Device (ID: 22) registered with world 'MAP_CharacterSelect'.
+[2024.12.02-21.53.06:072][ 51]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2024.12.02-21.53.06:075][ 51]LogLoad: Game class is 'GM_CharSelection_C'
+[2024.12.02-21.53.06:075][ 51]LogWorld: Bringing World /Game/Level/UEDPIE_0_MAP_CharacterSelect.MAP_CharacterSelect up for play (max tick rate 0) at 2024.12.02-21.53.06
+[2024.12.02-21.53.06:076][ 51]LogWorld: Bringing up level for play took: 0.000864
+[2024.12.02-21.53.06:077][ 51]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.12.02-21.53.06:077][ 51]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.12.02-21.53.06:077][ 51]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.12.02-21.53.06:077][ 51]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.12.02-21.53.06:077][ 51]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.12.02-21.53.06:077][ 51]LogNet: GameNetDriver IpNetDriver_20 IpNetDriver listening on port 17777
+[2024.12.02-21.53.06:077][ 51]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.12.02-21.53.06:080][ 51]PIE: Server logged in
+[2024.12.02-21.53.06:081][ 51]PIE: Play in editor total start time 0.065 seconds.
+[2024.12.02-21.53.15:011][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.02-21.53.15:011][867]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MAP_CharacterSelect
+[2024.12.02-21.53.15:011][867]LogWorld: UWorld::CleanupWorld for MAP_CharacterSelect, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-21.53.15:011][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-21.53.15:014][867]LogNet: World NetDriver shutdown IpNetDriver_20 [GameNetDriver]
+[2024.12.02-21.53.15:014][867]LogNet: DestroyNamedNetDriver IpNetDriver_20 [GameNetDriver]
+[2024.12.02-21.53.15:014][867]LogExit: GameNetDriver IpNetDriver_20 shut down
+[2024.12.02-21.53.15:016][867]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.02-21.53.15:021][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-21.53.15:039][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.02-21.53.15:039][867]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2024.12.02-21.53.15:039][867]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.12.02-21.53.15:041][867]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.12.02-21.53.15:050][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.12.02-21.53.15:113][868]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.12.02-21.53.50:294][950]BlueprintLog: New page: Compile WB_SelectionMenu
+[2024.12.02-21.53.50:321][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.12.02-21.54.24:264][210]LogInterchangeEngine: [Pending] Importing
+[2024.12.02-21.54.24:264][210]LogInterchangeEngine: Display: Interchange start importing source [F:/TheMavka.PNG]
+[2024.12.02-21.54.24:270][211]LogTexture: Display: Building textures: /Game/Inported/CharSelectImages/TheMavka.TheMavka (BGRA8, 417x335 x1x1x1) (Required Memory Estimate: 4.148022 MB), EncodeSpeed: Fast
+[2024.12.02-21.54.24:585][211]LogInterchangeEngine: [Success] Import Done
+[2024.12.02-21.54.24:588][211]LogInterchangeEngine: [Success] Import Done
+[2024.12.02-21.54.24:654][212]LogInterchangeEngine: [Success] Import Done
+[2024.12.02-21.54.31:681][623]LogInterchangeEngine: [Pending] Importing
+[2024.12.02-21.54.31:681][623]LogInterchangeEngine: Display: Interchange start importing source [F:/TheMonk.PNG]
+[2024.12.02-21.54.31:686][624]LogTexture: Display: Building textures: /Game/Inported/CharSelectImages/TheMonk.TheMonk (BGRA8, 470x319 x1x1x1) (Required Memory Estimate: 4.447342 MB), EncodeSpeed: Fast
+[2024.12.02-21.54.31:708][624]LogInterchangeEngine: [Success] Import Done
+[2024.12.02-21.54.31:711][624]LogInterchangeEngine: [Success] Import Done
+[2024.12.02-21.54.32:070][625]LogInterchangeEngine: [Success] Import Done
+[2024.12.02-21.54.36:492][806]LogInterchangeEngine: [Pending] Importing
+[2024.12.02-21.54.36:492][806]LogInterchangeEngine: Display: Interchange start importing source [F:/TheMerk.PNG]
+[2024.12.02-21.54.36:498][807]LogTexture: Display: Building textures: /Game/Inported/CharSelectImages/TheMerk.TheMerk (BGRA8, 393x330 x1x1x1) (Required Memory Estimate: 3.855415 MB), EncodeSpeed: Fast
+[2024.12.02-21.54.36:525][807]LogInterchangeEngine: [Success] Import Done
+[2024.12.02-21.54.36:528][807]LogInterchangeEngine: [Success] Import Done
+[2024.12.02-21.54.36:921][808]LogInterchangeEngine: [Success] Import Done
+[2024.12.02-21.54.43:076][320]LogShaderCompilers: Display: ================================================
+[2024.12.02-21.54.43:076][320]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.02-21.54.43:076][320]LogShaderCompilers: Display: Total job queries 216, among them cache hits 13 (6.02%)
+[2024.12.02-21.54.43:076][320]LogShaderCompilers: Display: Tracking 176 distinct input hashes that result in 106 distinct outputs (60.23%)
+[2024.12.02-21.54.43:076][320]LogShaderCompilers: Display: RAM used: 4.10 MiB of 1.60 GiB budget. Usage: 0.25%
+[2024.12.02-21.54.43:076][320]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.02-21.54.43:076][320]LogShaderCompilers: Display: Shaders Compiled: 176
+[2024.12.02-21.54.43:076][320]LogShaderCompilers: Display: Jobs assigned 179, completed 176 (98.32%)
+[2024.12.02-21.54.43:076][320]LogShaderCompilers: Display: Average time worker was idle: 90.12 s
+[2024.12.02-21.54.43:076][320]LogShaderCompilers: Display: Time job spent in pending queue: average 0.35 s, longest 2.26 s
+[2024.12.02-21.54.43:076][320]LogShaderCompilers: Display: Job execution time: average 0.38 s, max 1.08 s
+[2024.12.02-21.54.43:076][320]LogShaderCompilers: Display: Job life time (pending + execution): average 0.73 s, max 2.87
+[2024.12.02-21.54.43:076][320]LogShaderCompilers: Display: Shader code size: average 38.268 KiB, min 3.559 KiB, max 95.887 KiB
+[2024.12.02-21.54.43:076][320]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 16.16 s
+[2024.12.02-21.54.43:076][320]LogShaderCompilers: Display: Jobs were issued in 179 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.02-21.54.43:076][320]LogShaderCompilers: Display: Average processing rate: 10.89 jobs/sec
+[2024.12.02-21.54.43:076][320]LogShaderCompilers: Display: Total thread time: 46.429 s
+[2024.12.02-21.54.43:076][320]LogShaderCompilers: Display: Total thread preprocess time: 5.822 s
+[2024.12.02-21.54.43:076][320]LogShaderCompilers: Display: Percentage time preprocessing: 12.54%
+[2024.12.02-21.54.43:076][320]LogShaderCompilers: Display: Effective parallelization: 2.87 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.02-21.54.43:076][320]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.02-21.54.43:076][320]LogShaderCompilers: Display:                        FLumenTranslucencyRadianceCacheMarkVS (compiled    1 times, average 0.49 sec, max 0.49 sec, min 0.49 sec)
+[2024.12.02-21.54.43:076][320]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled    1 times, average 0.49 sec, max 0.49 sec, min 0.49 sec)
+[2024.12.02-21.54.43:076][320]LogShaderCompilers: Display:                        FLumenFrontLayerTranslucencyGBufferVS (compiled    1 times, average 0.47 sec, max 0.47 sec, min 0.47 sec)
+[2024.12.02-21.54.43:076][320]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    3 times, average 0.42 sec, max 0.55 sec, min 0.22 sec)
+[2024.12.02-21.54.43:076][320]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    4 times, average 0.30 sec, max 0.39 sec, min 0.26 sec)
+[2024.12.02-21.54.43:076][320]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.02-21.54.43:076][320]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 28.04% of total time (compiled   44 times, average 0.30 sec, max 0.66 sec, min 0.17 sec)
+[2024.12.02-21.54.43:076][320]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 25.80% of total time (compiled   41 times, average 0.29 sec, max 0.41 sec, min 0.18 sec)
+[2024.12.02-21.54.43:076][320]LogShaderCompilers: Display:                                                 FLumenCardVS - 15.51% of total time (compiled   27 times, average 0.27 sec, max 0.40 sec, min 0.17 sec)
+[2024.12.02-21.54.43:076][320]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 8.00% of total time (compiled   28 times, average 0.13 sec, max 0.32 sec, min 0.08 sec)
+[2024.12.02-21.54.43:076][320]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 2.68% of total time (compiled    3 times, average 0.42 sec, max 0.55 sec, min 0.22 sec)
+[2024.12.02-21.54.43:076][320]LogShaderCompilers: Display: ================================================
+[2024.12.02-21.54.50:769][180]BlueprintLog: New page: Compile WB_SelectionMenu
+[2024.12.02-21.54.50:797][180]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.12.02-21.54.51:760][267]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.02-21.54.51:809][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Widgets/WB_SelectionMenu" FILE="F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_SelectionMenu.uasset" SILENT=true
+[2024.12.02-21.54.51:826][267]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Widgets/WB_SelectionMenu
+[2024.12.02-21.54.51:826][267]LogSavePackage: Moving 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Saved/WB_SelectionMenu25AB8F8240B29D6DB42348821D0C8B0B.tmp' to 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_SelectionMenu.uasset'
+[2024.12.02-21.54.51:833][267]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 2.07 sec)
+[2024.12.02-21.54.51:835][267]AssetCheck: New page: Asset Save: WB_SelectionMenu
+[2024.12.02-21.54.51:835][267]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Widgets/WB_SelectionMenu.WB_SelectionMenu
+[2024.12.02-21.55.05:479][874]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.02-21.55.05:523][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Widgets/WB_SelectionMenu" FILE="F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_SelectionMenu.uasset" SILENT=true
+[2024.12.02-21.55.05:539][874]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Widgets/WB_SelectionMenu
+[2024.12.02-21.55.05:540][874]LogSavePackage: Moving 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Saved/WB_SelectionMenu04364C4F4E7E8ABC644218A1199C82AB.tmp' to 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_SelectionMenu.uasset'
+[2024.12.02-21.55.05:547][874]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 2.14 sec)
+[2024.12.02-21.55.05:548][874]AssetCheck: New page: Asset Save: WB_SelectionMenu
+[2024.12.02-21.55.05:548][874]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Widgets/WB_SelectionMenu.WB_SelectionMenu
+[2024.12.02-21.55.39:059][739]BlueprintLog: New page: Compile WB_SelectionMenu
+[2024.12.02-21.55.39:092][739]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.12.02-21.55.39:604][783]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.02-21.55.39:658][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Widgets/WB_SelectionMenu" FILE="F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_SelectionMenu.uasset" SILENT=true
+[2024.12.02-21.55.39:676][783]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Widgets/WB_SelectionMenu
+[2024.12.02-21.55.39:677][783]LogSavePackage: Moving 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Saved/WB_SelectionMenuA815444D400DB071701DCA847268BD98.tmp' to 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_SelectionMenu.uasset'
+[2024.12.02-21.55.39:684][783]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 2.22 sec)
+[2024.12.02-21.55.39:685][783]AssetCheck: New page: Asset Save: WB_SelectionMenu
+[2024.12.02-21.55.39:686][783]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Widgets/WB_SelectionMenu.WB_SelectionMenu
+[2024.12.02-21.55.40:937][891]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.02-21.55.40:947][891]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.02-21.55.40:947][891]PIE: New page: PIE session: MAP_CharacterSelect (2 Dec 2024, 21:55:40)
+[2024.12.02-21.55.40:969][891]LogPlayLevel: Display: Creating online subsystem for client :Context_33
+[2024.12.02-21.55.40:972][891]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2024.12.02-21.55.40:982][892]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MAP_CharacterSelect
+[2024.12.02-21.55.40:987][892]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004483s)
+[2024.12.02-21.55.40:987][892]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MAP_CharacterSelect.MAP_CharacterSelect to /Game/Level/UEDPIE_0_MAP_CharacterSelect.MAP_CharacterSelect (0.004524s)
+[2024.12.02-21.55.41:002][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.12.02-21.55.41:006][892]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-21.55.41:006][892]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-21.55.41:006][892]LogAIModule: Creating AISystem for world MAP_CharacterSelect
+[2024.12.02-21.55.41:006][892]LogPlayLevel: PIE: World Init took: (0.000870s)
+[2024.12.02-21.55.41:006][892]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.12.02-21.55.41:006][892]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.02-21.55.41:006][892]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.02-21.55.41:006][892]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.02-21.55.41:006][892]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.02-21.55.41:006][892]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.02-21.55.41:006][892]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.02-21.55.41:006][892]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.02-21.55.41:006][892]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.02-21.55.41:007][892]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.02-21.55.41:007][892]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.02-21.55.41:007][892]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.02-21.55.41:009][892]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.02-21.55.41:023][892]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2024.12.02-21.55.41:024][892]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.02-21.55.41:024][892]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.02-21.55.41:024][892]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.02-21.55.41:024][892]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2024.12.02-21.55.41:024][892]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=23
+[2024.12.02-21.55.41:026][892]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2024.12.02-21.55.41:026][892]LogInit: FAudioDevice initialized with ID 23.
+[2024.12.02-21.55.41:026][892]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2024.12.02-21.55.41:026][892]LogAudio: Display: Audio Device (ID: 23) registered with world 'MAP_CharacterSelect'.
+[2024.12.02-21.55.41:026][892]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2024.12.02-21.55.41:029][892]LogLoad: Game class is 'GM_CharSelection_C'
+[2024.12.02-21.55.41:030][892]LogWorld: Bringing World /Game/Level/UEDPIE_0_MAP_CharacterSelect.MAP_CharacterSelect up for play (max tick rate 0) at 2024.12.02-21.55.41
+[2024.12.02-21.55.41:030][892]LogWorld: Bringing up level for play took: 0.000961
+[2024.12.02-21.55.41:031][892]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.12.02-21.55.41:031][892]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.12.02-21.55.41:031][892]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.12.02-21.55.41:031][892]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.12.02-21.55.41:031][892]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.12.02-21.55.41:031][892]LogNet: GameNetDriver IpNetDriver_21 IpNetDriver listening on port 17777
+[2024.12.02-21.55.41:032][892]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.12.02-21.55.41:035][892]PIE: Server logged in
+[2024.12.02-21.55.41:035][892]PIE: Play in editor total start time 0.088 seconds.
+[2024.12.02-21.55.45:500][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.02-21.55.45:500][302]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MAP_CharacterSelect
+[2024.12.02-21.55.45:500][302]LogWorld: UWorld::CleanupWorld for MAP_CharacterSelect, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-21.55.45:501][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-21.55.45:502][302]LogNet: World NetDriver shutdown IpNetDriver_21 [GameNetDriver]
+[2024.12.02-21.55.45:502][302]LogNet: DestroyNamedNetDriver IpNetDriver_21 [GameNetDriver]
+[2024.12.02-21.55.45:502][302]LogExit: GameNetDriver IpNetDriver_21 shut down
+[2024.12.02-21.55.45:504][302]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.02-21.55.45:509][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-21.55.45:524][302]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.02-21.55.45:526][302]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2024.12.02-21.55.45:526][302]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.12.02-21.55.45:528][302]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.12.02-21.55.45:532][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.02-21.55.45:537][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.12.02-21.55.45:598][303]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.12.02-21.55.48:144][530]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-21.57.44:526][832]BlueprintLog: New page: Compile WB_SelectionMenu
+[2024.12.02-21.57.44:553][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.12.02-21.57.45:242][891]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.02-21.57.45:292][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Widgets/WB_SelectionMenu" FILE="F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_SelectionMenu.uasset" SILENT=true
+[2024.12.02-21.57.45:310][891]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Widgets/WB_SelectionMenu
+[2024.12.02-21.57.45:313][891]LogSavePackage: Moving 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Saved/WB_SelectionMenu37BCBFE141863E46841072B73034843B.tmp' to 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_SelectionMenu.uasset'
+[2024.12.02-21.57.45:320][891]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 2.29 sec)
+[2024.12.02-21.57.45:321][891]AssetCheck: New page: Asset Save: WB_SelectionMenu
+[2024.12.02-21.57.45:321][891]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Widgets/WB_SelectionMenu.WB_SelectionMenu
+[2024.12.02-21.57.46:275][969]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.02-21.57.46:285][969]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.02-21.57.46:285][969]PIE: New page: PIE session: MAP_CharacterSelect (2 Dec 2024, 21:57:46)
+[2024.12.02-21.57.46:285][969]LogPlayLevel: Display: Creating online subsystem for client :Context_35
+[2024.12.02-21.57.46:288][969]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2024.12.02-21.57.46:299][970]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MAP_CharacterSelect
+[2024.12.02-21.57.46:303][970]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004299s)
+[2024.12.02-21.57.46:303][970]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MAP_CharacterSelect.MAP_CharacterSelect to /Game/Level/UEDPIE_0_MAP_CharacterSelect.MAP_CharacterSelect (0.004333s)
+[2024.12.02-21.57.46:319][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.12.02-21.57.46:326][970]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-21.57.46:326][970]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-21.57.46:327][970]LogAIModule: Creating AISystem for world MAP_CharacterSelect
+[2024.12.02-21.57.46:327][970]LogPlayLevel: PIE: World Init took: (0.000846s)
+[2024.12.02-21.57.46:327][970]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2024.12.02-21.57.46:327][970]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.02-21.57.46:327][970]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.02-21.57.46:327][970]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.02-21.57.46:327][970]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.02-21.57.46:327][970]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.02-21.57.46:327][970]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.02-21.57.46:327][970]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.02-21.57.46:327][970]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.02-21.57.46:327][970]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.02-21.57.46:327][970]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.02-21.57.46:327][970]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.02-21.57.46:329][970]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.02-21.57.46:344][970]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2024.12.02-21.57.46:345][970]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.02-21.57.46:345][970]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.02-21.57.46:345][970]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.02-21.57.46:345][970]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2024.12.02-21.57.46:345][970]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=24
+[2024.12.02-21.57.46:347][970]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2024.12.02-21.57.46:347][970]LogInit: FAudioDevice initialized with ID 24.
+[2024.12.02-21.57.46:347][970]LogAudio: Display: Audio Device (ID: 24) registered with world 'MAP_CharacterSelect'.
+[2024.12.02-21.57.46:347][970]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2024.12.02-21.57.46:347][970]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2024.12.02-21.57.46:349][970]LogLoad: Game class is 'GM_CharSelection_C'
+[2024.12.02-21.57.46:350][970]LogWorld: Bringing World /Game/Level/UEDPIE_0_MAP_CharacterSelect.MAP_CharacterSelect up for play (max tick rate 0) at 2024.12.02-21.57.46
+[2024.12.02-21.57.46:350][970]LogWorld: Bringing up level for play took: 0.000889
+[2024.12.02-21.57.46:351][970]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.12.02-21.57.46:351][970]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.12.02-21.57.46:351][970]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.12.02-21.57.46:351][970]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.12.02-21.57.46:351][970]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.12.02-21.57.46:351][970]LogNet: GameNetDriver IpNetDriver_22 IpNetDriver listening on port 17777
+[2024.12.02-21.57.46:352][970]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.12.02-21.57.46:355][970]PIE: Server logged in
+[2024.12.02-21.57.46:356][970]PIE: Play in editor total start time 0.071 seconds.
+[2024.12.02-21.57.56:240][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.02-21.57.56:241][904]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MAP_CharacterSelect
+[2024.12.02-21.57.56:241][904]LogWorld: UWorld::CleanupWorld for MAP_CharacterSelect, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-21.57.56:241][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-21.57.56:242][904]LogNet: World NetDriver shutdown IpNetDriver_22 [GameNetDriver]
+[2024.12.02-21.57.56:242][904]LogNet: DestroyNamedNetDriver IpNetDriver_22 [GameNetDriver]
+[2024.12.02-21.57.56:242][904]LogExit: GameNetDriver IpNetDriver_22 shut down
+[2024.12.02-21.57.56:245][904]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.02-21.57.56:249][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-21.57.56:262][904]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.02-21.57.56:262][904]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2024.12.02-21.57.56:262][904]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.12.02-21.57.56:264][904]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.12.02-21.57.56:268][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.02-21.57.56:272][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.12.02-21.57.56:342][905]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2024.12.02-21.57.57:123][980]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.02-21.57.57:217][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.12.02-21.57.57:251][980]LogSavePackage: Moving output files for package: /Game/Level/MAP_CharacterSelect
+[2024.12.02-21.57.57:252][980]LogSavePackage: Moving 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Saved/MAP_CharacterSelect5C08455F44CD7AE05539B3B9564232A8.tmp' to 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Content/Level/MAP_CharacterSelect.umap'
+[2024.12.02-21.57.57:261][980]LogFileHelpers: Saving map 'MAP_CharacterSelect' took 0.089
+[2024.12.02-21.57.57:269][980]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 2.44 sec)
+[2024.12.02-21.57.57:271][980]AssetCheck: New page: Asset Save: MAP_CharacterSelect
+[2024.12.02-21.57.57:271][980]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/MAP_CharacterSelect.MAP_CharacterSelect
+[2024.12.02-21.59.10:650][519]BlueprintLog: New page: Compile WB_SelectionMenu
+[2024.12.02-21.59.10:677][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.12.02-21.59.11:250][563]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.02-21.59.11:308][563]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Widgets/WB_SelectionMenu" FILE="F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_SelectionMenu.uasset" SILENT=true
+[2024.12.02-21.59.11:328][563]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Widgets/WB_SelectionMenu
+[2024.12.02-21.59.11:328][563]LogSavePackage: Moving 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Saved/WB_SelectionMenu592F58054C9D566BD1A3E492F699D966.tmp' to 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_SelectionMenu.uasset'
+[2024.12.02-21.59.11:336][563]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 2.53 sec)
+[2024.12.02-21.59.11:337][563]AssetCheck: New page: Asset Save: WB_SelectionMenu
+[2024.12.02-21.59.11:337][563]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Widgets/WB_SelectionMenu.WB_SelectionMenu
+[2024.12.02-21.59.47:292][702]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-21.59.47:643][735]LogShaderCompilers: Display: ================================================
+[2024.12.02-21.59.47:643][735]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.02-21.59.47:643][735]LogShaderCompilers: Display: Total job queries 222, among them cache hits 13 (5.86%)
+[2024.12.02-21.59.47:643][735]LogShaderCompilers: Display: Tracking 182 distinct input hashes that result in 109 distinct outputs (59.89%)
+[2024.12.02-21.59.47:643][735]LogShaderCompilers: Display: RAM used: 4.25 MiB of 1.60 GiB budget. Usage: 0.26%
+[2024.12.02-21.59.47:643][735]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.02-21.59.47:643][735]LogShaderCompilers: Display: Shaders Compiled: 182
+[2024.12.02-21.59.47:643][735]LogShaderCompilers: Display: Jobs assigned 185, completed 182 (98.38%)
+[2024.12.02-21.59.47:643][735]LogShaderCompilers: Display: Average time worker was idle: 93.94 s
+[2024.12.02-21.59.47:643][735]LogShaderCompilers: Display: Time job spent in pending queue: average 0.34 s, longest 2.26 s
+[2024.12.02-21.59.47:643][735]LogShaderCompilers: Display: Job execution time: average 0.38 s, max 1.08 s
+[2024.12.02-21.59.47:643][735]LogShaderCompilers: Display: Job life time (pending + execution): average 0.72 s, max 2.87
+[2024.12.02-21.59.47:643][735]LogShaderCompilers: Display: Shader code size: average 38.498 KiB, min 3.559 KiB, max 95.887 KiB
+[2024.12.02-21.59.47:643][735]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 17.00 s
+[2024.12.02-21.59.47:643][735]LogShaderCompilers: Display: Jobs were issued in 185 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.02-21.59.47:643][735]LogShaderCompilers: Display: Average processing rate: 10.71 jobs/sec
+[2024.12.02-21.59.47:643][735]LogShaderCompilers: Display: Total thread time: 47.512 s
+[2024.12.02-21.59.47:643][735]LogShaderCompilers: Display: Total thread preprocess time: 5.968 s
+[2024.12.02-21.59.47:643][735]LogShaderCompilers: Display: Percentage time preprocessing: 12.56%
+[2024.12.02-21.59.47:643][735]LogShaderCompilers: Display: Effective parallelization: 2.80 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.02-21.59.47:643][735]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.02-21.59.47:643][735]LogShaderCompilers: Display:                        FLumenTranslucencyRadianceCacheMarkVS (compiled    1 times, average 0.49 sec, max 0.49 sec, min 0.49 sec)
+[2024.12.02-21.59.47:643][735]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled    1 times, average 0.49 sec, max 0.49 sec, min 0.49 sec)
+[2024.12.02-21.59.47:643][735]LogShaderCompilers: Display:                        FLumenFrontLayerTranslucencyGBufferVS (compiled    1 times, average 0.47 sec, max 0.47 sec, min 0.47 sec)
+[2024.12.02-21.59.47:643][735]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    3 times, average 0.42 sec, max 0.55 sec, min 0.22 sec)
+[2024.12.02-21.59.47:643][735]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    4 times, average 0.30 sec, max 0.39 sec, min 0.26 sec)
+[2024.12.02-21.59.47:643][735]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.02-21.59.47:643][735]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 28.27% of total time (compiled   46 times, average 0.29 sec, max 0.66 sec, min 0.17 sec)
+[2024.12.02-21.59.47:643][735]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 26.03% of total time (compiled   43 times, average 0.29 sec, max 0.41 sec, min 0.18 sec)
+[2024.12.02-21.59.47:643][735]LogShaderCompilers: Display:                                                 FLumenCardVS - 15.55% of total time (compiled   28 times, average 0.26 sec, max 0.40 sec, min 0.17 sec)
+[2024.12.02-21.59.47:643][735]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 8.01% of total time (compiled   29 times, average 0.13 sec, max 0.32 sec, min 0.08 sec)
+[2024.12.02-21.59.47:643][735]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 2.62% of total time (compiled    3 times, average 0.42 sec, max 0.55 sec, min 0.22 sec)
+[2024.12.02-21.59.47:643][735]LogShaderCompilers: Display: ================================================
+[2024.12.02-22.00.08:764][181]BlueprintLog: New page: Compile WB_SelectionMenu
+[2024.12.02-22.00.08:800][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.12.02-22.00.09:468][230]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.02-22.00.09:526][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Widgets/WB_SelectionMenu" FILE="F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_SelectionMenu.uasset" SILENT=true
+[2024.12.02-22.00.09:545][230]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Widgets/WB_SelectionMenu
+[2024.12.02-22.00.09:546][230]LogSavePackage: Moving 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Saved/WB_SelectionMenuE6C14C8A45B1409790B490A3A123C43A.tmp' to 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_SelectionMenu.uasset'
+[2024.12.02-22.00.09:552][230]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 2.61 sec)
+[2024.12.02-22.00.09:554][230]AssetCheck: New page: Asset Save: WB_SelectionMenu
+[2024.12.02-22.00.09:554][230]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Widgets/WB_SelectionMenu.WB_SelectionMenu
+[2024.12.02-22.01.14:133][807]LogEditorTransaction: Undo Rename Node
+[2024.12.02-22.01.15:085][857]LogEditorTransaction: Undo Add Node
+[2024.12.02-22.02.32:282][850]BlueprintLog: New page: Compile WB_SelectionMenu
+[2024.12.02-22.02.32:318][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.12.02-22.02.33:107][919]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.02-22.02.33:156][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Widgets/WB_SelectionMenu" FILE="F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_SelectionMenu.uasset" SILENT=true
+[2024.12.02-22.02.33:177][919]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Widgets/WB_SelectionMenu
+[2024.12.02-22.02.33:177][919]LogSavePackage: Moving 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Saved/WB_SelectionMenuF0E495644FE82C2587DED2A60F9CEA16.tmp' to 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_SelectionMenu.uasset'
+[2024.12.02-22.02.33:186][919]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 2.69 sec)
+[2024.12.02-22.02.33:187][919]AssetCheck: New page: Asset Save: WB_SelectionMenu
+[2024.12.02-22.02.33:187][919]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Widgets/WB_SelectionMenu.WB_SelectionMenu
+[2024.12.02-22.03.54:339][263]BlueprintLog: New page: Compile WB_SelectionMenu
+[2024.12.02-22.03.54:375][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.12.02-22.03.55:004][312]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.02-22.03.55:055][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Widgets/WB_SelectionMenu" FILE="F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_SelectionMenu.uasset" SILENT=true
+[2024.12.02-22.03.55:132][312]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Widgets/WB_SelectionMenu
+[2024.12.02-22.03.55:133][312]LogSavePackage: Moving 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Saved/WB_SelectionMenuF26368C44EDB6056E99CA1BB9F140825.tmp' to 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_SelectionMenu.uasset'
+[2024.12.02-22.03.55:141][312]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 2.83 sec)
+[2024.12.02-22.03.55:142][312]AssetCheck: New page: Asset Save: WB_SelectionMenu
+[2024.12.02-22.03.55:142][312]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Widgets/WB_SelectionMenu.WB_SelectionMenu
+[2024.12.02-22.04.03:963][297]BlueprintLog: New page: Compile WB_SelectionMenu
+[2024.12.02-22.04.04:000][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.12.02-22.04.04:568][344]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.02-22.04.04:606][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Widgets/WB_SelectionMenu" FILE="F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_SelectionMenu.uasset" SILENT=true
+[2024.12.02-22.04.04:744][344]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Widgets/WB_SelectionMenu
+[2024.12.02-22.04.04:745][344]LogSavePackage: Moving 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Saved/WB_SelectionMenuE526EE9A4BE6191C29BCE8BA3CD1DBAD.tmp' to 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_SelectionMenu.uasset'
+[2024.12.02-22.04.04:754][344]LogFileHelpers: InternalPromptForCheckoutAndSave took 185 ms (total: 3.01 sec)
+[2024.12.02-22.04.04:755][344]AssetCheck: New page: Asset Save: WB_SelectionMenu
+[2024.12.02-22.04.04:755][344]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Widgets/WB_SelectionMenu.WB_SelectionMenu
+[2024.12.02-22.04.26:193][775]LogSlate: Window 'Color Picker' being destroyed
+[2024.12.02-22.04.35:147][816]BlueprintLog: New page: Compile WB_SelectionMenu
+[2024.12.02-22.04.35:184][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.12.02-22.04.35:762][860]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.02-22.04.35:823][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Widgets/WB_SelectionMenu" FILE="F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_SelectionMenu.uasset" SILENT=true
+[2024.12.02-22.04.35:940][860]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Widgets/WB_SelectionMenu
+[2024.12.02-22.04.35:941][860]LogSavePackage: Moving 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Saved/WB_SelectionMenu5AD66B2F4F4AF8861991FEA3CBF42751.tmp' to 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_SelectionMenu.uasset'
+[2024.12.02-22.04.35:949][860]LogFileHelpers: InternalPromptForCheckoutAndSave took 187 ms (total: 3.20 sec)
+[2024.12.02-22.04.35:951][860]AssetCheck: New page: Asset Save: WB_SelectionMenu
+[2024.12.02-22.04.35:951][860]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Widgets/WB_SelectionMenu.WB_SelectionMenu
+[2024.12.02-22.05.04:558][ 76]LogShaderCompilers: Display: ================================================
+[2024.12.02-22.05.04:558][ 76]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.02-22.05.04:558][ 76]LogShaderCompilers: Display: Total job queries 230, among them cache hits 13 (5.65%)
+[2024.12.02-22.05.04:558][ 76]LogShaderCompilers: Display: Tracking 186 distinct input hashes that result in 111 distinct outputs (59.68%)
+[2024.12.02-22.05.04:558][ 76]LogShaderCompilers: Display: RAM used: 4.33 MiB of 1.60 GiB budget. Usage: 0.26%
+[2024.12.02-22.05.04:558][ 76]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.02-22.05.04:558][ 76]LogShaderCompilers: Display: Shaders Compiled: 186
+[2024.12.02-22.05.04:558][ 76]LogShaderCompilers: Display: Jobs assigned 193, completed 186 (96.37%)
+[2024.12.02-22.05.04:558][ 76]LogShaderCompilers: Display: Average time worker was idle: 110.91 s
+[2024.12.02-22.05.04:558][ 76]LogShaderCompilers: Display: Time job spent in pending queue: average 0.33 s, longest 2.26 s
+[2024.12.02-22.05.04:558][ 76]LogShaderCompilers: Display: Job execution time: average 0.38 s, max 1.08 s
+[2024.12.02-22.05.04:558][ 76]LogShaderCompilers: Display: Job life time (pending + execution): average 0.72 s, max 2.87
+[2024.12.02-22.05.04:558][ 76]LogShaderCompilers: Display: Shader code size: average 38.389 KiB, min 3.559 KiB, max 95.887 KiB
+[2024.12.02-22.05.04:558][ 76]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 17.58 s
+[2024.12.02-22.05.04:558][ 76]LogShaderCompilers: Display: Jobs were issued in 193 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.02-22.05.04:558][ 76]LogShaderCompilers: Display: Average processing rate: 10.58 jobs/sec
+[2024.12.02-22.05.04:558][ 76]LogShaderCompilers: Display: Total thread time: 48.198 s
+[2024.12.02-22.05.04:558][ 76]LogShaderCompilers: Display: Total thread preprocess time: 6.07 s
+[2024.12.02-22.05.04:558][ 76]LogShaderCompilers: Display: Percentage time preprocessing: 12.59%
+[2024.12.02-22.05.04:558][ 76]LogShaderCompilers: Display: Effective parallelization: 2.74 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.02-22.05.04:558][ 76]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.02-22.05.04:558][ 76]LogShaderCompilers: Display:                        FLumenTranslucencyRadianceCacheMarkVS (compiled    1 times, average 0.49 sec, max 0.49 sec, min 0.49 sec)
+[2024.12.02-22.05.04:559][ 76]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled    1 times, average 0.49 sec, max 0.49 sec, min 0.49 sec)
+[2024.12.02-22.05.04:559][ 76]LogShaderCompilers: Display:                        FLumenFrontLayerTranslucencyGBufferVS (compiled    1 times, average 0.47 sec, max 0.47 sec, min 0.47 sec)
+[2024.12.02-22.05.04:559][ 76]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    3 times, average 0.42 sec, max 0.55 sec, min 0.22 sec)
+[2024.12.02-22.05.04:559][ 76]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    4 times, average 0.30 sec, max 0.39 sec, min 0.26 sec)
+[2024.12.02-22.05.04:559][ 76]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.02-22.05.04:559][ 76]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 28.26% of total time (compiled   47 times, average 0.29 sec, max 0.66 sec, min 0.17 sec)
+[2024.12.02-22.05.04:559][ 76]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 26.07% of total time (compiled   44 times, average 0.29 sec, max 0.41 sec, min 0.18 sec)
+[2024.12.02-22.05.04:559][ 76]LogShaderCompilers: Display:                                                 FLumenCardVS - 15.71% of total time (compiled   29 times, average 0.26 sec, max 0.40 sec, min 0.17 sec)
+[2024.12.02-22.05.04:559][ 76]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 8.13% of total time (compiled   30 times, average 0.13 sec, max 0.32 sec, min 0.08 sec)
+[2024.12.02-22.05.04:559][ 76]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 2.59% of total time (compiled    3 times, average 0.42 sec, max 0.55 sec, min 0.22 sec)
+[2024.12.02-22.05.04:559][ 76]LogShaderCompilers: Display: ================================================
+[2024.12.02-22.05.15:864][285]BlueprintLog: New page: Compile WB_SelectionMenu
+[2024.12.02-22.05.15:902][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.12.02-22.05.16:781][365]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.02-22.05.16:838][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Widgets/WB_SelectionMenu" FILE="F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_SelectionMenu.uasset" SILENT=true
+[2024.12.02-22.05.16:915][365]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Widgets/WB_SelectionMenu
+[2024.12.02-22.05.16:915][365]LogSavePackage: Moving 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Saved/WB_SelectionMenu4AFBABC24E00A0E6EE7643B92F04A52A.tmp' to 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_SelectionMenu.uasset'
+[2024.12.02-22.05.16:922][365]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 3.34 sec)
+[2024.12.02-22.05.16:923][365]AssetCheck: New page: Asset Save: WB_SelectionMenu
+[2024.12.02-22.05.16:923][365]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Widgets/WB_SelectionMenu.WB_SelectionMenu
+[2024.12.02-22.05.54:331][585]BlueprintLog: New page: Compile WB_SelectionMenu
+[2024.12.02-22.05.54:369][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.12.02-22.05.55:001][638]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.02-22.05.55:061][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Widgets/WB_SelectionMenu" FILE="F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_SelectionMenu.uasset" SILENT=true
+[2024.12.02-22.05.55:183][638]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Widgets/WB_SelectionMenu
+[2024.12.02-22.05.55:183][638]LogSavePackage: Moving 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Saved/WB_SelectionMenuA0E527594F83826F087D06847778FFF3.tmp' to 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_SelectionMenu.uasset'
+[2024.12.02-22.05.55:190][638]LogFileHelpers: InternalPromptForCheckoutAndSave took 189 ms (total: 3.53 sec)
+[2024.12.02-22.05.55:192][638]AssetCheck: New page: Asset Save: WB_SelectionMenu
+[2024.12.02-22.05.55:192][638]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Widgets/WB_SelectionMenu.WB_SelectionMenu
+[2024.12.02-22.06.27:451][309]BlueprintLog: New page: Compile WB_SelectionMenu
+[2024.12.02-22.06.27:488][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.12.02-22.06.28:078][353]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.02-22.06.28:138][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Widgets/WB_SelectionMenu" FILE="F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_SelectionMenu.uasset" SILENT=true
+[2024.12.02-22.06.28:260][353]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Widgets/WB_SelectionMenu
+[2024.12.02-22.06.28:260][353]LogSavePackage: Moving 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Saved/WB_SelectionMenuC34B4AA848B49213ADD63EA265A379A1.tmp' to 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_SelectionMenu.uasset'
+[2024.12.02-22.06.28:268][353]LogFileHelpers: InternalPromptForCheckoutAndSave took 190 ms (total: 3.72 sec)
+[2024.12.02-22.06.28:269][353]AssetCheck: New page: Asset Save: WB_SelectionMenu
+[2024.12.02-22.06.28:269][353]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Widgets/WB_SelectionMenu.WB_SelectionMenu
+[2024.12.02-22.06.30:984][636]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.02-22.06.30:995][636]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.02-22.06.30:995][636]PIE: New page: PIE session: MAP_CharacterSelect (2 Dec 2024, 22:06:30)
+[2024.12.02-22.06.31:021][636]LogPlayLevel: Display: Creating online subsystem for client :Context_37
+[2024.12.02-22.06.31:023][636]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2024.12.02-22.06.31:033][637]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MAP_CharacterSelect
+[2024.12.02-22.06.31:038][637]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004413s)
+[2024.12.02-22.06.31:038][637]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MAP_CharacterSelect.MAP_CharacterSelect to /Game/Level/UEDPIE_0_MAP_CharacterSelect.MAP_CharacterSelect (0.004451s)
+[2024.12.02-22.06.31:053][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.12.02-22.06.31:059][637]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-22.06.31:059][637]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-22.06.31:060][637]LogAIModule: Creating AISystem for world MAP_CharacterSelect
+[2024.12.02-22.06.31:060][637]LogPlayLevel: PIE: World Init took: (0.000854s)
+[2024.12.02-22.06.31:060][637]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2024.12.02-22.06.31:060][637]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.02-22.06.31:060][637]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.02-22.06.31:060][637]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.02-22.06.31:060][637]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.02-22.06.31:060][637]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.02-22.06.31:060][637]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.02-22.06.31:060][637]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.02-22.06.31:060][637]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.02-22.06.31:060][637]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.02-22.06.31:060][637]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.02-22.06.31:060][637]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.02-22.06.31:062][637]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.02-22.06.31:077][637]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2024.12.02-22.06.31:078][637]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.02-22.06.31:078][637]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.02-22.06.31:078][637]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.02-22.06.31:079][637]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2024.12.02-22.06.31:079][637]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=25
+[2024.12.02-22.06.31:080][637]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2024.12.02-22.06.31:080][637]LogInit: FAudioDevice initialized with ID 25.
+[2024.12.02-22.06.31:080][637]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2024.12.02-22.06.31:080][637]LogAudio: Display: Audio Device (ID: 25) registered with world 'MAP_CharacterSelect'.
+[2024.12.02-22.06.31:080][637]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2024.12.02-22.06.31:083][637]LogLoad: Game class is 'GM_CharSelection_C'
+[2024.12.02-22.06.31:083][637]LogWorld: Bringing World /Game/Level/UEDPIE_0_MAP_CharacterSelect.MAP_CharacterSelect up for play (max tick rate 0) at 2024.12.02-22.06.31
+[2024.12.02-22.06.31:084][637]LogWorld: Bringing up level for play took: 0.000884
+[2024.12.02-22.06.31:085][637]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.12.02-22.06.31:085][637]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.12.02-22.06.31:085][637]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.12.02-22.06.31:085][637]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.12.02-22.06.31:085][637]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.12.02-22.06.31:085][637]LogNet: GameNetDriver IpNetDriver_23 IpNetDriver listening on port 17777
+[2024.12.02-22.06.31:086][637]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.12.02-22.06.31:089][637]PIE: Server logged in
+[2024.12.02-22.06.31:089][637]PIE: Play in editor total start time 0.095 seconds.
+[2024.12.02-22.06.47:010][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.02-22.06.47:010][136]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MAP_CharacterSelect
+[2024.12.02-22.06.47:010][136]LogWorld: UWorld::CleanupWorld for MAP_CharacterSelect, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-22.06.47:011][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-22.06.47:012][136]LogNet: World NetDriver shutdown IpNetDriver_23 [GameNetDriver]
+[2024.12.02-22.06.47:013][136]LogNet: DestroyNamedNetDriver IpNetDriver_23 [GameNetDriver]
+[2024.12.02-22.06.47:013][136]LogExit: GameNetDriver IpNetDriver_23 shut down
+[2024.12.02-22.06.47:015][136]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.02-22.06.47:020][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-22.06.47:037][136]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.02-22.06.47:038][136]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2024.12.02-22.06.47:038][136]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.12.02-22.06.47:040][136]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.12.02-22.06.47:044][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.02-22.06.47:057][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.12.02-22.06.47:125][137]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2024.12.02-22.07.07:821][490]BlueprintLog: New page: Compile WB_SelectionMenu
+[2024.12.02-22.07.07:851][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.12.02-22.07.08:374][526]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.02-22.07.08:421][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Widgets/WB_SelectionMenu" FILE="F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_SelectionMenu.uasset" SILENT=true
+[2024.12.02-22.07.08:543][526]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Widgets/WB_SelectionMenu
+[2024.12.02-22.07.08:544][526]LogSavePackage: Moving 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Saved/WB_SelectionMenu8482205A4C71F1E44BEC3C99E6761C66.tmp' to 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_SelectionMenu.uasset'
+[2024.12.02-22.07.08:552][526]LogFileHelpers: InternalPromptForCheckoutAndSave took 178 ms (total: 3.90 sec)
+[2024.12.02-22.07.08:553][526]AssetCheck: New page: Asset Save: WB_SelectionMenu
+[2024.12.02-22.07.08:553][526]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Widgets/WB_SelectionMenu.WB_SelectionMenu
+[2024.12.02-22.07.09:550][613]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.02-22.07.09:561][613]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.02-22.07.09:561][613]PIE: New page: PIE session: MAP_CharacterSelect (2 Dec 2024, 22:07:09)
+[2024.12.02-22.07.09:590][613]LogPlayLevel: Display: Creating online subsystem for client :Context_38
+[2024.12.02-22.07.09:592][613]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2024.12.02-22.07.09:603][614]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MAP_CharacterSelect
+[2024.12.02-22.07.09:607][614]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004325s)
+[2024.12.02-22.07.09:607][614]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MAP_CharacterSelect.MAP_CharacterSelect to /Game/Level/UEDPIE_0_MAP_CharacterSelect.MAP_CharacterSelect (0.004359s)
+[2024.12.02-22.07.09:623][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.12.02-22.07.09:628][614]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-22.07.09:628][614]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-22.07.09:628][614]LogAIModule: Creating AISystem for world MAP_CharacterSelect
+[2024.12.02-22.07.09:628][614]LogPlayLevel: PIE: World Init took: (0.000841s)
+[2024.12.02-22.07.09:628][614]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2024.12.02-22.07.09:628][614]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.02-22.07.09:628][614]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.02-22.07.09:629][614]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.02-22.07.09:629][614]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.02-22.07.09:629][614]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.02-22.07.09:629][614]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.02-22.07.09:629][614]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.02-22.07.09:629][614]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.02-22.07.09:629][614]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.02-22.07.09:629][614]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.02-22.07.09:629][614]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.02-22.07.09:631][614]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.02-22.07.09:645][614]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2024.12.02-22.07.09:645][614]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.02-22.07.09:645][614]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.02-22.07.09:645][614]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.02-22.07.09:646][614]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2024.12.02-22.07.09:646][614]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=26
+[2024.12.02-22.07.09:648][614]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2024.12.02-22.07.09:648][614]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2024.12.02-22.07.09:648][614]LogInit: FAudioDevice initialized with ID 26.
+[2024.12.02-22.07.09:648][614]LogAudio: Display: Audio Device (ID: 26) registered with world 'MAP_CharacterSelect'.
+[2024.12.02-22.07.09:648][614]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2024.12.02-22.07.09:650][614]LogLoad: Game class is 'GM_CharSelection_C'
+[2024.12.02-22.07.09:651][614]LogWorld: Bringing World /Game/Level/UEDPIE_0_MAP_CharacterSelect.MAP_CharacterSelect up for play (max tick rate 0) at 2024.12.02-22.07.09
+[2024.12.02-22.07.09:651][614]LogWorld: Bringing up level for play took: 0.000884
+[2024.12.02-22.07.09:652][614]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.12.02-22.07.09:652][614]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.12.02-22.07.09:652][614]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.12.02-22.07.09:652][614]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.12.02-22.07.09:652][614]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.12.02-22.07.09:652][614]LogNet: GameNetDriver IpNetDriver_24 IpNetDriver listening on port 17777
+[2024.12.02-22.07.09:653][614]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.12.02-22.07.09:656][614]PIE: Server logged in
+[2024.12.02-22.07.09:657][614]PIE: Play in editor total start time 0.096 seconds.
+[2024.12.02-22.07.17:000][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.02-22.07.17:000][309]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MAP_CharacterSelect
+[2024.12.02-22.07.17:000][309]LogWorld: UWorld::CleanupWorld for MAP_CharacterSelect, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-22.07.17:001][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-22.07.17:002][309]LogNet: World NetDriver shutdown IpNetDriver_24 [GameNetDriver]
+[2024.12.02-22.07.17:002][309]LogNet: DestroyNamedNetDriver IpNetDriver_24 [GameNetDriver]
+[2024.12.02-22.07.17:002][309]LogExit: GameNetDriver IpNetDriver_24 shut down
+[2024.12.02-22.07.17:004][309]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.02-22.07.17:009][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-22.07.17:023][309]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.02-22.07.17:024][309]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2024.12.02-22.07.17:024][309]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.12.02-22.07.17:026][309]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.12.02-22.07.17:030][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.02-22.07.17:033][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.12.02-22.07.17:095][310]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2024.12.02-22.07.17:636][362]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.02-22.07.17:652][362]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.02-22.07.17:652][362]PIE: New page: PIE session: MAP_CharacterSelect (2 Dec 2024, 22:07:17)
+[2024.12.02-22.07.17:700][362]LogPlayLevel: Display: Creating online subsystem for client :Context_39
+[2024.12.02-22.07.17:702][362]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2024.12.02-22.07.17:716][363]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MAP_CharacterSelect
+[2024.12.02-22.07.17:722][363]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006344s)
+[2024.12.02-22.07.17:722][363]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MAP_CharacterSelect.MAP_CharacterSelect to /Game/Level/UEDPIE_0_MAP_CharacterSelect.MAP_CharacterSelect (0.006400s)
+[2024.12.02-22.07.17:736][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.12.02-22.07.17:739][363]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-22.07.17:740][363]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-22.07.17:740][363]LogAIModule: Creating AISystem for world MAP_CharacterSelect
+[2024.12.02-22.07.17:740][363]LogPlayLevel: PIE: World Init took: (0.000880s)
+[2024.12.02-22.07.17:740][363]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2024.12.02-22.07.17:740][363]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.02-22.07.17:740][363]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.02-22.07.17:740][363]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.02-22.07.17:740][363]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.02-22.07.17:740][363]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.02-22.07.17:740][363]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.02-22.07.17:740][363]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.02-22.07.17:740][363]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.02-22.07.17:741][363]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.02-22.07.17:741][363]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.02-22.07.17:741][363]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.02-22.07.17:743][363]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.02-22.07.17:757][363]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2024.12.02-22.07.17:757][363]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.02-22.07.17:757][363]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.02-22.07.17:757][363]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.02-22.07.17:758][363]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2024.12.02-22.07.17:758][363]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=27
+[2024.12.02-22.07.17:759][363]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2024.12.02-22.07.17:759][363]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2024.12.02-22.07.17:759][363]LogInit: FAudioDevice initialized with ID 27.
+[2024.12.02-22.07.17:759][363]LogAudio: Display: Audio Device (ID: 27) registered with world 'MAP_CharacterSelect'.
+[2024.12.02-22.07.17:760][363]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2024.12.02-22.07.17:762][363]LogLoad: Game class is 'GM_CharSelection_C'
+[2024.12.02-22.07.17:763][363]LogWorld: Bringing World /Game/Level/UEDPIE_0_MAP_CharacterSelect.MAP_CharacterSelect up for play (max tick rate 0) at 2024.12.02-22.07.17
+[2024.12.02-22.07.17:763][363]LogWorld: Bringing up level for play took: 0.000993
+[2024.12.02-22.07.17:764][363]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.12.02-22.07.17:764][363]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.12.02-22.07.17:764][363]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.12.02-22.07.17:764][363]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.12.02-22.07.17:764][363]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.12.02-22.07.17:764][363]LogNet: GameNetDriver IpNetDriver_25 IpNetDriver listening on port 17777
+[2024.12.02-22.07.17:765][363]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.12.02-22.07.17:768][363]PIE: Server logged in
+[2024.12.02-22.07.17:769][363]PIE: Play in editor total start time 0.117 seconds.
+[2024.12.02-22.07.32:601][758]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.02-22.07.32:601][758]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MAP_CharacterSelect
+[2024.12.02-22.07.32:601][758]LogWorld: UWorld::CleanupWorld for MAP_CharacterSelect, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-22.07.32:601][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-22.07.32:603][758]LogNet: World NetDriver shutdown IpNetDriver_25 [GameNetDriver]
+[2024.12.02-22.07.32:603][758]LogNet: DestroyNamedNetDriver IpNetDriver_25 [GameNetDriver]
+[2024.12.02-22.07.32:603][758]LogExit: GameNetDriver IpNetDriver_25 shut down
+[2024.12.02-22.07.32:605][758]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.02-22.07.32:609][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-22.07.32:629][758]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.02-22.07.32:629][758]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2024.12.02-22.07.32:629][758]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.12.02-22.07.32:631][758]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.12.02-22.07.32:640][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.12.02-22.07.32:701][759]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2024.12.02-22.07.33:972][889]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.02-22.07.33:982][889]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.02-22.07.33:982][889]PIE: New page: PIE session: MAP_CharacterSelect (2 Dec 2024, 22:07:33)
+[2024.12.02-22.07.34:019][889]LogPlayLevel: Display: Creating online subsystem for client :Context_40
+[2024.12.02-22.07.34:021][889]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2024.12.02-22.07.34:033][890]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MAP_CharacterSelect
+[2024.12.02-22.07.34:037][890]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004329s)
+[2024.12.02-22.07.34:037][890]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MAP_CharacterSelect.MAP_CharacterSelect to /Game/Level/UEDPIE_0_MAP_CharacterSelect.MAP_CharacterSelect (0.004363s)
+[2024.12.02-22.07.34:051][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.12.02-22.07.34:054][890]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-22.07.34:054][890]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-22.07.34:054][890]LogAIModule: Creating AISystem for world MAP_CharacterSelect
+[2024.12.02-22.07.34:055][890]LogPlayLevel: PIE: World Init took: (0.000861s)
+[2024.12.02-22.07.34:055][890]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2024.12.02-22.07.34:055][890]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.02-22.07.34:055][890]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.02-22.07.34:055][890]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.02-22.07.34:055][890]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.02-22.07.34:055][890]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.02-22.07.34:055][890]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.02-22.07.34:055][890]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.02-22.07.34:055][890]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.02-22.07.34:055][890]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.02-22.07.34:055][890]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.02-22.07.34:055][890]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.02-22.07.34:057][890]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.02-22.07.34:072][890]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2024.12.02-22.07.34:072][890]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.02-22.07.34:072][890]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.02-22.07.34:072][890]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.02-22.07.34:073][890]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2024.12.02-22.07.34:073][890]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=28
+[2024.12.02-22.07.34:075][890]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2024.12.02-22.07.34:075][890]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2024.12.02-22.07.34:075][890]LogInit: FAudioDevice initialized with ID 28.
+[2024.12.02-22.07.34:075][890]LogAudio: Display: Audio Device (ID: 28) registered with world 'MAP_CharacterSelect'.
+[2024.12.02-22.07.34:075][890]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2024.12.02-22.07.34:077][890]LogLoad: Game class is 'GM_CharSelection_C'
+[2024.12.02-22.07.34:078][890]LogWorld: Bringing World /Game/Level/UEDPIE_0_MAP_CharacterSelect.MAP_CharacterSelect up for play (max tick rate 0) at 2024.12.02-22.07.34
+[2024.12.02-22.07.34:079][890]LogWorld: Bringing up level for play took: 0.000965
+[2024.12.02-22.07.34:080][890]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.12.02-22.07.34:080][890]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.12.02-22.07.34:080][890]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.12.02-22.07.34:080][890]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.12.02-22.07.34:080][890]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.12.02-22.07.34:080][890]LogNet: GameNetDriver IpNetDriver_26 IpNetDriver listening on port 17777
+[2024.12.02-22.07.34:081][890]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.12.02-22.07.34:084][890]PIE: Server logged in
+[2024.12.02-22.07.34:085][890]PIE: Play in editor total start time 0.103 seconds.
+[2024.12.02-22.07.42:331][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.02-22.07.42:331][658]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MAP_CharacterSelect
+[2024.12.02-22.07.42:331][658]LogWorld: UWorld::CleanupWorld for MAP_CharacterSelect, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-22.07.42:332][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-22.07.42:333][658]LogNet: World NetDriver shutdown IpNetDriver_26 [GameNetDriver]
+[2024.12.02-22.07.42:333][658]LogNet: DestroyNamedNetDriver IpNetDriver_26 [GameNetDriver]
+[2024.12.02-22.07.42:333][658]LogExit: GameNetDriver IpNetDriver_26 shut down
+[2024.12.02-22.07.42:335][658]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.02-22.07.42:340][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-22.07.42:356][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.02-22.07.42:356][658]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2024.12.02-22.07.42:357][658]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2024.12.02-22.07.42:358][658]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2024.12.02-22.07.42:367][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.12.02-22.07.42:428][659]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2024.12.02-22.07.44:518][878]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.02-22.07.44:528][878]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.02-22.07.44:528][878]PIE: New page: PIE session: MAP_CharacterSelect (2 Dec 2024, 22:07:44)
+[2024.12.02-22.07.44:560][878]LogPlayLevel: Display: Creating online subsystem for client :Context_41
+[2024.12.02-22.07.44:562][878]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2024.12.02-22.07.44:572][879]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MAP_CharacterSelect
+[2024.12.02-22.07.44:576][879]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004083s)
+[2024.12.02-22.07.44:576][879]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MAP_CharacterSelect.MAP_CharacterSelect to /Game/Level/UEDPIE_0_MAP_CharacterSelect.MAP_CharacterSelect (0.004119s)
+[2024.12.02-22.07.44:589][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.12.02-22.07.44:593][879]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-22.07.44:593][879]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-22.07.44:593][879]LogAIModule: Creating AISystem for world MAP_CharacterSelect
+[2024.12.02-22.07.44:593][879]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2024.12.02-22.07.44:593][879]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2024.12.02-22.07.44:593][879]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.02-22.07.44:593][879]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.02-22.07.44:593][879]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.02-22.07.44:593][879]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.02-22.07.44:593][879]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.02-22.07.44:593][879]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.02-22.07.44:594][879]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.02-22.07.44:594][879]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.02-22.07.44:594][879]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.02-22.07.44:594][879]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.02-22.07.44:594][879]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.02-22.07.44:596][879]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.02-22.07.44:610][879]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2024.12.02-22.07.44:610][879]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.02-22.07.44:610][879]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.02-22.07.44:610][879]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.02-22.07.44:611][879]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2024.12.02-22.07.44:611][879]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=29
+[2024.12.02-22.07.44:613][879]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2024.12.02-22.07.44:613][879]LogInit: FAudioDevice initialized with ID 29.
+[2024.12.02-22.07.44:613][879]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2024.12.02-22.07.44:613][879]LogAudio: Display: Audio Device (ID: 29) registered with world 'MAP_CharacterSelect'.
+[2024.12.02-22.07.44:613][879]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2024.12.02-22.07.44:616][879]LogLoad: Game class is 'GM_CharSelection_C'
+[2024.12.02-22.07.44:616][879]LogWorld: Bringing World /Game/Level/UEDPIE_0_MAP_CharacterSelect.MAP_CharacterSelect up for play (max tick rate 0) at 2024.12.02-22.07.44
+[2024.12.02-22.07.44:617][879]LogWorld: Bringing up level for play took: 0.000974
+[2024.12.02-22.07.44:618][879]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.12.02-22.07.44:618][879]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.12.02-22.07.44:618][879]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.12.02-22.07.44:618][879]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.12.02-22.07.44:618][879]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.12.02-22.07.44:618][879]LogNet: GameNetDriver IpNetDriver_27 IpNetDriver listening on port 17777
+[2024.12.02-22.07.44:619][879]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.12.02-22.07.44:622][879]PIE: Server logged in
+[2024.12.02-22.07.44:623][879]PIE: Play in editor total start time 0.095 seconds.
+[2024.12.02-22.07.48:070][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.02-22.07.48:071][185]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MAP_CharacterSelect
+[2024.12.02-22.07.48:071][185]LogWorld: UWorld::CleanupWorld for MAP_CharacterSelect, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-22.07.48:071][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-22.07.48:072][185]LogNet: World NetDriver shutdown IpNetDriver_27 [GameNetDriver]
+[2024.12.02-22.07.48:072][185]LogNet: DestroyNamedNetDriver IpNetDriver_27 [GameNetDriver]
+[2024.12.02-22.07.48:072][185]LogExit: GameNetDriver IpNetDriver_27 shut down
+[2024.12.02-22.07.48:074][185]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.02-22.07.48:079][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-22.07.48:094][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.02-22.07.48:094][185]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2024.12.02-22.07.48:095][185]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2024.12.02-22.07.48:096][185]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2024.12.02-22.07.48:103][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.12.02-22.07.48:165][186]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2024.12.02-22.08.10:768][601]LogShaderCompilers: Display: ================================================
+[2024.12.02-22.08.10:768][601]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.02-22.08.10:768][601]LogShaderCompilers: Display: Total job queries 242, among them cache hits 13 (5.37%)
+[2024.12.02-22.08.10:768][601]LogShaderCompilers: Display: Tracking 202 distinct input hashes that result in 120 distinct outputs (59.41%)
+[2024.12.02-22.08.10:768][601]LogShaderCompilers: Display: RAM used: 4.64 MiB of 1.60 GiB budget. Usage: 0.28%
+[2024.12.02-22.08.10:768][601]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.02-22.08.10:768][601]LogShaderCompilers: Display: Shaders Compiled: 202
+[2024.12.02-22.08.10:768][601]LogShaderCompilers: Display: Jobs assigned 205, completed 202 (98.54%)
+[2024.12.02-22.08.10:768][601]LogShaderCompilers: Display: Average time worker was idle: 107.91 s
+[2024.12.02-22.08.10:768][601]LogShaderCompilers: Display: Time job spent in pending queue: average 0.31 s, longest 2.26 s
+[2024.12.02-22.08.10:768][601]LogShaderCompilers: Display: Job execution time: average 0.38 s, max 1.08 s
+[2024.12.02-22.08.10:768][601]LogShaderCompilers: Display: Job life time (pending + execution): average 0.69 s, max 2.87
+[2024.12.02-22.08.10:768][601]LogShaderCompilers: Display: Shader code size: average 38.003 KiB, min 3.559 KiB, max 95.887 KiB
+[2024.12.02-22.08.10:768][601]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 19.01 s
+[2024.12.02-22.08.10:768][601]LogShaderCompilers: Display: Jobs were issued in 205 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.02-22.08.10:768][601]LogShaderCompilers: Display: Average processing rate: 10.62 jobs/sec
+[2024.12.02-22.08.10:768][601]LogShaderCompilers: Display: Total thread time: 51.287 s
+[2024.12.02-22.08.10:768][601]LogShaderCompilers: Display: Total thread preprocess time: 6.531 s
+[2024.12.02-22.08.10:768][601]LogShaderCompilers: Display: Percentage time preprocessing: 12.73%
+[2024.12.02-22.08.10:768][601]LogShaderCompilers: Display: Effective parallelization: 2.70 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.02-22.08.10:768][601]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.02-22.08.10:768][601]LogShaderCompilers: Display:                        FLumenTranslucencyRadianceCacheMarkVS (compiled    1 times, average 0.49 sec, max 0.49 sec, min 0.49 sec)
+[2024.12.02-22.08.10:768][601]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled    1 times, average 0.49 sec, max 0.49 sec, min 0.49 sec)
+[2024.12.02-22.08.10:768][601]LogShaderCompilers: Display:                        FLumenFrontLayerTranslucencyGBufferVS (compiled    1 times, average 0.47 sec, max 0.47 sec, min 0.47 sec)
+[2024.12.02-22.08.10:768][601]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    3 times, average 0.42 sec, max 0.55 sec, min 0.22 sec)
+[2024.12.02-22.08.10:768][601]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    4 times, average 0.30 sec, max 0.39 sec, min 0.26 sec)
+[2024.12.02-22.08.10:768][601]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.02-22.08.10:768][601]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 28.28% of total time (compiled   51 times, average 0.28 sec, max 0.66 sec, min 0.17 sec)
+[2024.12.02-22.08.10:768][601]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 26.34% of total time (compiled   48 times, average 0.28 sec, max 0.41 sec, min 0.18 sec)
+[2024.12.02-22.08.10:768][601]LogShaderCompilers: Display:                                                 FLumenCardVS - 16.41% of total time (compiled   33 times, average 0.26 sec, max 0.40 sec, min 0.17 sec)
+[2024.12.02-22.08.10:769][601]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 8.20% of total time (compiled   33 times, average 0.13 sec, max 0.32 sec, min 0.08 sec)
+[2024.12.02-22.08.10:769][601]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 2.43% of total time (compiled    3 times, average 0.42 sec, max 0.55 sec, min 0.22 sec)
+[2024.12.02-22.08.10:769][601]LogShaderCompilers: Display: ================================================
+[2024.12.02-22.08.11:194][628]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-22.08.11:221][629]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-22.08.11:323][633]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-22.08.11:364][634]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-22.08.11:435][635]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-22.08.11:549][638]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-22.08.11:652][641]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-22.08.13:221][767]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-22.08.13:249][768]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-22.08.15:645][943]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/GI_MainGameInstance.GI_MainGameInstance
+[2024.12.02-22.08.15:646][943]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-22.08.15:646][943]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-22.08.15:794][945]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-22.08.26:139][145]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.02-22.08.26:187][145]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/GI_MainGameInstance
+[2024.12.02-22.08.26:188][145]LogSavePackage: Moving 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Saved/GI_MainGameInstance861AB732430A7CB9B558548D329A90E6.tmp' to 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Blueprints/GI_MainGameInstance.uasset'
+[2024.12.02-22.08.26:196][145]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 3.95 sec)
+[2024.12.02-22.08.26:197][145]AssetCheck: New page: Asset Save: GI_MainGameInstance
+[2024.12.02-22.08.26:197][145]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/GI_MainGameInstance.GI_MainGameInstance
+[2024.12.02-22.08.27:378][247]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.02-22.08.27:388][247]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.02-22.08.27:388][247]PIE: New page: PIE session: MAP_CharacterSelect (2 Dec 2024, 22:08:27)
+[2024.12.02-22.08.27:409][247]LogPlayLevel: Display: Creating online subsystem for client :Context_53
+[2024.12.02-22.08.27:411][247]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2024.12.02-22.08.27:423][248]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MAP_CharacterSelect
+[2024.12.02-22.08.27:428][248]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004971s)
+[2024.12.02-22.08.27:428][248]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MAP_CharacterSelect.MAP_CharacterSelect to /Game/Level/UEDPIE_0_MAP_CharacterSelect.MAP_CharacterSelect (0.005015s)
+[2024.12.02-22.08.27:443][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.12.02-22.08.27:447][248]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-22.08.27:447][248]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-22.08.27:448][248]LogAIModule: Creating AISystem for world MAP_CharacterSelect
+[2024.12.02-22.08.27:448][248]LogPlayLevel: PIE: World Init took: (0.000859s)
+[2024.12.02-22.08.27:448][248]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2024.12.02-22.08.27:448][248]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.02-22.08.27:448][248]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.02-22.08.27:448][248]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.02-22.08.27:448][248]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.02-22.08.27:448][248]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.02-22.08.27:448][248]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.02-22.08.27:448][248]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.02-22.08.27:448][248]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.02-22.08.27:448][248]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.02-22.08.27:448][248]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.02-22.08.27:448][248]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.02-22.08.27:450][248]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.02-22.08.27:465][248]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2024.12.02-22.08.27:466][248]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.02-22.08.27:466][248]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.02-22.08.27:466][248]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.02-22.08.27:467][248]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2024.12.02-22.08.27:467][248]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=30
+[2024.12.02-22.08.27:469][248]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2024.12.02-22.08.27:469][248]LogInit: FAudioDevice initialized with ID 30.
+[2024.12.02-22.08.27:469][248]LogAudio: Display: Audio Device (ID: 30) registered with world 'MAP_CharacterSelect'.
+[2024.12.02-22.08.27:469][248]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2024.12.02-22.08.27:469][248]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2024.12.02-22.08.27:472][248]LogLoad: Game class is 'GM_CharSelection_C'
+[2024.12.02-22.08.27:473][248]LogWorld: Bringing World /Game/Level/UEDPIE_0_MAP_CharacterSelect.MAP_CharacterSelect up for play (max tick rate 0) at 2024.12.02-22.08.27
+[2024.12.02-22.08.27:473][248]LogWorld: Bringing up level for play took: 0.000898
+[2024.12.02-22.08.27:474][248]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.12.02-22.08.27:474][248]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.12.02-22.08.27:474][248]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.12.02-22.08.27:474][248]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.12.02-22.08.27:474][248]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.12.02-22.08.27:474][248]LogNet: GameNetDriver IpNetDriver_28 IpNetDriver listening on port 17777
+[2024.12.02-22.08.27:475][248]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.12.02-22.08.27:478][248]PIE: Server logged in
+[2024.12.02-22.08.27:479][248]PIE: Play in editor total start time 0.091 seconds.
+[2024.12.02-22.08.28:850][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.02-22.08.28:850][310]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MAP_CharacterSelect
+[2024.12.02-22.08.28:850][310]LogWorld: UWorld::CleanupWorld for MAP_CharacterSelect, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-22.08.28:851][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-22.08.28:852][310]LogNet: World NetDriver shutdown IpNetDriver_28 [GameNetDriver]
+[2024.12.02-22.08.28:852][310]LogNet: DestroyNamedNetDriver IpNetDriver_28 [GameNetDriver]
+[2024.12.02-22.08.28:852][310]LogExit: GameNetDriver IpNetDriver_28 shut down
+[2024.12.02-22.08.28:854][310]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.02-22.08.28:859][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-22.08.28:871][310]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.02-22.08.28:871][310]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2024.12.02-22.08.28:872][310]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2024.12.02-22.08.28:873][310]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2024.12.02-22.08.28:877][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.02-22.08.28:881][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.12.02-22.08.28:941][311]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2024.12.02-22.08.53:421][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.12.02-22.08.53:423][491]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/MAP_CharacterSelect' took 0.016
+[2024.12.02-22.08.53:424][491]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Inported/CharSelectImages/TheHeavyWeight] ([1] browsable assets)...
+[2024.12.02-22.08.53:426][491]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Inported/CharSelectImages/TheHeavyWeight.TheHeavyWeight]
+[2024.12.02-22.08.53:426][491]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inported/CharSelectImages/TheHeavyWeight]
+[2024.12.02-22.08.53:431][491]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inported/CharSelectImages/TheHeavyWeight_Auto2
+[2024.12.02-22.08.53:431][491]LogSavePackage: Moving 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Saved/TheHeavyWeight_Auto27EF2575B47F4F9E2EF58299F6FCE086C.tmp' to 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Saved/Autosaves/Game/Inported/CharSelectImages/TheHeavyWeight_Auto2.uasset'
+[2024.12.02-22.08.53:432][491]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Inported/CharSelectImages/TheMavka] ([1] browsable assets)...
+[2024.12.02-22.08.53:433][491]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Inported/CharSelectImages/TheMavka.TheMavka]
+[2024.12.02-22.08.53:433][491]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inported/CharSelectImages/TheMavka]
+[2024.12.02-22.08.53:437][491]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inported/CharSelectImages/TheMavka_Auto2
+[2024.12.02-22.08.53:437][491]LogSavePackage: Moving 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Saved/TheMavka_Auto206A7333F422E847B4C33DAB04E080832.tmp' to 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Saved/Autosaves/Game/Inported/CharSelectImages/TheMavka_Auto2.uasset'
+[2024.12.02-22.08.53:438][491]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Inported/CharSelectImages/TheMonk] ([1] browsable assets)...
+[2024.12.02-22.08.53:440][491]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Inported/CharSelectImages/TheMonk.TheMonk]
+[2024.12.02-22.08.53:440][491]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inported/CharSelectImages/TheMonk]
+[2024.12.02-22.08.53:444][491]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inported/CharSelectImages/TheMonk_Auto2
+[2024.12.02-22.08.53:444][491]LogSavePackage: Moving 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Saved/TheMonk_Auto242E678F64F6C30E212ACE797DA347F7E.tmp' to 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Saved/Autosaves/Game/Inported/CharSelectImages/TheMonk_Auto2.uasset'
+[2024.12.02-22.08.53:445][491]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Inported/CharSelectImages/TheMerk] ([1] browsable assets)...
+[2024.12.02-22.08.53:447][491]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Inported/CharSelectImages/TheMerk.TheMerk]
+[2024.12.02-22.08.53:447][491]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inported/CharSelectImages/TheMerk]
+[2024.12.02-22.08.53:451][491]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inported/CharSelectImages/TheMerk_Auto2
+[2024.12.02-22.08.53:451][491]LogSavePackage: Moving 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Saved/TheMerk_Auto2A289CAD046F1EE44708E5DB19D01D8BE.tmp' to 'F:/UNREAL/git11/Bludgeons--Flagons/BludgeonsFlagons/Saved/Autosaves/Game/Inported/CharSelectImages/TheMerk_Auto2.uasset'
+[2024.12.02-22.08.53:451][491]LogFileHelpers: Auto-saving content packages took 0.028
