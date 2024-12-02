@@ -4996,3 +4996,765 @@ Would you like to regenerate the Skeleton from this mesh?
 [2024.12.02-12.53.20:191][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2024.12.02-12.53.20:229][ 34]LogWorld: UWorld::CleanupWorld for World_161, bSessionEnded=true, bCleanupResources=true
 [2024.12.02-12.53.20:229][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-12.54.55:227][135]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.12.02-12.55.43:325][356]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-12.55.45:740][615]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Widgets/WB_MaInMenu.WB_MaInMenu
+[2024.12.02-12.55.45:740][615]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-12.55.45:740][615]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-12.55.45:748][615]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-12.55.45:748][615]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-12.55.53:078][460]LogWindows: Warning: OpenClipboard failed with error code 5
+[2024.12.02-12.56.29:437][709]BlueprintLog: New page: Compile WB_MaInMenu
+[2024.12.02-12.56.29:439][709]LogBlueprint: Error: [AssetLog] D:\UNREAL\git9\Bludgeons--Flagons\BludgeonsFlagons\Content\ThirdPerson\Widgets\WB_MaInMenu.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2024.12.02-12.56.29:458][709]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.12.02-12.56.32:506][ 61]BlueprintLog: New page: Compile WB_MaInMenu
+[2024.12.02-12.56.32:522][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.12.02-12.56.41:988][ 77]BlueprintLog: New page: Compile WB_MaInMenu
+[2024.12.02-12.56.42:002][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.12.02-12.56.42:656][144]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.02-12.56.42:707][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Widgets/WB_MaInMenu" FILE="D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_MaInMenu.uasset" SILENT=true
+[2024.12.02-12.56.42:716][144]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Widgets/WB_MaInMenu
+[2024.12.02-12.56.42:716][144]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/WB_MaInMenuD2284DC04F614451BE402EB6D86FBE10.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_MaInMenu.uasset'
+[2024.12.02-12.56.42:722][144]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 5.56 sec)
+[2024.12.02-12.56.42:722][144]AssetCheck: New page: Asset Save: WB_MaInMenu
+[2024.12.02-12.56.42:722][144]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Widgets/WB_MaInMenu.WB_MaInMenu
+[2024.12.02-12.57.00:863][192]BlueprintLog: New page: Compile WB_MaInMenu
+[2024.12.02-12.57.00:864][192]LogBlueprint: Error: [AssetLog] D:\UNREAL\git9\Bludgeons--Flagons\BludgeonsFlagons\Content\ThirdPerson\Widgets\WB_MaInMenu.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2024.12.02-12.57.00:878][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.12.02-12.57.03:934][533]BlueprintLog: New page: Compile WB_MaInMenu
+[2024.12.02-12.57.03:949][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.12.02-12.57.04:567][594]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.02-12.57.04:625][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Widgets/WB_MaInMenu" FILE="D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_MaInMenu.uasset" SILENT=true
+[2024.12.02-12.57.04:633][594]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Widgets/WB_MaInMenu
+[2024.12.02-12.57.04:634][594]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/WB_MaInMenu50D3DBB643D60198CF7A8BAC9BAF6AEE.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_MaInMenu.uasset'
+[2024.12.02-12.57.04:640][594]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 5.64 sec)
+[2024.12.02-12.57.04:641][594]AssetCheck: New page: Asset Save: WB_MaInMenu
+[2024.12.02-12.57.04:641][594]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Widgets/WB_MaInMenu.WB_MaInMenu
+[2024.12.02-12.57.57:102][256]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.12.02-12.57.57:102][256]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.12.02-12.58.33:032][566]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.12.02-12.58.54:029][656]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.12.02-12.59.01:016][ 92]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.12.02-12.59.01:019][ 92]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.12.02-12.59.01:024][ 92]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.12.02-12.59.01:038][ 93]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.12.02-12.59.07:455][858]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WB_Score
+[2024.12.02-12.59.07:458][858]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.12.02-12.59.10:324][193]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Widgets/WB_Score.WB_Score
+[2024.12.02-12.59.10:324][193]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-12.59.10:324][193]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-12.59.10:332][193]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-12.59.10:332][193]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-12.59.14:095][589]LogSlate: Window 'WB_Score' being destroyed
+[2024.12.02-12.59.21:661][485]BlueprintLog: New page: Compile WB_Score
+[2024.12.02-12.59.21:679][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.12.02-12.59.22:146][528]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.02-12.59.22:193][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Widgets/WB_Score" FILE="D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_Score.uasset" SILENT=true
+[2024.12.02-12.59.22:197][528]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Widgets/WB_Score
+[2024.12.02-12.59.22:197][528]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/WB_Score533E07194349AC8EB168FDA4247F5682.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_Score.uasset'
+[2024.12.02-12.59.22:204][528]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 5.70 sec)
+[2024.12.02-12.59.22:205][528]AssetCheck: New page: Asset Save: WB_Score
+[2024.12.02-12.59.22:205][528]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Widgets/WB_Score.WB_Score
+[2024.12.02-12.59.43:984][ 59]BlueprintLog: New page: Compile WB_Score
+[2024.12.02-12.59.43:999][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.12.02-12.59.44:663][128]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.02-12.59.44:696][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Widgets/WB_Score" FILE="D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_Score.uasset" SILENT=true
+[2024.12.02-12.59.44:700][128]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Widgets/WB_Score
+[2024.12.02-12.59.44:700][128]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/WB_Score0EAECEE0448647CC833EB59463177487.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_Score.uasset'
+[2024.12.02-12.59.44:705][128]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 5.74 sec)
+[2024.12.02-12.59.44:706][128]AssetCheck: New page: Asset Save: WB_Score
+[2024.12.02-12.59.44:706][128]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Widgets/WB_Score.WB_Score
+[2024.12.02-12.59.49:634][706]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.02-12.59.49:680][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Widgets/WB_Score" FILE="D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_Score.uasset" SILENT=true
+[2024.12.02-12.59.49:684][706]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Widgets/WB_Score
+[2024.12.02-12.59.49:685][706]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/WB_Score44FC970442E3F040121E5FAA752D7AA6.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_Score.uasset'
+[2024.12.02-12.59.49:690][706]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 5.79 sec)
+[2024.12.02-12.59.49:691][706]AssetCheck: New page: Asset Save: WB_Score
+[2024.12.02-12.59.49:691][706]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Widgets/WB_Score.WB_Score
+[2024.12.02-13.00.08:834][952]LogSlate: Window 'Color Picker' being destroyed
+[2024.12.02-13.00.19:956][255]LogSlate: Window 'Color Picker' being destroyed
+[2024.12.02-13.01.07:379][794]LogShaderCompilers: Display: ================================================
+[2024.12.02-13.01.07:380][794]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.02-13.01.07:380][794]LogShaderCompilers: Display: Total job queries 2,061, among them cache hits 1,118 (54.25%)
+[2024.12.02-13.01.07:380][794]LogShaderCompilers: Display: Tracking 384 distinct input hashes that result in 153 distinct outputs (39.84%)
+[2024.12.02-13.01.07:380][794]LogShaderCompilers: Display: RAM used: 8.93 MiB of 1.60 GiB budget. Usage: 0.55%
+[2024.12.02-13.01.07:380][794]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.02-13.01.07:380][794]LogShaderCompilers: Display: Shaders Compiled: 384
+[2024.12.02-13.01.07:380][794]LogShaderCompilers: Display: Jobs assigned 387, completed 384 (99.22%)
+[2024.12.02-13.01.07:380][794]LogShaderCompilers: Display: Average time worker was idle: 148.37 s
+[2024.12.02-13.01.07:380][794]LogShaderCompilers: Display: Time job spent in pending queue: average 0.17 s, longest 1.30 s
+[2024.12.02-13.01.07:380][794]LogShaderCompilers: Display: Job execution time: average 0.27 s, max 0.83 s
+[2024.12.02-13.01.07:380][794]LogShaderCompilers: Display: Job life time (pending + execution): average 0.44 s, max 1.61
+[2024.12.02-13.01.07:380][794]LogShaderCompilers: Display: Shader code size: average 39.728 KiB, min 4.359 KiB, max 95.887 KiB
+[2024.12.02-13.01.07:380][794]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 22.78 s
+[2024.12.02-13.01.07:380][794]LogShaderCompilers: Display: Jobs were issued in 361 batches (only local compilation was used), average 1.07 jobs/batch
+[2024.12.02-13.01.07:380][794]LogShaderCompilers: Display: Average processing rate: 16.86 jobs/sec
+[2024.12.02-13.01.07:380][794]LogShaderCompilers: Display: Total thread time: 54.264 s
+[2024.12.02-13.01.07:380][794]LogShaderCompilers: Display: Total thread preprocess time: 5.761 s
+[2024.12.02-13.01.07:380][794]LogShaderCompilers: Display: Percentage time preprocessing: 10.62%
+[2024.12.02-13.01.07:380][794]LogShaderCompilers: Display: Effective parallelization: 2.38 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.02-13.01.07:380][794]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.02-13.01.07:380][794]LogShaderCompilers: Display:                        FLumenFrontLayerTranslucencyGBufferVS (compiled    1 times, average 0.26 sec, max 0.26 sec, min 0.26 sec)
+[2024.12.02-13.01.07:380][794]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 0.26 sec, max 0.26 sec, min 0.26 sec)
+[2024.12.02-13.01.07:380][794]LogShaderCompilers: Display:                        FLumenTranslucencyRadianceCacheMarkVS (compiled    1 times, average 0.25 sec, max 0.25 sec, min 0.25 sec)
+[2024.12.02-13.01.07:380][794]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2024.12.02-13.01.07:380][794]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    1 times, average 0.20 sec, max 0.20 sec, min 0.20 sec)
+[2024.12.02-13.01.07:380][794]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.02-13.01.07:380][794]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 19.83% of total time (compiled   73 times, average 0.15 sec, max 0.35 sec, min 0.11 sec)
+[2024.12.02-13.01.07:380][794]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 19.68% of total time (compiled   71 times, average 0.15 sec, max 0.25 sec, min 0.10 sec)
+[2024.12.02-13.01.07:380][794]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.27% of total time (compiled   43 times, average 0.14 sec, max 0.21 sec, min 0.11 sec)
+[2024.12.02-13.01.07:380][794]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 5.26% of total time (compiled   43 times, average 0.07 sec, max 0.10 sec, min 0.05 sec)
+[2024.12.02-13.01.07:380][794]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 3.99% of total time (compiled   13 times, average 0.17 sec, max 0.27 sec, min 0.13 sec)
+[2024.12.02-13.01.07:380][794]LogShaderCompilers: Display: ================================================
+[2024.12.02-13.01.12:381][302]LogTexture: Display: Building textures: /Game/Inported/IconPack/Xbox_Series/XboxSeriesX_Dpad_Left.XboxSeriesX_Dpad_Left (TFO_AutoDXT, 100x100 x1x1x1) (Required Memory Estimate: 1.639203 MB), EncodeSpeed: Fast
+[2024.12.02-13.01.26:900][992]BlueprintLog: New page: Compile WB_Score
+[2024.12.02-13.01.26:917][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.12.02-13.01.27:633][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.02-13.01.27:684][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Widgets/WB_Score" FILE="D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_Score.uasset" SILENT=true
+[2024.12.02-13.01.27:699][ 66]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Widgets/WB_Score
+[2024.12.02-13.01.27:699][ 66]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/WB_Score37F1F05C438921C97B0F979A97A40977.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_Score.uasset'
+[2024.12.02-13.01.27:705][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 5.87 sec)
+[2024.12.02-13.01.27:706][ 66]AssetCheck: New page: Asset Save: WB_Score
+[2024.12.02-13.01.27:706][ 66]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Widgets/WB_Score.WB_Score
+[2024.12.02-13.02.38:192][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.12.02-13.02.38:194][587]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/MAP_Fighting_Stage' took 0.013
+[2024.12.02-13.02.38:194][587]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Widgets/WB_Score] ([2] browsable assets)...
+[2024.12.02-13.02.38:209][587]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ThirdPerson/Widgets/WB_Score.WB_Score]
+[2024.12.02-13.02.38:209][587]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Widgets/WB_Score]
+[2024.12.02-13.02.38:214][587]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Widgets/WB_Score_Auto7
+[2024.12.02-13.02.38:214][587]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/WB_Score_Auto7E41A1B144FA140781276AA97AA6256C0.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Autosaves/Game/ThirdPerson/Widgets/WB_Score_Auto7.uasset'
+[2024.12.02-13.02.38:214][587]LogFileHelpers: Auto-saving content packages took 0.020
+[2024.12.02-13.03.16:304][133]BlueprintLog: New page: Compile WB_MaInMenu
+[2024.12.02-13.03.16:320][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.12.02-13.03.16:978][197]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.02-13.03.17:028][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Widgets/WB_MaInMenu" FILE="D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_MaInMenu.uasset" SILENT=true
+[2024.12.02-13.03.17:036][197]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Widgets/WB_MaInMenu
+[2024.12.02-13.03.17:038][197]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/WB_MaInMenuA88A987C4599F299DD907ABDD63FAC3F.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_MaInMenu.uasset'
+[2024.12.02-13.03.17:044][197]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 5.93 sec)
+[2024.12.02-13.03.17:045][197]AssetCheck: New page: Asset Save: WB_MaInMenu
+[2024.12.02-13.03.17:045][197]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Widgets/WB_MaInMenu.WB_MaInMenu
+[2024.12.02-13.03.54:226][493]BlueprintLog: New page: Compile WB_Score
+[2024.12.02-13.03.54:243][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.12.02-13.03.55:017][572]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.02-13.03.55:061][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Widgets/WB_Score" FILE="D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_Score.uasset" SILENT=true
+[2024.12.02-13.03.55:074][572]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Widgets/WB_Score
+[2024.12.02-13.03.55:074][572]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/WB_Score4F98552C416F1FA2131C1EA85FF85B02.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_Score.uasset'
+[2024.12.02-13.03.55:079][572]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 6.00 sec)
+[2024.12.02-13.03.55:080][572]AssetCheck: New page: Asset Save: WB_Score
+[2024.12.02-13.03.55:080][572]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Widgets/WB_Score.WB_Score
+[2024.12.02-13.04.05:797][823]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.12.02-13.04.06:634][823]LogSlate: Window 'Save Content' being destroyed
+[2024.12.02-13.04.06:641][823]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.02-13.04.06:686][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/merc/3DM_mercenary_low" FILE="D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/merc/3DM_mercenary_low.uasset" SILENT=true
+[2024.12.02-13.04.07:091][823]LogSavePackage: Moving output files for package: /Game/Characters/merc/3DM_mercenary_low
+[2024.12.02-13.04.07:091][823]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/3DM_mercenary_lowE73FD5E343F38F4F58233B889E04E5F4.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/merc/3DM_mercenary_low.uasset'
+[2024.12.02-13.04.07:093][823]LogSavePackage: Moving output files for package: /Game/Characters/merc/3DM_mercenary_low_PhysicsAsset
+[2024.12.02-13.04.07:093][823]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/3DM_mercenary_low_PhysicsAssetFC1F04FA42661C41D226929BE5A2C902.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/merc/3DM_mercenary_low_PhysicsAsset.uasset'
+[2024.12.02-13.04.07:096][823]LogSavePackage: Moving output files for package: /Game/Characters/merc/3DM_mercenary_low_Skeleton
+[2024.12.02-13.04.07:096][823]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/3DM_mercenary_low_SkeletonDA95CAAA48567623B2D1ED9ABFCC691C.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/merc/3DM_mercenary_low_Skeleton.uasset'
+[2024.12.02-13.04.07:098][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Braum/aiStandardSurface1" FILE="D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/Braum/aiStandardSurface1.uasset" SILENT=true
+[2024.12.02-13.04.07:101][823]LogSavePackage: Moving output files for package: /Game/Characters/Braum/aiStandardSurface1
+[2024.12.02-13.04.07:101][823]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/aiStandardSurface1DFDDE82F480AF667D38D7889BDDA24EC.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/Braum/aiStandardSurface1.uasset'
+[2024.12.02-13.04.07:103][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/monk/AnzoSkin" FILE="D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/monk/AnzoSkin.uasset" SILENT=true
+[2024.12.02-13.04.07:105][823]LogSavePackage: Moving output files for package: /Game/Characters/monk/AnzoSkin
+[2024.12.02-13.04.07:105][823]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/AnzoSkinF8C579EC48C0C3D0B68DD4B08C61F76B.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/monk/AnzoSkin.uasset'
+[2024.12.02-13.04.07:146][823]LogSavePackage: Moving output files for package: /Game/Characters/Braum/HammerTextures/Bodvar_hammer_standardSurface1_BaseColor
+[2024.12.02-13.04.07:146][823]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Bodvar_hammer_standardSurface1_B8805DF1E4D402B561C96BA9D41DBC218.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/Braum/HammerTextures/Bodvar_hammer_standardSurface1_BaseColor.uasset'
+[2024.12.02-13.04.07:209][823]LogSavePackage: Moving output files for package: /Game/Characters/Braum/HammerTextures/Bodvar_hammer_standardSurface1_Normal
+[2024.12.02-13.04.07:209][823]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Bodvar_hammer_standardSurface1_N6AFC96F24F6230EE523709A6FA44C15F.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/Braum/HammerTextures/Bodvar_hammer_standardSurface1_Normal.uasset'
+[2024.12.02-13.04.07:248][823]LogSavePackage: Moving output files for package: /Game/Characters/Braum/HammerTextures/Bodvar_hammer_standardSurface1_OcclusionRoughnessMetallic
+[2024.12.02-13.04.07:248][823]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Bodvar_hammer_standardSurface1_OF368D0624E698A29A916DFAA50209F33.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/Braum/HammerTextures/Bodvar_hammer_standardSurface1_OcclusionRoughnessMetallic.uasset'
+[2024.12.02-13.04.07:410][823]LogSavePackage: Moving output files for package: /Game/Characters/Braum/textures/bodvar_lowpoly_test_standardSurface1_BaseColor
+[2024.12.02-13.04.07:410][823]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/bodvar_lowpoly_test_standardSurf50C305924455964DDB993190376FE6FB.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/Braum/textures/bodvar_lowpoly_test_standardSurface1_BaseColor.uasset'
+[2024.12.02-13.04.07:499][823]LogSavePackage: Moving output files for package: /Game/Characters/Braum/textures/bodvar_lowpoly_test_standardSurface1_Normal
+[2024.12.02-13.04.07:499][823]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/bodvar_lowpoly_test_standardSurfAE2BB6B7425422970CB41CAD302D373E.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/Braum/textures/bodvar_lowpoly_test_standardSurface1_Normal.uasset'
+[2024.12.02-13.04.07:564][823]LogSavePackage: Moving output files for package: /Game/Characters/Braum/textures/bodvar_lowpoly_test_standardSurface1_OcclusionRoughnessMetallic
+[2024.12.02-13.04.07:564][823]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/bodvar_lowpoly_test_standardSurfF43A01874B365E61F3FD3BBF18323BBA.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/Braum/textures/bodvar_lowpoly_test_standardSurface1_OcclusionRoughnessMetallic.uasset'
+[2024.12.02-13.04.07:565][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Braum/Bodvar_unrigged" FILE="D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/Braum/Bodvar_unrigged.uasset" SILENT=true
+[2024.12.02-13.04.07:697][823]LogSavePackage: Moving output files for package: /Game/Characters/Braum/Bodvar_unrigged
+[2024.12.02-13.04.07:697][823]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Bodvar_unrigged9551BF3E4F6A0AFE6978C094878028BA.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/Braum/Bodvar_unrigged.uasset'
+[2024.12.02-13.04.07:700][823]LogSavePackage: Moving output files for package: /Game/Characters/Braum/Bodvar_unrigged_PhysicsAsset
+[2024.12.02-13.04.07:700][823]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Bodvar_unrigged_PhysicsAssetD019A4E842C84F578564EA89627F8D34.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/Braum/Bodvar_unrigged_PhysicsAsset.uasset'
+[2024.12.02-13.04.07:704][823]LogSavePackage: Moving output files for package: /Game/Characters/Braum/Bodvar_unrigged_Skeleton
+[2024.12.02-13.04.07:704][823]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Bodvar_unrigged_SkeletonAFB33CDB445A62801C1B0197B50E1EE5.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/Braum/Bodvar_unrigged_Skeleton.uasset'
+[2024.12.02-13.04.07:790][823]LogSavePackage: Moving output files for package: /Game/Characters/monk/textures/eyes/eye_low_Base_color
+[2024.12.02-13.04.07:790][823]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/eye_low_Base_color3FF1C16C42F7F960B5C288B571EFB9B6.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/monk/textures/eyes/eye_low_Base_color.uasset'
+[2024.12.02-13.04.07:816][823]LogSavePackage: Moving output files for package: /Game/Characters/monk/textures/eyes/eye_low_Height
+[2024.12.02-13.04.07:817][823]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/eye_low_HeightD6E54D6446711B450C03239F277F1D66.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/monk/textures/eyes/eye_low_Height.uasset'
+[2024.12.02-13.04.07:831][823]LogSavePackage: Moving output files for package: /Game/Characters/monk/textures/eyes/eye_low_Metallic
+[2024.12.02-13.04.07:831][823]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/eye_low_Metallic3CEB015C44A081A1A0D326ADA2B92242.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/monk/textures/eyes/eye_low_Metallic.uasset'
+[2024.12.02-13.04.07:908][823]LogSavePackage: Moving output files for package: /Game/Characters/monk/textures/eyes/eye_low_Normal
+[2024.12.02-13.04.07:908][823]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/eye_low_Normal8EB132B44ACDB3E4C74F20A32C3EEEF5.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/monk/textures/eyes/eye_low_Normal.uasset'
+[2024.12.02-13.04.07:987][823]LogSavePackage: Moving output files for package: /Game/Characters/monk/textures/eyes/eye_low_Roughness
+[2024.12.02-13.04.07:987][823]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/eye_low_Roughness5EC68CD7497D91D07C8ED69B88700675.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/monk/textures/eyes/eye_low_Roughness.uasset'
+[2024.12.02-13.04.07:988][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Braum/Fighting_Idle" FILE="D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/Braum/Fighting_Idle.uasset" SILENT=true
+[2024.12.02-13.04.08:091][823]LogSavePackage: Moving output files for package: /Game/Characters/Braum/Fighting_Idle
+[2024.12.02-13.04.08:091][823]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Fighting_IdleF3E7D59E4FFCDDCC132389946BB8DA57.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/Braum/Fighting_Idle.uasset'
+[2024.12.02-13.04.08:114][823]LogSavePackage: Moving output files for package: /Game/Characters/Braum/Fighting_Idle__1__mixamo_com
+[2024.12.02-13.04.08:114][823]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Fighting_Idle__1__mixamo_com8C20FAAA447429BF98D935AE73D3FF10.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/Braum/Fighting_Idle__1__mixamo_com.uasset'
+[2024.12.02-13.04.08:124][823]LogSavePackage: Moving output files for package: /Game/Characters/Braum/Fighting_Idle_PhysicsAsset
+[2024.12.02-13.04.08:124][823]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Fighting_Idle_PhysicsAsset829C471E4383BEDA1E08C089D2739186.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/Braum/Fighting_Idle_PhysicsAsset.uasset'
+[2024.12.02-13.04.08:125][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Braum/Fighting_Idle_Skeleton" FILE="D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/Braum/Fighting_Idle_Skeleton.uasset" SILENT=true
+[2024.12.02-13.04.08:128][823]LogSavePackage: Moving output files for package: /Game/Characters/Braum/Fighting_Idle_Skeleton
+[2024.12.02-13.04.08:128][823]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Fighting_Idle_SkeletonD865C4F14C106AB2C4FA94B3DBD97E87.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/Braum/Fighting_Idle_Skeleton.uasset'
+[2024.12.02-13.04.08:130][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/witch/Kosana_LowPoly" FILE="D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/witch/Kosana_LowPoly.uasset" SILENT=true
+[2024.12.02-13.04.08:453][823]LogSavePackage: Moving output files for package: /Game/Characters/witch/Kosana_LowPoly
+[2024.12.02-13.04.08:453][823]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Kosana_LowPolyFB516CB34C6534280A45ACADA69F1916.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/witch/Kosana_LowPoly.uasset'
+[2024.12.02-13.04.08:456][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/merc/mercenary_low" FILE="D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/merc/mercenary_low.uasset" SILENT=true
+[2024.12.02-13.04.08:458][823]LogSavePackage: Moving output files for package: /Game/Characters/merc/mercenary_low
+[2024.12.02-13.04.08:458][823]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/mercenary_lowC248F0B849ACDD9FB0988AACC56A15F1.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/merc/mercenary_low.uasset'
+[2024.12.02-13.04.08:568][823]LogSavePackage: Moving output files for package: /Game/Characters/monk/textures/monk_low_Base_color
+[2024.12.02-13.04.08:568][823]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/monk_low_Base_color7D2936114E9A3D4600FEC681EA034719.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/monk/textures/monk_low_Base_color.uasset'
+[2024.12.02-13.04.08:570][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/monk/textures/monk_low_Height" FILE="D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/monk/textures/monk_low_Height.uasset" SILENT=true
+[2024.12.02-13.04.08:688][823]LogSavePackage: Moving output files for package: /Game/Characters/monk/textures/monk_low_Height
+[2024.12.02-13.04.08:688][823]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/monk_low_HeightB42B9542422C2E86F234C4A4AEEF6E57.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/monk/textures/monk_low_Height.uasset'
+[2024.12.02-13.04.08:704][823]LogSavePackage: Moving output files for package: /Game/Characters/monk/textures/monk_low_Metallic
+[2024.12.02-13.04.08:704][823]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/monk_low_MetallicAA4C726D4053FF8C25937C9158480D85.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/monk/textures/monk_low_Metallic.uasset'
+[2024.12.02-13.04.08:747][823]LogSavePackage: Moving output files for package: /Game/Characters/monk/textures/monk_low_Mixed_AO
+[2024.12.02-13.04.08:747][823]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/monk_low_Mixed_AO9F7292F94C8CB5D8ACE746A1596D5E2D.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/monk/textures/monk_low_Mixed_AO.uasset'
+[2024.12.02-13.04.08:748][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/monk/textures/monk_low_Normal" FILE="D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/monk/textures/monk_low_Normal.uasset" SILENT=true
+[2024.12.02-13.04.08:881][823]LogSavePackage: Moving output files for package: /Game/Characters/monk/textures/monk_low_Normal
+[2024.12.02-13.04.08:881][823]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/monk_low_Normal2B718A6F4A8AC1074C6AC8A2A9C60CCF.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/monk/textures/monk_low_Normal.uasset'
+[2024.12.02-13.04.08:977][823]LogSavePackage: Moving output files for package: /Game/Characters/monk/textures/monk_low_Roughness
+[2024.12.02-13.04.08:977][823]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/monk_low_Roughness261F18CA481D18D91696E0B126D64CB3.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/monk/textures/monk_low_Roughness.uasset'
+[2024.12.02-13.04.08:994][823]LogSavePackage: Moving output files for package: /Game/Characters/Braum/Standing_Walk_Forward_mixamo_com
+[2024.12.02-13.04.08:994][823]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Standing_Walk_Forward_mixamo_comFE1912B64CE9740C3002DDB76098F437.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/Braum/Standing_Walk_Forward_mixamo_com.uasset'
+[2024.12.02-13.04.08:995][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/monk/themonk_low" FILE="D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/monk/themonk_low.uasset" SILENT=true
+[2024.12.02-13.04.09:288][823]LogSavePackage: Moving output files for package: /Game/Characters/monk/themonk_low
+[2024.12.02-13.04.09:288][823]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/themonk_low5645879F4F92246FE1AD3CB43FA07A7C.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/monk/themonk_low.uasset'
+[2024.12.02-13.04.09:290][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/monk/themonk_low_PhysicsAsset" FILE="D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/monk/themonk_low_PhysicsAsset.uasset" SILENT=true
+[2024.12.02-13.04.09:297][823]LogSavePackage: Moving output files for package: /Game/Characters/monk/themonk_low_PhysicsAsset
+[2024.12.02-13.04.09:297][823]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/themonk_low_PhysicsAsset26E59A094F7D01F4F7AC86BE016FD078.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/monk/themonk_low_PhysicsAsset.uasset'
+[2024.12.02-13.04.09:298][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/monk/themonk_low_Skeleton" FILE="D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/monk/themonk_low_Skeleton.uasset" SILENT=true
+[2024.12.02-13.04.09:301][823]LogSavePackage: Moving output files for package: /Game/Characters/monk/themonk_low_Skeleton
+[2024.12.02-13.04.09:301][823]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/themonk_low_Skeleton52A7CF2D46DFAEA31682ED9423AC774A.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/monk/themonk_low_Skeleton.uasset'
+[2024.12.02-13.04.09:308][823]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.66 sec (total: 8.66 sec)
+[2024.12.02-13.04.09:341][823]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-13.04.09:342][823]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/MAP_MainMenu.MAP_MainMenu
+[2024.12.02-13.04.09:342][823]Cmd: MAP LOAD FILE="D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Level/MAP_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.12.02-13.04.09:342][823]LightingResults: New page: Lighting Build
+[2024.12.02-13.04.09:345][823]LoadErrors: New page: Loading map: MAP_MainMenu.umap
+[2024.12.02-13.04.09:420][823]LogWorld: UWorld::CleanupWorld for MAP_Fighting_Stage, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-13.04.09:420][823]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-13.04.09:420][823]MapCheck: New page: Map Check
+[2024.12.02-13.04.09:420][823]LightingResults: New page: Lighting Build
+[2024.12.02-13.04.09:429][823]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.02-13.04.09:432][823]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.12.02-13.04.09:436][823]LogWorld: UWorld::CleanupWorld for MAP_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-13.04.09:436][823]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-13.04.09:446][823]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.12.02-13.04.09:456][823]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.12.02-13.04.09:461][823]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_MainMenu'.
+[2024.12.02-13.04.09:461][823]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-13.04.09:461][823]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-13.04.09:461][823]LogAIModule: Creating AISystem for world MAP_MainMenu
+[2024.12.02-13.04.09:482][823]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.02-13.04.09:494][823]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.12.02-13.04.09:513][823]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.02-13.04.09:513][823]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.052ms to complete.
+[2024.12.02-13.04.09:540][823]AssetCheck: New page: Asset Save: multiple assets
+[2024.12.02-13.04.09:540][823]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Characters/merc/3DM_mercenary_low.3DM_mercenary_low
+[2024.12.02-13.04.09:540][823]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/Characters/merc/3DM_mercenary_low_PhysicsAsset.3DM_mercenary_low_PhysicsAsset
+[2024.12.02-13.04.09:540][823]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Characters/merc/3DM_mercenary_low_Skeleton.3DM_mercenary_low_Skeleton
+[2024.12.02-13.04.09:540][823]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Characters/Braum/aiStandardSurface1.aiStandardSurface1
+[2024.12.02-13.04.09:540][823]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Characters/monk/AnzoSkin.AnzoSkin
+[2024.12.02-13.04.09:540][823]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Characters/Braum/HammerTextures/Bodvar_hammer_standardSurface1_BaseColor.Bodvar_hammer_standardSurface1_BaseColor
+[2024.12.02-13.04.09:540][823]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Characters/Braum/HammerTextures/Bodvar_hammer_standardSurface1_Normal.Bodvar_hammer_standardSurface1_Normal
+[2024.12.02-13.04.09:540][823]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Characters/Braum/HammerTextures/Bodvar_hammer_standardSurface1_OcclusionRoughnessMetallic.Bodvar_hammer_standardSurface1_OcclusionRoughnessMetallic
+[2024.12.02-13.04.09:540][823]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Characters/Braum/textures/bodvar_lowpoly_test_standardSurface1_BaseColor.bodvar_lowpoly_test_standardSurface1_BaseColor
+[2024.12.02-13.04.09:540][823]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Characters/Braum/textures/bodvar_lowpoly_test_standardSurface1_Normal.bodvar_lowpoly_test_standardSurface1_Normal
+[2024.12.02-13.04.09:540][823]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Characters/Braum/textures/bodvar_lowpoly_test_standardSurface1_OcclusionRoughnessMetallic.bodvar_lowpoly_test_standardSurface1_OcclusionRoughnessMetallic
+[2024.12.02-13.04.09:540][823]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Characters/Braum/Bodvar_unrigged.Bodvar_unrigged
+[2024.12.02-13.04.09:540][823]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/Characters/Braum/Bodvar_unrigged_PhysicsAsset.Bodvar_unrigged_PhysicsAsset
+[2024.12.02-13.04.09:540][823]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Characters/Braum/Bodvar_unrigged_Skeleton.Bodvar_unrigged_Skeleton
+[2024.12.02-13.04.09:540][823]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Characters/monk/textures/eyes/eye_low_Base_color.eye_low_Base_color
+[2024.12.02-13.04.09:540][823]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Characters/monk/textures/eyes/eye_low_Height.eye_low_Height
+[2024.12.02-13.04.09:540][823]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Characters/monk/textures/eyes/eye_low_Metallic.eye_low_Metallic
+[2024.12.02-13.04.09:540][823]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Characters/monk/textures/eyes/eye_low_Normal.eye_low_Normal
+[2024.12.02-13.04.09:540][823]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Characters/monk/textures/eyes/eye_low_Roughness.eye_low_Roughness
+[2024.12.02-13.04.09:540][823]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Characters/Braum/Fighting_Idle.Fighting_Idle
+[2024.12.02-13.04.09:540][823]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Characters/Braum/Fighting_Idle__1__mixamo_com.Fighting_Idle__1__mixamo_com
+[2024.12.02-13.04.09:540][823]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/Characters/Braum/Fighting_Idle_PhysicsAsset.Fighting_Idle_PhysicsAsset
+[2024.12.02-13.04.09:540][823]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Characters/Braum/Fighting_Idle_Skeleton.Fighting_Idle_Skeleton
+[2024.12.02-13.04.09:540][823]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Characters/witch/Kosana_LowPoly.Kosana_LowPoly_lp_body
+[2024.12.02-13.04.09:540][823]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Characters/witch/Kosana_LowPoly.Kosana_LowPoly_lp_cloth
+[2024.12.02-13.04.09:540][823]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Characters/witch/Kosana_LowPoly.Kosana_LowPoly_lp_leftHand
+[2024.12.02-13.04.09:540][823]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Characters/witch/Kosana_LowPoly.Kosana_LowPoly_lp_hair
+[2024.12.02-13.04.09:541][823]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Characters/witch/Kosana_LowPoly.Kosana_LowPoly_lp_shues
+[2024.12.02-13.04.09:541][823]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Characters/witch/Kosana_LowPoly.Kosana_LowPoly_lp_skirt
+[2024.12.02-13.04.09:541][823]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Characters/witch/Kosana_LowPoly.Kosana_LowPoly_lp_sleeve
+[2024.12.02-13.04.09:541][823]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Characters/witch/Kosana_LowPoly.Kosana_LowPoly_lp_leftLeg
+[2024.12.02-13.04.09:541][823]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Characters/witch/Kosana_LowPoly.Kosana_LowPoly_lp_rightHand
+[2024.12.02-13.04.09:541][823]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Characters/witch/Kosana_LowPoly.Kosana_LowPoly_lp_RightLeg
+[2024.12.02-13.04.09:541][823]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Characters/witch/Kosana_LowPoly.Kosana_LowPoly_lp_breast
+[2024.12.02-13.04.09:541][823]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Characters/witch/Kosana_LowPoly.Kosana_LowPoly_lp_hairDeco
+[2024.12.02-13.04.09:541][823]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Characters/witch/Kosana_LowPoly.Kosana_LowPoly_lp_shueDeco
+[2024.12.02-13.04.09:541][823]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Characters/witch/Kosana_LowPoly.Kosana_LowPoly_lp_dec1
+[2024.12.02-13.04.09:541][823]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Characters/witch/Kosana_LowPoly.Kosana_LowPoly_lp_dec2
+[2024.12.02-13.04.09:541][823]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Characters/witch/Kosana_LowPoly.Kosana_LowPoly_lp_dec3
+[2024.12.02-13.04.09:541][823]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Characters/witch/Kosana_LowPoly.Kosana_LowPoly_lp_eyes
+[2024.12.02-13.04.09:541][823]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Characters/merc/mercenary_low.mercenary_low
+[2024.12.02-13.04.09:541][823]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Characters/monk/textures/monk_low_Base_color.monk_low_Base_color
+[2024.12.02-13.04.09:541][823]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Characters/monk/textures/monk_low_Height.monk_low_Height
+[2024.12.02-13.04.09:541][823]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Characters/monk/textures/monk_low_Metallic.monk_low_Metallic
+[2024.12.02-13.04.09:541][823]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Characters/monk/textures/monk_low_Mixed_AO.monk_low_Mixed_AO
+[2024.12.02-13.04.09:541][823]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Characters/monk/textures/monk_low_Normal.monk_low_Normal
+[2024.12.02-13.04.09:541][823]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Characters/monk/textures/monk_low_Roughness.monk_low_Roughness
+[2024.12.02-13.04.09:541][823]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Characters/Braum/Standing_Walk_Forward_mixamo_com.Standing_Walk_Forward_mixamo_com
+[2024.12.02-13.04.09:541][823]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Characters/monk/themonk_low.themonk_low
+[2024.12.02-13.04.09:541][823]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/Characters/monk/themonk_low_PhysicsAsset.themonk_low_PhysicsAsset
+[2024.12.02-13.04.09:541][823]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Characters/monk/themonk_low_Skeleton.themonk_low_Skeleton
+[2024.12.02-13.04.09:541][823]AssetCheck: Error: [AssetLog] D:\UNREAL\git9\Bludgeons--Flagons\BludgeonsFlagons\Content\Characters\Braum\Bodvar_unrigged.uasset: This skeletal mesh asset has an incompatible Skeleton. Assign a compatible skeleton to this skeletal mesh asset.
+[2024.12.02-13.04.09:541][823]AssetCheck: /Game/Characters/Braum/Bodvar_unrigged contains invalid data.
+[2024.12.02-13.04.09:541][823]AssetCheck: Error: [AssetLog] D:\UNREAL\git9\Bludgeons--Flagons\BludgeonsFlagons\Content\Characters\witch\Kosana_LowPoly.uasset: This skeletal mesh asset has no Skeleton. Skeletal mesh asset need a valid skeleton.
+[2024.12.02-13.04.09:541][823]AssetCheck: /Game/Characters/witch/Kosana_LowPoly contains invalid data.
+[2024.12.02-13.04.09:541][823]AssetCheck: Error: [AssetLog] D:\UNREAL\git9\Bludgeons--Flagons\BludgeonsFlagons\Content\Characters\witch\Kosana_LowPoly.uasset: This skeletal mesh asset has no Skeleton. Skeletal mesh asset need a valid skeleton.
+[2024.12.02-13.04.09:541][823]AssetCheck: /Game/Characters/witch/Kosana_LowPoly contains invalid data.
+[2024.12.02-13.04.09:541][823]AssetCheck: Error: [AssetLog] D:\UNREAL\git9\Bludgeons--Flagons\BludgeonsFlagons\Content\Characters\witch\Kosana_LowPoly.uasset: This skeletal mesh asset has no Skeleton. Skeletal mesh asset need a valid skeleton.
+[2024.12.02-13.04.09:541][823]AssetCheck: /Game/Characters/witch/Kosana_LowPoly contains invalid data.
+[2024.12.02-13.04.09:541][823]AssetCheck: Error: [AssetLog] D:\UNREAL\git9\Bludgeons--Flagons\BludgeonsFlagons\Content\Characters\witch\Kosana_LowPoly.uasset: This skeletal mesh asset has no Skeleton. Skeletal mesh asset need a valid skeleton.
+[2024.12.02-13.04.09:541][823]AssetCheck: /Game/Characters/witch/Kosana_LowPoly contains invalid data.
+[2024.12.02-13.04.09:541][823]AssetCheck: Error: [AssetLog] D:\UNREAL\git9\Bludgeons--Flagons\BludgeonsFlagons\Content\Characters\witch\Kosana_LowPoly.uasset: This skeletal mesh asset has no Skeleton. Skeletal mesh asset need a valid skeleton.
+[2024.12.02-13.04.09:541][823]AssetCheck: /Game/Characters/witch/Kosana_LowPoly contains invalid data.
+[2024.12.02-13.04.09:541][823]AssetCheck: Error: [AssetLog] D:\UNREAL\git9\Bludgeons--Flagons\BludgeonsFlagons\Content\Characters\witch\Kosana_LowPoly.uasset: This skeletal mesh asset has no Skeleton. Skeletal mesh asset need a valid skeleton.
+[2024.12.02-13.04.09:541][823]AssetCheck: /Game/Characters/witch/Kosana_LowPoly contains invalid data.
+[2024.12.02-13.04.09:541][823]AssetCheck: Error: [AssetLog] D:\UNREAL\git9\Bludgeons--Flagons\BludgeonsFlagons\Content\Characters\witch\Kosana_LowPoly.uasset: This skeletal mesh asset has no Skeleton. Skeletal mesh asset need a valid skeleton.
+[2024.12.02-13.04.09:541][823]AssetCheck: /Game/Characters/witch/Kosana_LowPoly contains invalid data.
+[2024.12.02-13.04.09:541][823]AssetCheck: Error: [AssetLog] D:\UNREAL\git9\Bludgeons--Flagons\BludgeonsFlagons\Content\Characters\witch\Kosana_LowPoly.uasset: This skeletal mesh asset has no Skeleton. Skeletal mesh asset need a valid skeleton.
+[2024.12.02-13.04.09:541][823]AssetCheck: /Game/Characters/witch/Kosana_LowPoly contains invalid data.
+[2024.12.02-13.04.09:541][823]AssetCheck: Error: [AssetLog] D:\UNREAL\git9\Bludgeons--Flagons\BludgeonsFlagons\Content\Characters\witch\Kosana_LowPoly.uasset: This skeletal mesh asset has no Skeleton. Skeletal mesh asset need a valid skeleton.
+[2024.12.02-13.04.09:541][823]AssetCheck: /Game/Characters/witch/Kosana_LowPoly contains invalid data.
+[2024.12.02-13.04.09:541][823]AssetCheck: Error: [AssetLog] D:\UNREAL\git9\Bludgeons--Flagons\BludgeonsFlagons\Content\Characters\witch\Kosana_LowPoly.uasset: This skeletal mesh asset has no Skeleton. Skeletal mesh asset need a valid skeleton.
+[2024.12.02-13.04.09:541][823]AssetCheck: /Game/Characters/witch/Kosana_LowPoly contains invalid data.
+[2024.12.02-13.04.09:541][823]AssetCheck: Error: [AssetLog] D:\UNREAL\git9\Bludgeons--Flagons\BludgeonsFlagons\Content\Characters\witch\Kosana_LowPoly.uasset: This skeletal mesh asset has no Skeleton. Skeletal mesh asset need a valid skeleton.
+[2024.12.02-13.04.09:541][823]AssetCheck: /Game/Characters/witch/Kosana_LowPoly contains invalid data.
+[2024.12.02-13.04.09:541][823]AssetCheck: Error: [AssetLog] D:\UNREAL\git9\Bludgeons--Flagons\BludgeonsFlagons\Content\Characters\witch\Kosana_LowPoly.uasset: This skeletal mesh asset has no Skeleton. Skeletal mesh asset need a valid skeleton.
+[2024.12.02-13.04.09:541][823]AssetCheck: /Game/Characters/witch/Kosana_LowPoly contains invalid data.
+[2024.12.02-13.04.09:541][823]AssetCheck: Error: [AssetLog] D:\UNREAL\git9\Bludgeons--Flagons\BludgeonsFlagons\Content\Characters\witch\Kosana_LowPoly.uasset: This skeletal mesh asset has no Skeleton. Skeletal mesh asset need a valid skeleton.
+[2024.12.02-13.04.09:541][823]AssetCheck: /Game/Characters/witch/Kosana_LowPoly contains invalid data.
+[2024.12.02-13.04.09:541][823]AssetCheck: Error: [AssetLog] D:\UNREAL\git9\Bludgeons--Flagons\BludgeonsFlagons\Content\Characters\witch\Kosana_LowPoly.uasset: This skeletal mesh asset has no Skeleton. Skeletal mesh asset need a valid skeleton.
+[2024.12.02-13.04.09:541][823]AssetCheck: /Game/Characters/witch/Kosana_LowPoly contains invalid data.
+[2024.12.02-13.04.09:541][823]AssetCheck: Error: [AssetLog] D:\UNREAL\git9\Bludgeons--Flagons\BludgeonsFlagons\Content\Characters\witch\Kosana_LowPoly.uasset: This skeletal mesh asset has no Skeleton. Skeletal mesh asset need a valid skeleton.
+[2024.12.02-13.04.09:541][823]AssetCheck: /Game/Characters/witch/Kosana_LowPoly contains invalid data.
+[2024.12.02-13.04.09:541][823]AssetCheck: Error: [AssetLog] D:\UNREAL\git9\Bludgeons--Flagons\BludgeonsFlagons\Content\Characters\witch\Kosana_LowPoly.uasset: This skeletal mesh asset has no Skeleton. Skeletal mesh asset need a valid skeleton.
+[2024.12.02-13.04.09:541][823]AssetCheck: /Game/Characters/witch/Kosana_LowPoly contains invalid data.
+[2024.12.02-13.04.09:541][823]AssetCheck: Error: [AssetLog] D:\UNREAL\git9\Bludgeons--Flagons\BludgeonsFlagons\Content\Characters\witch\Kosana_LowPoly.uasset: This skeletal mesh asset has no Skeleton. Skeletal mesh asset need a valid skeleton.
+[2024.12.02-13.04.09:541][823]AssetCheck: /Game/Characters/witch/Kosana_LowPoly contains invalid data.
+[2024.12.02-13.04.09:541][823]AssetCheck: Data validation FAILED.
+[2024.12.02-13.04.09:541][823]AssetCheck: Files Checked: 51, Passed: 33, Failed: 18, Skipped: 0, Unable to validate: 0
+[2024.12.02-13.04.13:424][232]LogSlate: Window 'Message Log' being destroyed
+[2024.12.02-13.04.13:428][232]LogSlate: Window 'Message Log' being destroyed
+[2024.12.02-13.04.16:178][543]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.02-13.04.16:209][543]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.02-13.04.16:209][543]PIE: New page: PIE session: MAP_MainMenu (2 Dec 2024, 13:04:16)
+[2024.12.02-13.04.16:245][543]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MAP_MainMenu
+[2024.12.02-13.04.16:245][543]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000727s)
+[2024.12.02-13.04.16:245][543]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MAP_MainMenu.MAP_MainMenu to /Game/Level/UEDPIE_0_MAP_MainMenu.MAP_MainMenu (0.000757s)
+[2024.12.02-13.04.16:255][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.12.02-13.04.16:257][543]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-13.04.16:257][543]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-13.04.16:257][543]LogAIModule: Creating AISystem for world MAP_MainMenu
+[2024.12.02-13.04.16:258][543]LogPlayLevel: PIE: World Init took: (0.000644s)
+[2024.12.02-13.04.16:258][543]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.12.02-13.04.16:258][543]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.02-13.04.16:258][543]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.02-13.04.16:258][543]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.02-13.04.16:258][543]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.02-13.04.16:258][543]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.02-13.04.16:258][543]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.02-13.04.16:258][543]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.02-13.04.16:258][543]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.02-13.04.16:258][543]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.02-13.04.16:258][543]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.02-13.04.16:258][543]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.02-13.04.16:260][543]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.02-13.04.16:277][543]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.12.02-13.04.16:277][543]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.02-13.04.16:277][543]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.02-13.04.16:277][543]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.02-13.04.16:278][543]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.12.02-13.04.16:278][543]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.12.02-13.04.16:279][543]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.12.02-13.04.16:279][543]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.12.02-13.04.16:279][543]LogInit: FAudioDevice initialized with ID 10.
+[2024.12.02-13.04.16:279][543]LogAudio: Display: Audio Device (ID: 10) registered with world 'MAP_MainMenu'.
+[2024.12.02-13.04.16:279][543]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.12.02-13.04.16:281][543]LogLoad: Game class is 'GM_MainMenu_C'
+[2024.12.02-13.04.16:282][543]LogWorld: Bringing World /Game/Level/UEDPIE_0_MAP_MainMenu.MAP_MainMenu up for play (max tick rate 0) at 2024.12.02-13.04.16
+[2024.12.02-13.04.16:283][543]LogOnline: OSS: Created online subsystem instance for: :Context_177
+[2024.12.02-13.04.16:283][543]LogWorld: Bringing up level for play took: 0.001514
+[2024.12.02-13.04.16:284][543]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.12.02-13.04.16:284][543]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.12.02-13.04.16:284][543]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.12.02-13.04.16:284][543]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.12.02-13.04.16:284][543]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.12.02-13.04.16:284][543]LogNet: GameNetDriver IpNetDriver_8 IpNetDriver listening on port 17777
+[2024.12.02-13.04.16:284][543]PIE: Server logged in
+[2024.12.02-13.04.16:285][543]PIE: Play in editor total start time 0.075 seconds.
+[2024.12.02-13.04.20:851][ 79]LogNet: Browse: /Game/Level/MAP_CharacterSelect
+[2024.12.02-13.04.20:852][ 79]LogLoad: LoadMap: /Game/Level/MAP_CharacterSelect
+[2024.12.02-13.04.20:852][ 79]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MAP_MainMenu
+[2024.12.02-13.04.20:852][ 79]LogNet: World NetDriver shutdown IpNetDriver_8 [GameNetDriver]
+[2024.12.02-13.04.20:852][ 79]LogNet: DestroyNamedNetDriver IpNetDriver_8 [GameNetDriver]
+[2024.12.02-13.04.20:852][ 79]LogExit: GameNetDriver IpNetDriver_8 shut down
+[2024.12.02-13.04.20:852][ 79]LogWorld: UWorld::CleanupWorld for MAP_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-13.04.20:852][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-13.04.20:894][ 79]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.02-13.04.20:895][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.12.02-13.04.20:917][ 79]LogAudio: Display: Audio Device (ID: 10) registered with world 'MAP_CharacterSelect'.
+[2024.12.02-13.04.20:917][ 79]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-13.04.20:917][ 79]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-13.04.20:917][ 79]LogAIModule: Creating AISystem for world MAP_CharacterSelect
+[2024.12.02-13.04.20:917][ 79]LogPlayLevel: PIE: World Init took: (0.000607s)
+[2024.12.02-13.04.20:917][ 79]LogLoad: Game class is 'GM_CharSelection_C'
+[2024.12.02-13.04.20:918][ 79]LogWorld: Bringing World /Game/Level/UEDPIE_0_MAP_CharacterSelect.MAP_CharacterSelect up for play (max tick rate 0) at 2024.12.02-13.04.20
+[2024.12.02-13.04.20:918][ 79]LogWorld: Bringing up level for play took: 0.001037
+[2024.12.02-13.04.20:919][ 79]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.12.02-13.04.20:921][ 79]LogLoad: Took 0.069931 seconds to LoadMap(/Game/Level/MAP_CharacterSelect)
+[2024.12.02-13.04.22:805][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.02-13.04.22:805][291]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MAP_CharacterSelect
+[2024.12.02-13.04.22:805][291]LogWorld: UWorld::CleanupWorld for MAP_CharacterSelect, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-13.04.22:806][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-13.04.22:809][291]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.02-13.04.22:812][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-13.04.22:820][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.02-13.04.22:821][291]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.12.02-13.04.22:821][291]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.12.02-13.04.22:824][291]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.12.02-13.04.22:829][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.12.02-13.04.22:886][294]LogPlayLevel: Display: Destroying online subsystem :Context_177
+[2024.12.02-13.04.29:973][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.12.02-13.04.30:036][140]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-13.04.30:039][140]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/MAP_Fighting_Stage.MAP_Fighting_Stage
+[2024.12.02-13.04.30:039][140]Cmd: MAP LOAD FILE="D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Level/MAP_Fighting_Stage.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.12.02-13.04.30:039][140]LightingResults: New page: Lighting Build
+[2024.12.02-13.04.30:039][140]LoadErrors: New page: Loading map: MAP_Fighting_Stage.umap
+[2024.12.02-13.04.30:145][140]LogWorld: UWorld::CleanupWorld for MAP_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-13.04.30:145][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-13.04.30:145][140]MapCheck: New page: Map Check
+[2024.12.02-13.04.30:145][140]LightingResults: New page: Lighting Build
+[2024.12.02-13.04.30:154][140]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.02-13.04.30:155][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.12.02-13.04.30:157][140]LogWorld: UWorld::CleanupWorld for MAP_Fighting_Stage, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-13.04.30:157][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-13.04.30:169][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.12.02-13.04.30:177][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.12.02-13.04.30:192][140]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_Fighting_Stage'.
+[2024.12.02-13.04.30:192][140]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-13.04.30:192][140]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-13.04.30:192][140]LogAIModule: Creating AISystem for world MAP_Fighting_Stage
+[2024.12.02-13.04.30:212][140]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.02-13.04.30:224][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.12.02-13.04.30:261][140]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.02-13.04.30:261][140]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.06ms to complete.
+[2024.12.02-13.04.31:808][305]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.02-13.04.31:836][305]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.02-13.04.31:836][305]PIE: New page: PIE session: MAP_Fighting_Stage (2 Dec 2024, 13:04:31)
+[2024.12.02-13.04.31:836][305]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MAP_Fighting_Stage
+[2024.12.02-13.04.31:841][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004641s)
+[2024.12.02-13.04.31:841][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MAP_Fighting_Stage.MAP_Fighting_Stage to /Game/Level/UEDPIE_0_MAP_Fighting_Stage.MAP_Fighting_Stage (0.004668s)
+[2024.12.02-13.04.31:850][305]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.12.02-13.04.31:852][305]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-13.04.31:852][305]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-13.04.31:852][305]LogAIModule: Creating AISystem for world MAP_Fighting_Stage
+[2024.12.02-13.04.31:853][305]LogPlayLevel: PIE: World Init took: (0.000679s)
+[2024.12.02-13.04.31:853][305]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.12.02-13.04.31:853][305]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.02-13.04.31:853][305]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.02-13.04.31:853][305]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.02-13.04.31:853][305]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.02-13.04.31:853][305]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.02-13.04.31:853][305]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.02-13.04.31:853][305]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.02-13.04.31:853][305]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.02-13.04.31:853][305]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.02-13.04.31:853][305]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.02-13.04.31:853][305]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.02-13.04.31:855][305]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.02-13.04.31:870][305]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.12.02-13.04.31:870][305]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.02-13.04.31:870][305]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.02-13.04.31:870][305]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.02-13.04.31:870][305]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.12.02-13.04.31:870][305]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.12.02-13.04.31:871][305]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.12.02-13.04.31:871][305]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.12.02-13.04.31:871][305]LogInit: FAudioDevice initialized with ID 11.
+[2024.12.02-13.04.31:871][305]LogAudio: Display: Audio Device (ID: 11) registered with world 'MAP_Fighting_Stage'.
+[2024.12.02-13.04.31:871][305]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.12.02-13.04.31:873][305]LogLoad: Game class is 'BP_FightingGameMode_C'
+[2024.12.02-13.04.31:874][305]LogWorld: Bringing World /Game/Level/UEDPIE_0_MAP_Fighting_Stage.MAP_Fighting_Stage up for play (max tick rate 0) at 2024.12.02-13.04.31
+[2024.12.02-13.04.31:876][305]LogOnline: OSS: Created online subsystem instance for: :Context_178
+[2024.12.02-13.04.31:876][305]LogWorld: Bringing up level for play took: 0.002532
+[2024.12.02-13.04.31:877][305]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.12.02-13.04.31:877][305]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.12.02-13.04.31:877][305]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.12.02-13.04.31:877][305]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.12.02-13.04.31:877][305]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.12.02-13.04.31:877][305]LogNet: GameNetDriver IpNetDriver_9 IpNetDriver listening on port 17777
+[2024.12.02-13.04.31:877][305]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.12.02-13.04.31:877][305]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.12.02-13.04.31:877][305]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.12.02-13.04.31:877][305]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.12.02-13.04.31:881][305]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.12.02-13.04.31:881][305]PIE: Server logged in
+[2024.12.02-13.04.31:882][305]PIE: Play in editor total start time 0.047 seconds.
+[2024.12.02-13.04.33:065][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.02-13.04.33:065][431]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MAP_Fighting_Stage
+[2024.12.02-13.04.33:065][431]LogWorld: UWorld::CleanupWorld for MAP_Fighting_Stage, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-13.04.33:066][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-13.04.33:067][431]LogNet: World NetDriver shutdown IpNetDriver_9 [GameNetDriver]
+[2024.12.02-13.04.33:067][431]LogNet: DestroyNamedNetDriver IpNetDriver_9 [GameNetDriver]
+[2024.12.02-13.04.33:067][431]LogExit: GameNetDriver IpNetDriver_9 shut down
+[2024.12.02-13.04.33:069][431]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.02-13.04.33:072][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-13.04.33:081][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.02-13.04.33:082][431]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.12.02-13.04.33:082][431]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.12.02-13.04.33:085][431]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.12.02-13.04.33:091][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.12.02-13.04.33:154][433]LogPlayLevel: Display: Destroying online subsystem :Context_178
+[2024.12.02-13.04.44:351][694]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Braum/Standing_Walk_Forward_mixamo_com.Standing_Walk_Forward_mixamo_com
+[2024.12.02-13.04.44:353][694]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-13.04.44:353][694]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-13.04.44:359][694]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_176:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.02-13.04.44:539][694]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-13.04.44:539][694]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-13.04.44:717][694]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-13.04.44:717][694]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-13.04.44:726][694]LogViewport: Scene viewport resized to 1525x749, mode Windowed.
+[2024.12.02-13.04.44:739][694]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.12.02-13.04.47:270][958]LogWorld: UWorld::CleanupWorld for World_178, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-13.04.47:270][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-13.04.47:278][958]LogWorld: UWorld::CleanupWorld for World_176, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-13.04.47:278][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-13.04.47:320][958]LogWorld: UWorld::CleanupWorld for World_177, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-13.04.47:320][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-13.05.24:885][623]LogDerivedDataCache: C:/Users/Student/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:14.045 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 7453 files in 9318 folders with total size 1446 MiB.
+[2024.12.02-13.18.22:398][802]LogInterchangeEngine: [Pending] Importing
+[2024.12.02-13.18.22:398][802]LogInterchangeEngine: Display: Interchange start importing source [D:/SCORE.png]
+[2024.12.02-13.18.22:413][803]LogTexture: Display: Building textures: /Game/Inported/SCORE.SCORE (BGRA8, 728x626 x1x1x1) (Required Memory Estimate: 13.39072 MB), EncodeSpeed: Fast
+[2024.12.02-13.18.22:418][803]LogInterchangeEngine: [Pending] Importing
+[2024.12.02-13.18.22:828][803]LogInterchangeEngine: [Success] Import Done
+[2024.12.02-13.18.22:880][804]LogInterchangeEngine: [Success] Import Done
+[2024.12.02-13.19.00:635][521]BlueprintLog: New page: Compile WB_Score
+[2024.12.02-13.19.00:650][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.12.02-13.19.01:412][589]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.02-13.19.01:468][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Widgets/WB_Score" FILE="D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_Score.uasset" SILENT=true
+[2024.12.02-13.19.01:474][589]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Widgets/WB_Score
+[2024.12.02-13.19.01:475][589]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/WB_Score8A13D1574447C888243BFD9B65A2EB7A.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Widgets/WB_Score.uasset'
+[2024.12.02-13.19.01:482][589]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 8.73 sec)
+[2024.12.02-13.19.01:482][589]AssetCheck: New page: Asset Save: WB_Score
+[2024.12.02-13.19.01:482][589]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Widgets/WB_Score.WB_Score
+[2024.12.02-13.19.06:148][103]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-13.19.06:214][105]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-13.19.10:510][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.12.02-13.19.12:562][586]LogSlate: Window 'Save Content' being destroyed
+[2024.12.02-13.19.12:568][586]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.02-13.19.12:627][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inported/SCORE" FILE="D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Inported/SCORE.uasset" SILENT=true
+[2024.12.02-13.19.12:634][586]LogSavePackage: Moving output files for package: /Game/Inported/SCORE
+[2024.12.02-13.19.12:634][586]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/SCORE82D5D5594E11CE32753EEC91FE2A325B.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Inported/SCORE.uasset'
+[2024.12.02-13.19.12:640][586]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 8.81 sec)
+[2024.12.02-13.19.12:696][586]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-13.19.12:696][586]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/MAP_MainMenu.MAP_MainMenu
+[2024.12.02-13.19.12:696][586]Cmd: MAP LOAD FILE="D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Level/MAP_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.12.02-13.19.12:696][586]LightingResults: New page: Lighting Build
+[2024.12.02-13.19.12:696][586]LoadErrors: New page: Loading map: MAP_MainMenu.umap
+[2024.12.02-13.19.12:794][586]LogWorld: UWorld::CleanupWorld for MAP_Fighting_Stage, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-13.19.12:794][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-13.19.12:794][586]MapCheck: New page: Map Check
+[2024.12.02-13.19.12:794][586]LightingResults: New page: Lighting Build
+[2024.12.02-13.19.12:802][586]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.02-13.19.12:805][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.12.02-13.19.12:807][586]LogWorld: UWorld::CleanupWorld for MAP_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-13.19.12:807][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-13.19.12:818][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.12.02-13.19.12:827][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.12.02-13.19.12:831][586]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_MainMenu'.
+[2024.12.02-13.19.12:831][586]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-13.19.12:832][586]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-13.19.12:832][586]LogAIModule: Creating AISystem for world MAP_MainMenu
+[2024.12.02-13.19.12:848][586]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.02-13.19.12:856][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.12.02-13.19.12:875][586]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.02-13.19.12:875][586]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.057ms to complete.
+[2024.12.02-13.19.12:903][586]AssetCheck: New page: Asset Save: SCORE
+[2024.12.02-13.19.12:903][586]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Inported/SCORE.SCORE
+[2024.12.02-13.19.14:371][743]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.02-13.19.14:479][743]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.02-13.19.14:479][743]PIE: New page: PIE session: MAP_MainMenu (2 Dec 2024, 13:19:14)
+[2024.12.02-13.19.14:502][743]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MAP_MainMenu
+[2024.12.02-13.19.14:502][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000724s)
+[2024.12.02-13.19.14:502][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MAP_MainMenu.MAP_MainMenu to /Game/Level/UEDPIE_0_MAP_MainMenu.MAP_MainMenu (0.000761s)
+[2024.12.02-13.19.14:511][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.12.02-13.19.14:515][743]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-13.19.14:515][743]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-13.19.14:515][743]LogAIModule: Creating AISystem for world MAP_MainMenu
+[2024.12.02-13.19.14:515][743]LogPlayLevel: PIE: World Init took: (0.000631s)
+[2024.12.02-13.19.14:515][743]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.12.02-13.19.14:515][743]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.02-13.19.14:515][743]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.02-13.19.14:515][743]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.02-13.19.14:515][743]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.02-13.19.14:515][743]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.02-13.19.14:515][743]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.02-13.19.14:515][743]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.02-13.19.14:515][743]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.02-13.19.14:516][743]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.02-13.19.14:516][743]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.02-13.19.14:516][743]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.02-13.19.14:517][743]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.02-13.19.14:532][743]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.12.02-13.19.14:532][743]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.02-13.19.14:532][743]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.02-13.19.14:532][743]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.02-13.19.14:533][743]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.12.02-13.19.14:533][743]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.12.02-13.19.14:534][743]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.12.02-13.19.14:534][743]LogInit: FAudioDevice initialized with ID 12.
+[2024.12.02-13.19.14:534][743]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.12.02-13.19.14:534][743]LogAudio: Display: Audio Device (ID: 12) registered with world 'MAP_MainMenu'.
+[2024.12.02-13.19.14:534][743]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.12.02-13.19.14:536][743]LogLoad: Game class is 'GM_MainMenu_C'
+[2024.12.02-13.19.14:537][743]LogWorld: Bringing World /Game/Level/UEDPIE_0_MAP_MainMenu.MAP_MainMenu up for play (max tick rate 0) at 2024.12.02-13.19.14
+[2024.12.02-13.19.14:538][743]LogOnline: OSS: Created online subsystem instance for: :Context_184
+[2024.12.02-13.19.14:538][743]LogWorld: Bringing up level for play took: 0.001634
+[2024.12.02-13.19.14:539][743]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.12.02-13.19.14:539][743]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.12.02-13.19.14:539][743]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.12.02-13.19.14:539][743]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.12.02-13.19.14:539][743]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.12.02-13.19.14:539][743]LogNet: GameNetDriver IpNetDriver_10 IpNetDriver listening on port 17777
+[2024.12.02-13.19.14:539][743]PIE: Server logged in
+[2024.12.02-13.19.14:540][743]PIE: Play in editor total start time 0.061 seconds.
+[2024.12.02-13.19.22:106][630]LogNet: Browse: /Game/Level/MAP_CharacterSelect
+[2024.12.02-13.19.22:106][630]LogLoad: LoadMap: /Game/Level/MAP_CharacterSelect
+[2024.12.02-13.19.22:106][630]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MAP_MainMenu
+[2024.12.02-13.19.22:106][630]LogNet: World NetDriver shutdown IpNetDriver_10 [GameNetDriver]
+[2024.12.02-13.19.22:106][630]LogNet: DestroyNamedNetDriver IpNetDriver_10 [GameNetDriver]
+[2024.12.02-13.19.22:106][630]LogExit: GameNetDriver IpNetDriver_10 shut down
+[2024.12.02-13.19.22:106][630]LogWorld: UWorld::CleanupWorld for MAP_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-13.19.22:106][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-13.19.22:140][630]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.02-13.19.22:142][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.12.02-13.19.22:157][630]LogAudio: Display: Audio Device (ID: 12) registered with world 'MAP_CharacterSelect'.
+[2024.12.02-13.19.22:157][630]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-13.19.22:157][630]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-13.19.22:158][630]LogAIModule: Creating AISystem for world MAP_CharacterSelect
+[2024.12.02-13.19.22:158][630]LogPlayLevel: PIE: World Init took: (0.000588s)
+[2024.12.02-13.19.22:158][630]LogLoad: Game class is 'GM_CharSelection_C'
+[2024.12.02-13.19.22:159][630]LogWorld: Bringing World /Game/Level/UEDPIE_0_MAP_CharacterSelect.MAP_CharacterSelect up for play (max tick rate 0) at 2024.12.02-13.19.22
+[2024.12.02-13.19.22:159][630]LogWorld: Bringing up level for play took: 0.000998
+[2024.12.02-13.19.22:160][630]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.12.02-13.19.22:162][630]LogLoad: Took 0.055641 seconds to LoadMap(/Game/Level/MAP_CharacterSelect)
+[2024.12.02-13.19.23:317][720]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 90.0
+[2024.12.02-13.19.25:709][  7]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 80.0
+[2024.12.02-13.19.25:876][ 27]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 70.0
+[2024.12.02-13.19.26:084][ 52]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 60.0
+[2024.12.02-13.19.27:233][190]LogNet: Browse: /Game/Level/MAP_Fighting_Stage
+[2024.12.02-13.19.27:233][190]LogLoad: LoadMap: /Game/Level/MAP_Fighting_Stage
+[2024.12.02-13.19.27:233][190]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MAP_CharacterSelect
+[2024.12.02-13.19.27:234][190]LogWorld: UWorld::CleanupWorld for MAP_CharacterSelect, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-13.19.27:234][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-13.19.27:282][190]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.02-13.19.27:284][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.12.02-13.19.27:301][190]LogAudio: Display: Audio Device (ID: 12) registered with world 'MAP_Fighting_Stage'.
+[2024.12.02-13.19.27:301][190]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-13.19.27:301][190]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-13.19.27:302][190]LogAIModule: Creating AISystem for world MAP_Fighting_Stage
+[2024.12.02-13.19.27:302][190]LogPlayLevel: PIE: World Init took: (0.000573s)
+[2024.12.02-13.19.27:302][190]LogLoad: Game class is 'BP_FightingGameMode_C'
+[2024.12.02-13.19.27:304][190]LogWorld: Bringing World /Game/Level/UEDPIE_0_MAP_Fighting_Stage.MAP_Fighting_Stage up for play (max tick rate 0) at 2024.12.02-13.19.27
+[2024.12.02-13.19.27:304][190]LogWorld: Bringing up level for play took: 0.002270
+[2024.12.02-13.19.27:305][190]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.12.02-13.19.27:305][190]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.12.02-13.19.27:305][190]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.12.02-13.19.27:305][190]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.12.02-13.19.27:309][190]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.12.02-13.19.27:309][190]LogLoad: Took 0.074563 seconds to LoadMap(/Game/Level/MAP_Fighting_Stage)
+[2024.12.02-13.19.27:322][191]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 1,
+[2024.12.02-13.19.29:360][432]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2024.12.02-13.19.29:361][432]LogGameState: Match State Changed from InProgress to LeavingMap
+[2024.12.02-13.19.29:361][432]LogNet: Browse: /Game/Level/MAP_Fighting_Stage
+[2024.12.02-13.19.29:361][432]LogLoad: LoadMap: /Game/Level/MAP_Fighting_Stage
+[2024.12.02-13.19.29:361][432]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MAP_Fighting_Stage
+[2024.12.02-13.19.29:361][432]LogWorld: UWorld::CleanupWorld for MAP_Fighting_Stage, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-13.19.29:362][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-13.19.29:392][432]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.02-13.19.29:394][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.12.02-13.19.29:412][432]LogAudio: Display: Audio Device (ID: 12) registered with world 'MAP_Fighting_Stage'.
+[2024.12.02-13.19.29:412][432]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-13.19.29:412][432]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-13.19.29:412][432]LogAIModule: Creating AISystem for world MAP_Fighting_Stage
+[2024.12.02-13.19.29:412][432]LogPlayLevel: PIE: World Init took: (0.000556s)
+[2024.12.02-13.19.29:412][432]LogLoad: Game class is 'BP_FightingGameMode_C'
+[2024.12.02-13.19.29:415][432]LogWorld: Bringing World /Game/Level/UEDPIE_0_MAP_Fighting_Stage.MAP_Fighting_Stage up for play (max tick rate 0) at 2024.12.02-13.19.29
+[2024.12.02-13.19.29:415][432]LogWorld: Bringing up level for play took: 0.002678
+[2024.12.02-13.19.29:415][432]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.12.02-13.19.29:415][432]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.12.02-13.19.29:415][432]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.12.02-13.19.29:416][432]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.12.02-13.19.29:420][432]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.12.02-13.19.29:420][432]LogLoad: Took 0.058410 seconds to LoadMap(/Game/Level/MAP_Fighting_Stage)
+[2024.12.02-13.19.29:433][433]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 1,
+[2024.12.02-13.19.29:959][496]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2024.12.02-13.19.29:959][496]LogGameState: Match State Changed from InProgress to LeavingMap
+[2024.12.02-13.19.29:959][496]LogNet: Browse: /Game/Level/MAP_Fighting_Stage
+[2024.12.02-13.19.29:959][496]LogLoad: LoadMap: /Game/Level/MAP_Fighting_Stage
+[2024.12.02-13.19.29:959][496]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MAP_Fighting_Stage
+[2024.12.02-13.19.29:960][496]LogWorld: UWorld::CleanupWorld for MAP_Fighting_Stage, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-13.19.29:960][496]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-13.19.29:991][496]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.02-13.19.29:992][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.12.02-13.19.30:010][496]LogAudio: Display: Audio Device (ID: 12) registered with world 'MAP_Fighting_Stage'.
+[2024.12.02-13.19.30:010][496]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-13.19.30:011][496]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-13.19.30:011][496]LogAIModule: Creating AISystem for world MAP_Fighting_Stage
+[2024.12.02-13.19.30:012][496]LogPlayLevel: PIE: World Init took: (0.000711s)
+[2024.12.02-13.19.30:012][496]LogLoad: Game class is 'BP_FightingGameMode_C'
+[2024.12.02-13.19.30:014][496]LogWorld: Bringing World /Game/Level/UEDPIE_0_MAP_Fighting_Stage.MAP_Fighting_Stage up for play (max tick rate 0) at 2024.12.02-13.19.30
+[2024.12.02-13.19.30:014][496]LogWorld: Bringing up level for play took: 0.002445
+[2024.12.02-13.19.30:015][496]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.12.02-13.19.30:015][496]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.12.02-13.19.30:015][496]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.12.02-13.19.30:015][496]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.12.02-13.19.30:019][496]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.12.02-13.19.30:019][496]LogLoad: Took 0.059019 seconds to LoadMap(/Game/Level/MAP_Fighting_Stage)
+[2024.12.02-13.19.30:032][497]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 1,
+[2024.12.02-13.19.30:158][512]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2024.12.02-13.19.30:158][512]LogGameState: Match State Changed from InProgress to LeavingMap
+[2024.12.02-13.19.30:158][512]LogNet: Browse: /Game/Level/MAP_Fighting_Stage
+[2024.12.02-13.19.30:158][512]LogLoad: LoadMap: /Game/Level/MAP_Fighting_Stage
+[2024.12.02-13.19.30:158][512]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MAP_Fighting_Stage
+[2024.12.02-13.19.30:159][512]LogWorld: UWorld::CleanupWorld for MAP_Fighting_Stage, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-13.19.30:159][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-13.19.30:202][512]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.02-13.19.30:204][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.12.02-13.19.30:222][512]LogAudio: Display: Audio Device (ID: 12) registered with world 'MAP_Fighting_Stage'.
+[2024.12.02-13.19.30:222][512]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-13.19.30:222][512]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-13.19.30:222][512]LogAIModule: Creating AISystem for world MAP_Fighting_Stage
+[2024.12.02-13.19.30:222][512]LogPlayLevel: PIE: World Init took: (0.000563s)
+[2024.12.02-13.19.30:222][512]LogLoad: Game class is 'BP_FightingGameMode_C'
+[2024.12.02-13.19.30:224][512]LogWorld: Bringing World /Game/Level/UEDPIE_0_MAP_Fighting_Stage.MAP_Fighting_Stage up for play (max tick rate 0) at 2024.12.02-13.19.30
+[2024.12.02-13.19.30:224][512]LogWorld: Bringing up level for play took: 0.002372
+[2024.12.02-13.19.30:225][512]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.12.02-13.19.30:225][512]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.12.02-13.19.30:225][512]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.12.02-13.19.30:225][512]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.12.02-13.19.30:229][512]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.12.02-13.19.30:229][512]LogLoad: Took 0.071175 seconds to LoadMap(/Game/Level/MAP_Fighting_Stage)
+[2024.12.02-13.19.30:242][513]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 1,
+[2024.12.02-13.19.30:792][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.02-13.19.30:792][574]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MAP_Fighting_Stage
+[2024.12.02-13.19.30:793][574]LogWorld: UWorld::CleanupWorld for MAP_Fighting_Stage, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-13.19.30:793][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-13.19.30:795][574]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.02-13.19.30:799][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-13.19.30:808][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.02-13.19.30:809][574]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.12.02-13.19.30:809][574]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.12.02-13.19.30:810][574]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.12.02-13.19.30:816][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.12.02-13.19.30:867][575]LogPlayLevel: Display: Destroying online subsystem :Context_184
+[2024.12.02-13.19.32:554][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
