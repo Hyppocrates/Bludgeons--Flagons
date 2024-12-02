@@ -4029,3 +4029,970 @@ Would you like to regenerate the Skeleton from this mesh?
 [2024.12.02-11.04.29:801][354]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
 [2024.12.02-11.04.29:807][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
 [2024.12.02-11.04.29:846][356]LogPlayLevel: Display: Destroying online subsystem :Context_132
+[2024.12.02-11.05.24:891][670]LogDerivedDataCache: C:/Users/Student/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:14.052 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 7422 files in 9280 folders with total size 1442 MiB.
+[2024.12.02-11.09.42:438][246]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\CHARS\Braum\Fighting Idle.fbx)
+[2024.12.02-11.09.42:443][246]LogFbx: Loading FBX Scene from D:\CHARS\Braum\Fighting Idle.fbx
+[2024.12.02-11.09.42:463][246]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.02-11.09.48:281][246]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.12.02-11.09.48:327][246]LogFbx: Valid bind pose for Pose (BindPose) - polySurface20
+[2024.12.02-11.09.48:327][246]LogFbx: Triangulating skeletal mesh polySurface20
+[2024.12.02-11.09.48:480][246]LogFbx: Bones digested - 65  Depth of hierarchy - 12
+[2024.12.02-11.09.48:738][246]LogSkeletalMesh: Section 0: Material=0, 16336 triangles
+[2024.12.02-11.09.48:756][246]LogSkeletalMesh: Building Skeletal Mesh Fighting_Idle...
+[2024.12.02-11.09.48:773][246]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Fighting_Idle) ...
+[2024.12.02-11.09.48:957][246]LogSkeletalMesh: Built Skeletal Mesh [0.20s] /Game/Characters/Braum/Fighting_Idle.Fighting_Idle
+[2024.12.02-11.09.57:703][246]LogSlate: Window 'Message' being destroyed
+[2024.12.02-11.09.57:707][246]Message dialog closed, result: Yes, title: Message, text: FAILED TO MERGE BONES:
+
+ This could happen if significant hierarchical changes have been made
+e.g. inserting a bone between nodes.
+Would you like to regenerate the Skeleton from this mesh?
+
+***WARNING: THIS MAY INVALIDATE OR REQUIRE RECOMPRESSION OF ANIMATION DATA.***
+
+[2024.12.02-11.10.01:869][246]LogSlate: Window 'Message' being destroyed
+[2024.12.02-11.10.01:872][246]Message dialog closed, result: No, title: Message, text: Would you like to merge all SkeletalMeshes using this skeleton to ensure all bones are merged? This will require to load those SkeletalMeshes.
+[2024.12.02-11.10.02:045][246]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-11.10.02:045][246]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-11.10.02:062][246]LogWorld: UWorld::CleanupWorld for World_126, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-11.10.02:063][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-11.10.02:161][246]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.12.02-11.10.02:273][247]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-11.10.03:569][368]LogSlate: Window 'Message Log' being destroyed
+[2024.12.02-11.10.03:581][368]LogSlate: Window 'Message Log' being destroyed
+[2024.12.02-11.10.05:350][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.12.02-11.10.05:352][562]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/MAP_Fighting_Stage' took 0.012
+[2024.12.02-11.10.05:352][562]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Braum/Bodvar_unrigged_Skeleton] ([1] browsable assets)...
+[2024.12.02-11.10.05:352][562]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Braum/Bodvar_unrigged_Skeleton]
+[2024.12.02-11.10.05:355][562]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Braum/Bodvar_unrigged_Skeleton_Auto5
+[2024.12.02-11.10.05:355][562]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Bodvar_unrigged_Skeleton_Auto5F6578B8041D40D1932A748A1AC690FDF.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Autosaves/Game/Characters/Braum/Bodvar_unrigged_Skeleton_Auto5.uasset'
+[2024.12.02-11.10.05:356][562]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Braum/Fighting_Idle] ([1] browsable assets)...
+[2024.12.02-11.10.05:360][562]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Characters/Braum/Fighting_Idle.Fighting_Idle]
+[2024.12.02-11.10.05:360][562]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Braum/Fighting_Idle]
+[2024.12.02-11.10.05:470][562]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Braum/Fighting_Idle_Auto5
+[2024.12.02-11.10.05:471][562]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Fighting_Idle_Auto575BC90FA4DFA422DE783EAA72F959C71.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Autosaves/Game/Characters/Braum/Fighting_Idle_Auto5.uasset'
+[2024.12.02-11.10.05:471][562]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Braum/Fighting_Idle_PhysicsAsset] ([1] browsable assets)...
+[2024.12.02-11.10.05:476][562]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Characters/Braum/Fighting_Idle_PhysicsAsset.Fighting_Idle_PhysicsAsset]
+[2024.12.02-11.10.05:476][562]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Braum/Fighting_Idle_PhysicsAsset]
+[2024.12.02-11.10.05:485][562]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Braum/Fighting_Idle_PhysicsAsset_Auto5
+[2024.12.02-11.10.05:485][562]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Fighting_Idle_PhysicsAsset_Auto5B7DC861348C3B466A5066DBD96391D05.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Autosaves/Game/Characters/Braum/Fighting_Idle_PhysicsAsset_Auto5.uasset'
+[2024.12.02-11.10.05:486][562]LogFileHelpers: Auto-saving content packages took 0.134
+[2024.12.02-11.10.05:578][570]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/Braum/Fighting_Idle.Fighting_Idle
+[2024.12.02-11.10.05:579][570]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-11.10.05:579][570]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-11.10.05:585][570]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_128:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.02-11.10.05:836][570]LogToolMenus: Warning: Menu already registered : SkeletalMeshEditor.MeshContextMenu
+[2024.12.02-11.10.05:903][570]LogViewport: Scene viewport resized to 955x499, mode Windowed.
+[2024.12.02-11.10.08:645][790]LogSlate: Window 'Fighting_Idle' being destroyed
+[2024.12.02-11.10.08:772][790]LogWorld: UWorld::CleanupWorld for World_128, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-11.10.08:772][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-11.10.20:827][168]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/Braum/Fighting_Idle.Fighting_Idle
+[2024.12.02-11.10.20:828][168]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-11.10.20:828][168]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-11.10.20:838][168]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_129:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.02-11.10.21:070][168]LogToolMenus: Warning: Menu already registered : SkeletalMeshEditor.MeshContextMenu
+[2024.12.02-11.10.21:146][168]LogViewport: Scene viewport resized to 955x499, mode Windowed.
+[2024.12.02-11.10.25:321][490]LogSlate: Window 'Fighting_Idle' being destroyed
+[2024.12.02-11.10.25:471][490]LogWorld: UWorld::CleanupWorld for World_129, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-11.10.25:471][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-11.10.30:401][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.12.02-11.10.31:604][992]LogSlate: Window 'Delete Assets' being destroyed
+[2024.12.02-11.10.31:639][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.12.02-11.10.31:646][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.12.02-11.10.31:656][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.12.02-11.10.50:306][437]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\CHARS\Braum\Fighting Idle.fbx)
+[2024.12.02-11.10.50:310][437]LogFbx: Loading FBX Scene from D:\CHARS\Braum\Fighting Idle.fbx
+[2024.12.02-11.10.50:329][437]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.02-11.11.25:291][437]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.12.02-11.11.25:632][437]LogFbx: Valid bind pose for Pose (BindPose) - polySurface20
+[2024.12.02-11.11.25:633][437]LogFbx: Triangulating skeletal mesh polySurface20
+[2024.12.02-11.11.25:785][437]LogFbx: Bones digested - 65  Depth of hierarchy - 12
+[2024.12.02-11.11.26:024][437]LogSkeletalMesh: Section 0: Material=0, 16336 triangles
+[2024.12.02-11.11.26:045][437]LogSkeletalMesh: Building Skeletal Mesh Fighting_Idle...
+[2024.12.02-11.11.26:063][437]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Fighting_Idle) ...
+[2024.12.02-11.11.26:240][437]LogSkeletalMesh: Built Skeletal Mesh [0.20s] /Game/Characters/Braum/Fighting_Idle.Fighting_Idle
+[2024.12.02-11.11.26:307][437]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-11.11.26:307][437]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-11.11.26:314][437]LogWorld: UWorld::CleanupWorld for World_130, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-11.11.26:314][437]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-11.11.26:332][437]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.12.02-11.11.26:532][440]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-11.11.29:052][703]LogSlate: Window 'Message Log' being destroyed
+[2024.12.02-11.11.29:063][703]LogSlate: Window 'Message Log' being destroyed
+[2024.12.02-11.11.30:279][826]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Characters/Braum/Fighting_Idle_Skeleton.Fighting_Idle_Skeleton
+[2024.12.02-11.11.30:280][826]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-11.11.30:280][826]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-11.11.30:291][826]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_132:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.02-11.11.30:585][826]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-11.11.30:585][826]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-11.11.30:675][826]LogViewport: Scene viewport resized to 761x499, mode Windowed.
+[2024.12.02-11.11.33:517][ 65]LogSlate: Window 'Fighting_Idle_Skeleton' being destroyed
+[2024.12.02-11.11.33:612][ 65]LogWorld: UWorld::CleanupWorld for World_132, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-11.11.33:612][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-11.11.33:651][ 65]LogWorld: UWorld::CleanupWorld for World_133, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-11.11.33:651][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-11.11.41:149][881]LogEditorFactories: Performing atomic reimport of [D:/CHARS/Braum/Fighting Idle.fbx]
+[2024.12.02-11.11.41:154][881]LogFbx: Loading FBX Scene from D:/CHARS/Braum/Fighting Idle.fbx
+[2024.12.02-11.11.41:175][881]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.02-11.11.41:220][881]LogFbx: Valid bind pose for Pose (BindPose) - polySurface20
+[2024.12.02-11.11.41:220][881]LogFbx: Triangulating skeletal mesh polySurface20
+[2024.12.02-11.11.41:385][881]LogFbx: Bones digested - 65  Depth of hierarchy - 12
+[2024.12.02-11.11.41:584][881]LogSkeletalMesh: Section 0: Material=0, 16336 triangles
+[2024.12.02-11.11.41:604][881]LogEditorFactories: -- imported successfully
+[2024.12.02-11.11.41:607][881]LogSkeletalMesh: Building Skeletal Mesh Fighting_Idle...
+[2024.12.02-11.11.41:624][881]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Fighting_Idle) ...
+[2024.12.02-11.11.41:805][881]LogSkeletalMesh: Built Skeletal Mesh [0.20s] /Game/Characters/Braum/Fighting_Idle.Fighting_Idle
+[2024.12.02-11.11.41:807][881]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.12.02-11.11.46:315][305]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Characters/Braum/Fighting_Idle_Skeleton.Fighting_Idle_Skeleton
+[2024.12.02-11.11.46:316][305]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-11.11.46:316][305]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-11.11.46:326][305]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_134:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.02-11.11.46:529][305]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-11.11.46:529][305]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-11.11.46:623][305]LogViewport: Scene viewport resized to 761x499, mode Windowed.
+[2024.12.02-11.11.48:427][456]LogSlate: Window 'Fighting_Idle_Skeleton' being destroyed
+[2024.12.02-11.11.48:570][456]LogWorld: UWorld::CleanupWorld for World_134, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-11.11.48:570][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-11.11.48:609][456]LogWorld: UWorld::CleanupWorld for World_135, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-11.11.48:609][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-11.12.34:766][835]LogEditorFactories: Performing atomic reimport of [D:/CHARS/Braum/Fighting Idle.fbx]
+[2024.12.02-11.12.34:771][835]LogFbx: Loading FBX Scene from D:/CHARS/Braum/Fighting Idle.fbx
+[2024.12.02-11.12.34:791][835]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.02-11.12.34:848][835]LogFbx: Valid bind pose for Pose (BindPose) - polySurface20
+[2024.12.02-11.12.34:849][835]LogFbx: Triangulating skeletal mesh polySurface20
+[2024.12.02-11.12.35:014][835]LogFbx: Bones digested - 65  Depth of hierarchy - 12
+[2024.12.02-11.12.35:214][835]LogSkeletalMesh: Section 0: Material=0, 16336 triangles
+[2024.12.02-11.12.35:235][835]LogEditorFactories: -- imported successfully
+[2024.12.02-11.12.35:237][835]LogSkeletalMesh: Building Skeletal Mesh Fighting_Idle...
+[2024.12.02-11.12.35:254][835]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Fighting_Idle) ...
+[2024.12.02-11.12.35:433][835]LogSkeletalMesh: Built Skeletal Mesh [0.20s] /Game/Characters/Braum/Fighting_Idle.Fighting_Idle
+[2024.12.02-11.12.35:435][835]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.12.02-11.13.11:927][647]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Student\Downloads\Standing Walk Forward.fbx)
+[2024.12.02-11.13.11:931][647]LogFbx: Loading FBX Scene from C:\Users\Student\Downloads\Standing Walk Forward.fbx
+[2024.12.02-11.13.11:948][647]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.02-11.13.27:489][647]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(0) Hips
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(1) Spine
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(2) Spine1
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(3) Spine2
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(4) Neck
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(5) Head
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(6) HeadTop_End
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(7) LeftShoulder
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(8) LeftArm
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(9) LeftForeArm
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(10) LeftHand
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(23) LeftHandRing1
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(24) LeftHandRing2
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(25) LeftHandRing3
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(26) LeftHandRing4
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(31) RightShoulder
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(32) RightArm
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(33) RightForeArm
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(34) RightHand
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(35) RightHandThumb1
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(36) RightHandThumb2
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(37) RightHandThumb3
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(38) RightHandThumb4
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(39) RightHandIndex1
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(40) RightHandIndex2
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(41) RightHandIndex3
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(42) RightHandIndex4
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(47) RightHandRing1
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(48) RightHandRing2
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(49) RightHandRing3
+[2024.12.02-11.13.27:822][647]LogFbx: SortedLinks :(50) RightHandRing4
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(51) RightHandPinky1
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(52) RightHandPinky2
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(53) RightHandPinky3
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(54) RightHandPinky4
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(55) LeftUpLeg
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(56) LeftLeg
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(57) LeftFoot
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(58) LeftToeBase
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(59) LeftToe_End
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(60) RightUpLeg
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(61) RightLeg
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(62) RightFoot
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(63) RightToeBase
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(64) RightToe_End
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(0) Hips
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(1) Spine
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(2) Spine1
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(3) Spine2
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(4) Neck
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(5) Head
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(6) HeadTop_End
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(7) LeftShoulder
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(8) LeftArm
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(9) LeftForeArm
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(10) LeftHand
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(23) LeftHandRing1
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(24) LeftHandRing2
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(25) LeftHandRing3
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(26) LeftHandRing4
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(31) RightShoulder
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(32) RightArm
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(33) RightForeArm
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(34) RightHand
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(35) RightHandThumb1
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(36) RightHandThumb2
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(37) RightHandThumb3
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(38) RightHandThumb4
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(39) RightHandIndex1
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(40) RightHandIndex2
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(41) RightHandIndex3
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(42) RightHandIndex4
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(47) RightHandRing1
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(48) RightHandRing2
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(49) RightHandRing3
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(50) RightHandRing4
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(51) RightHandPinky1
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(52) RightHandPinky2
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(53) RightHandPinky3
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(54) RightHandPinky4
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(55) LeftUpLeg
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(56) LeftLeg
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(57) LeftFoot
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(58) LeftToeBase
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(59) LeftToe_End
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(60) RightUpLeg
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(61) RightLeg
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(62) RightFoot
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(63) RightToeBase
+[2024.12.02-11.13.27:824][647]LogFbx: SortedLinks :(64) RightToe_End
+[2024.12.02-11.13.27:824][647]LogFbx: Parsing AnimStack Take 001
+[2024.12.02-11.13.28:154][647]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Braum/Standing_Walk_Forward_Take_001.Standing_Walk_Forward_Take_001
+[2024.12.02-11.13.28:162][647]LogFbx: Parsing AnimStack mixamo.com
+[2024.12.02-11.13.28:162][647]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Braum/Standing_Walk_Forward_Take_001.Standing_Walk_Forward_Take_001, at AnimationSequence/a0ba412da61ae0dd6e715828a43652cdf7d31191
+[2024.12.02-11.13.28:348][647]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Braum/Standing_Walk_Forward_mixamo_com.Standing_Walk_Forward_mixamo_com
+[2024.12.02-11.13.28:361][647]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Braum/Standing_Walk_Forward_mixamo_com.Standing_Walk_Forward_mixamo_com
+[2024.12.02-11.13.28:375][647]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Braum/Standing_Walk_Forward_mixamo_com.Standing_Walk_Forward_mixamo_com, at AnimationSequence/ff323b46ca9f741eed18c872b0a90c4ff60d9958
+[2024.12.02-11.13.28:435][650]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-11.13.31:381][939]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Braum/Standing_Walk_Forward_mixamo_com.Standing_Walk_Forward_mixamo_com
+[2024.12.02-11.13.31:384][939]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-11.13.31:384][939]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-11.13.31:390][939]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_137:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.02-11.13.31:621][939]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-11.13.31:621][939]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-11.13.31:811][939]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2024.12.02-11.13.31:815][939]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-11.13.31:815][939]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-11.13.31:826][939]LogViewport: Scene viewport resized to 761x318, mode Windowed.
+[2024.12.02-11.13.31:839][939]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.12.02-11.13.35:173][221]LogSlate: Window 'Standing_Walk_Forward_mixamo_com' being destroyed
+[2024.12.02-11.13.35:384][221]LogWorld: UWorld::CleanupWorld for World_139, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-11.13.35:384][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-11.13.35:389][221]LogWorld: UWorld::CleanupWorld for World_137, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-11.13.35:389][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-11.13.35:463][221]LogWorld: UWorld::CleanupWorld for World_138, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-11.13.35:463][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-11.13.37:118][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.12.02-11.13.39:783][391]LogSlate: Window 'Delete Assets' being destroyed
+[2024.12.02-11.13.39:790][391]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Characters/Braum/Standing_Walk_Forward_Take_001.Standing_Walk_Forward_Take_001
+	Asset Type: AnimSequence
+[2024.12.02-11.13.40:035][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.12.02-11.13.40:045][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.12.02-11.13.40:052][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.12.02-11.13.40:941][471]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Braum/Standing_Walk_Forward_mixamo_com.Standing_Walk_Forward_mixamo_com
+[2024.12.02-11.13.40:943][471]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-11.13.40:943][471]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-11.13.40:950][471]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_140:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.02-11.13.41:177][471]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-11.13.41:177][471]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-11.13.41:332][471]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-11.13.41:332][471]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-11.13.41:344][471]LogViewport: Scene viewport resized to 761x318, mode Windowed.
+[2024.12.02-11.13.41:355][471]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.12.02-11.13.46:256][925]LogSlate: Window 'Standing_Walk_Forward_mixamo_com' being destroyed
+[2024.12.02-11.13.46:260][925]LogSlate: Window 'Standing_Walk_Forward_mixamo_com' being destroyed
+[2024.12.02-11.13.46:355][925]LogWorld: UWorld::CleanupWorld for World_142, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-11.13.46:355][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-11.13.46:360][925]LogWorld: UWorld::CleanupWorld for World_140, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-11.13.46:360][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-11.13.46:681][925]LogWorld: UWorld::CleanupWorld for World_141, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-11.13.46:681][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-11.13.51:498][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.12.02-11.13.52:946][476]LogSlate: Window 'Delete Assets' being destroyed
+[2024.12.02-11.15.58:187][390]LogEditorFactories: Performing atomic reimport of [C:/Users/Student/Downloads/Fighting Idle.fbx]
+[2024.12.02-11.15.58:192][390]LogFbx: Loading FBX Scene from C:/Users/Student/Downloads/Fighting Idle.fbx
+[2024.12.02-11.15.58:211][390]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.02-11.15.58:254][390]LogFbx: Valid bind pose for Pose (BindPose) - polySurface20
+[2024.12.02-11.15.58:255][390]LogFbx: Triangulating skeletal mesh polySurface20
+[2024.12.02-11.15.58:422][390]LogFbx: Bones digested - 65  Depth of hierarchy - 12
+[2024.12.02-11.15.58:620][390]LogSkeletalMesh: Section 0: Material=0, 16336 triangles
+[2024.12.02-11.15.58:639][390]LogEditorFactories: -- imported successfully
+[2024.12.02-11.15.58:641][390]LogSkeletalMesh: Building Skeletal Mesh Fighting_Idle...
+[2024.12.02-11.15.58:659][390]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Fighting_Idle) ...
+[2024.12.02-11.15.58:839][390]LogSkeletalMesh: Built Skeletal Mesh [0.20s] /Game/Characters/Braum/Fighting_Idle.Fighting_Idle
+[2024.12.02-11.15.58:841][390]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.12.02-11.16.10:805][745]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Student\Downloads\Fighting Idle (1).fbx)
+[2024.12.02-11.16.10:810][745]LogFbx: Loading FBX Scene from C:\Users\Student\Downloads\Fighting Idle (1).fbx
+[2024.12.02-11.16.10:829][745]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.02-11.16.18:327][745]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.12.02-11.16.18:372][745]LogFbx: SortedLinks :(0) Hips
+[2024.12.02-11.16.18:372][745]LogFbx: SortedLinks :(1) Spine
+[2024.12.02-11.16.18:372][745]LogFbx: SortedLinks :(2) Spine1
+[2024.12.02-11.16.18:372][745]LogFbx: SortedLinks :(3) Spine2
+[2024.12.02-11.16.18:372][745]LogFbx: SortedLinks :(4) Neck
+[2024.12.02-11.16.18:372][745]LogFbx: SortedLinks :(5) Head
+[2024.12.02-11.16.18:372][745]LogFbx: SortedLinks :(6) HeadTop_End
+[2024.12.02-11.16.18:372][745]LogFbx: SortedLinks :(7) LeftShoulder
+[2024.12.02-11.16.18:372][745]LogFbx: SortedLinks :(8) LeftArm
+[2024.12.02-11.16.18:372][745]LogFbx: SortedLinks :(9) LeftForeArm
+[2024.12.02-11.16.18:372][745]LogFbx: SortedLinks :(10) LeftHand
+[2024.12.02-11.16.18:372][745]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2024.12.02-11.16.18:372][745]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2024.12.02-11.16.18:372][745]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2024.12.02-11.16.18:372][745]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2024.12.02-11.16.18:372][745]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2024.12.02-11.16.18:372][745]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2024.12.02-11.16.18:372][745]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2024.12.02-11.16.18:372][745]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(23) LeftHandRing1
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(24) LeftHandRing2
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(25) LeftHandRing3
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(26) LeftHandRing4
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(31) RightShoulder
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(32) RightArm
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(33) RightForeArm
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(34) RightHand
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(35) RightHandThumb1
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(36) RightHandThumb2
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(37) RightHandThumb3
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(38) RightHandThumb4
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(39) RightHandIndex1
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(40) RightHandIndex2
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(41) RightHandIndex3
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(42) RightHandIndex4
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(47) RightHandRing1
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(48) RightHandRing2
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(49) RightHandRing3
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(50) RightHandRing4
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(51) RightHandPinky1
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(52) RightHandPinky2
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(53) RightHandPinky3
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(54) RightHandPinky4
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(55) LeftUpLeg
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(56) LeftLeg
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(57) LeftFoot
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(58) LeftToeBase
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(59) LeftToe_End
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(60) RightUpLeg
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(61) RightLeg
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(62) RightFoot
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(63) RightToeBase
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(64) RightToe_End
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(0) Hips
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(1) Spine
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(2) Spine1
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(3) Spine2
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(4) Neck
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(5) Head
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(6) HeadTop_End
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(7) LeftShoulder
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(8) LeftArm
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(9) LeftForeArm
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(10) LeftHand
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(23) LeftHandRing1
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(24) LeftHandRing2
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(25) LeftHandRing3
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(26) LeftHandRing4
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(31) RightShoulder
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(32) RightArm
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(33) RightForeArm
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(34) RightHand
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(35) RightHandThumb1
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(36) RightHandThumb2
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(37) RightHandThumb3
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(38) RightHandThumb4
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(39) RightHandIndex1
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(40) RightHandIndex2
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(41) RightHandIndex3
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(42) RightHandIndex4
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(47) RightHandRing1
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(48) RightHandRing2
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(49) RightHandRing3
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(50) RightHandRing4
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(51) RightHandPinky1
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(52) RightHandPinky2
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(53) RightHandPinky3
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(54) RightHandPinky4
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(55) LeftUpLeg
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(56) LeftLeg
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(57) LeftFoot
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(58) LeftToeBase
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(59) LeftToe_End
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(60) RightUpLeg
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(61) RightLeg
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(62) RightFoot
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(63) RightToeBase
+[2024.12.02-11.16.18:373][745]LogFbx: SortedLinks :(64) RightToe_End
+[2024.12.02-11.16.18:373][745]LogFbx: Parsing AnimStack Take 001
+[2024.12.02-11.16.18:675][745]LogFbx: Parsing AnimStack mixamo.com
+[2024.12.02-11.16.19:064][745]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Braum/Fighting_Idle__1__mixamo_com.Fighting_Idle__1__mixamo_com
+[2024.12.02-11.16.19:089][745]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Braum/Fighting_Idle__1__mixamo_com.Fighting_Idle__1__mixamo_com
+[2024.12.02-11.16.19:115][747]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Braum/Fighting_Idle__1__mixamo_com.Fighting_Idle__1__mixamo_com, at AnimationSequence/a8670f9b7ea8a807c824996101f5d6efa5be95d4
+[2024.12.02-11.16.21:813][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.12.02-11.16.23:481][ 13]LogSlate: Window 'Delete Assets' being destroyed
+[2024.12.02-11.16.23:488][ 13]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Characters/Braum/Fighting_Idle__1__Take_001.Fighting_Idle__1__Take_001
+	Asset Type: AnimSequence
+[2024.12.02-11.16.23:728][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.12.02-11.16.23:738][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.12.02-11.16.23:746][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.12.02-11.16.24:502][ 76]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Braum/Fighting_Idle__1__mixamo_com.Fighting_Idle__1__mixamo_com
+[2024.12.02-11.16.24:503][ 76]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-11.16.24:503][ 76]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-11.16.24:511][ 76]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_143:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.02-11.16.24:731][ 76]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-11.16.24:731][ 76]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-11.16.24:891][ 76]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-11.16.24:891][ 76]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-11.16.24:903][ 76]LogViewport: Scene viewport resized to 761x318, mode Windowed.
+[2024.12.02-11.16.24:931][ 76]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.12.02-11.16.28:779][387]LogSlate: Window 'Fighting_Idle__1__mixamo_com' being destroyed
+[2024.12.02-11.16.28:833][387]LogWorld: UWorld::CleanupWorld for World_145, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-11.16.28:833][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-11.16.28:838][387]LogWorld: UWorld::CleanupWorld for World_143, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-11.16.28:838][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-11.16.28:878][387]LogWorld: UWorld::CleanupWorld for World_144, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-11.16.28:878][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-11.17.07:401][829]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Braum/Standing_Walk_Forward_mixamo_com.Standing_Walk_Forward_mixamo_com
+[2024.12.02-11.17.07:402][829]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-11.17.07:402][829]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-11.17.07:411][829]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_146:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.02-11.17.08:000][829]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-11.17.08:001][829]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-11.17.08:184][829]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-11.17.08:184][829]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-11.17.08:195][829]LogViewport: Scene viewport resized to 761x318, mode Windowed.
+[2024.12.02-11.17.08:206][829]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.12.02-11.17.16:638][559]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-11.17.49:480][368]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2024.12.02-11.17.52:085][562]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-11.17.52:085][562]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-11.17.52:120][562]LogWorld: UWorld::CleanupWorld for World_148, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-11.17.52:120][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-11.17.57:085][951]LogSlate: Window 'Fighting_Idle__1__mixamo_com' being destroyed
+[2024.12.02-11.17.57:089][951]LogSlate: Window 'Fighting_Idle__1__mixamo_com' being destroyed
+[2024.12.02-11.17.57:141][951]LogWorld: UWorld::CleanupWorld for World_150, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-11.17.57:141][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-11.17.57:146][951]LogWorld: UWorld::CleanupWorld for World_146, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-11.17.57:146][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-11.17.57:187][951]LogWorld: UWorld::CleanupWorld for World_147, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-11.17.57:187][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-11.18.09:424][586]LogEditorFactories: Performing atomic reimport of [D:/CHARS/Monk/themonk_low.fbx]
+[2024.12.02-11.18.09:430][586]LogFbx: Loading FBX Scene from D:/CHARS/Monk/themonk_low.fbx
+[2024.12.02-11.18.09:458][586]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.02-11.18.09:500][586]LogFbx: Valid bind pose for Pose (BindPose) - monk_low
+[2024.12.02-11.18.09:502][586]LogFbx: Triangulating skeletal mesh monk_low
+[2024.12.02-11.18.09:997][586]LogFbx: Triangulating skeletal mesh eyes_low
+[2024.12.02-11.18.10:080][586]LogFbx: Bones digested - 65  Depth of hierarchy - 12
+[2024.12.02-11.18.10:822][586]LogSkeletalMesh: Section 0: Material=0, 55500 triangles
+[2024.12.02-11.18.10:822][586]LogSkeletalMesh: Section 1: Material=1, 1520 triangles
+[2024.12.02-11.18.14:845][586]LogSlate: Window 'Message' being destroyed
+[2024.12.02-11.18.14:849][586]Message dialog closed, result: Cancel, title: Message, text: FAILED TO MERGE BONES:
+
+ This could happen if significant hierarchical changes have been made
+e.g. inserting a bone between nodes.
+Would you like to regenerate the Skeleton from this mesh?
+
+***WARNING: THIS MAY INVALIDATE OR REQUIRE RECOMPRESSION OF ANIMATION DATA.***
+
+[2024.12.02-11.18.14:854][586]LogEditorFactories: Warning: -- import failed
+[2024.12.02-11.18.14:856][586]LogSkeletalMesh: Building Skeletal Mesh themonk_low...
+[2024.12.02-11.18.14:874][586]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (themonk_low) ...
+[2024.12.02-11.18.15:617][586]LogSkeletalMesh: Built Skeletal Mesh [0.76s] /Game/Characters/monk/themonk_low.themonk_low
+[2024.12.02-11.18.15:623][586]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.12.02-11.18.26:173][752]LogEditorFactories: Performing atomic reimport of [D:/CHARS/Monk/themonk_low.fbx]
+[2024.12.02-11.18.26:180][752]LogFbx: Loading FBX Scene from D:/CHARS/Monk/themonk_low.fbx
+[2024.12.02-11.18.26:206][752]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.02-11.18.26:264][752]LogFbx: Valid bind pose for Pose (BindPose) - monk_low
+[2024.12.02-11.18.26:266][752]LogFbx: Triangulating skeletal mesh monk_low
+[2024.12.02-11.18.26:778][752]LogFbx: Triangulating skeletal mesh eyes_low
+[2024.12.02-11.18.26:860][752]LogFbx: Bones digested - 65  Depth of hierarchy - 12
+[2024.12.02-11.18.27:598][752]LogSkeletalMesh: Section 0: Material=0, 55500 triangles
+[2024.12.02-11.18.27:598][752]LogSkeletalMesh: Section 1: Material=1, 1520 triangles
+[2024.12.02-11.18.33:122][752]LogSlate: Window 'Message' being destroyed
+[2024.12.02-11.18.33:125][752]Message dialog closed, result: Yes, title: Message, text: FAILED TO MERGE BONES:
+
+ This could happen if significant hierarchical changes have been made
+e.g. inserting a bone between nodes.
+Would you like to regenerate the Skeleton from this mesh?
+
+***WARNING: THIS MAY INVALIDATE OR REQUIRE RECOMPRESSION OF ANIMATION DATA.***
+
+[2024.12.02-11.18.34:994][752]LogSlate: Window 'Message' being destroyed
+[2024.12.02-11.18.34:997][752]Message dialog closed, result: No, title: Message, text: Would you like to merge all SkeletalMeshes using this skeleton to ensure all bones are merged? This will require to load those SkeletalMeshes.
+[2024.12.02-11.18.35:134][752]LogEditorFactories: -- imported successfully
+[2024.12.02-11.18.35:136][752]LogSkeletalMesh: Building Skeletal Mesh themonk_low...
+[2024.12.02-11.18.35:153][752]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (themonk_low) ...
+[2024.12.02-11.18.35:875][752]LogSkeletalMesh: Built Skeletal Mesh [0.74s] /Game/Characters/monk/themonk_low.themonk_low
+[2024.12.02-11.18.35:880][752]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.12.02-11.19.36:077][544]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\CHARS\Braum\Fighting Idle - Copy.fbx)
+[2024.12.02-11.19.36:082][544]LogFbx: Loading FBX Scene from D:\CHARS\Braum\Fighting Idle - Copy.fbx
+[2024.12.02-11.19.36:195][544]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.02-11.19.43:991][544]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(0) Hips
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(1) Spine
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(2) Spine1
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(3) Spine2
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(4) Neck
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(5) Head
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(6) HeadTop_End
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(7) LeftShoulder
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(8) LeftArm
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(9) LeftForeArm
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(10) LeftHand
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(23) LeftHandRing1
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(24) LeftHandRing2
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(25) LeftHandRing3
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(26) LeftHandRing4
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(31) RightShoulder
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(32) RightArm
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(33) RightForeArm
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(34) RightHand
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(35) RightHandThumb1
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(36) RightHandThumb2
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(37) RightHandThumb3
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(38) RightHandThumb4
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(39) RightHandIndex1
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(40) RightHandIndex2
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(41) RightHandIndex3
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(42) RightHandIndex4
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(47) RightHandRing1
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(48) RightHandRing2
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(49) RightHandRing3
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(50) RightHandRing4
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(51) RightHandPinky1
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(52) RightHandPinky2
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(53) RightHandPinky3
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(54) RightHandPinky4
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(55) LeftUpLeg
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(56) LeftLeg
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(57) LeftFoot
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(58) LeftToeBase
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(59) LeftToe_End
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(60) RightUpLeg
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(61) RightLeg
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(62) RightFoot
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(63) RightToeBase
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(64) RightToe_End
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(0) Hips
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(1) Spine
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(2) Spine1
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(3) Spine2
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(4) Neck
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(5) Head
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(6) HeadTop_End
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(7) LeftShoulder
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(8) LeftArm
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(9) LeftForeArm
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(10) LeftHand
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(23) LeftHandRing1
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(24) LeftHandRing2
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(25) LeftHandRing3
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(26) LeftHandRing4
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(31) RightShoulder
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(32) RightArm
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(33) RightForeArm
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(34) RightHand
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(35) RightHandThumb1
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(36) RightHandThumb2
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(37) RightHandThumb3
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(38) RightHandThumb4
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(39) RightHandIndex1
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(40) RightHandIndex2
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(41) RightHandIndex3
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(42) RightHandIndex4
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(47) RightHandRing1
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(48) RightHandRing2
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(49) RightHandRing3
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(50) RightHandRing4
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(51) RightHandPinky1
+[2024.12.02-11.19.44:036][544]LogFbx: SortedLinks :(52) RightHandPinky2
+[2024.12.02-11.19.44:037][544]LogFbx: SortedLinks :(53) RightHandPinky3
+[2024.12.02-11.19.44:037][544]LogFbx: SortedLinks :(54) RightHandPinky4
+[2024.12.02-11.19.44:037][544]LogFbx: SortedLinks :(55) LeftUpLeg
+[2024.12.02-11.19.44:037][544]LogFbx: SortedLinks :(56) LeftLeg
+[2024.12.02-11.19.44:037][544]LogFbx: SortedLinks :(57) LeftFoot
+[2024.12.02-11.19.44:037][544]LogFbx: SortedLinks :(58) LeftToeBase
+[2024.12.02-11.19.44:037][544]LogFbx: SortedLinks :(59) LeftToe_End
+[2024.12.02-11.19.44:037][544]LogFbx: SortedLinks :(60) RightUpLeg
+[2024.12.02-11.19.44:037][544]LogFbx: SortedLinks :(61) RightLeg
+[2024.12.02-11.19.44:037][544]LogFbx: SortedLinks :(62) RightFoot
+[2024.12.02-11.19.44:037][544]LogFbx: SortedLinks :(63) RightToeBase
+[2024.12.02-11.19.44:037][544]LogFbx: SortedLinks :(64) RightToe_End
+[2024.12.02-11.19.44:037][544]LogFbx: Parsing AnimStack Take 001
+[2024.12.02-11.19.44:376][544]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Braum/Fighting_Idle_-_Copy_Take_001.Fighting_Idle_-_Copy_Take_001
+[2024.12.02-11.19.44:384][544]LogFbx: Parsing AnimStack mixamo.com
+[2024.12.02-11.19.44:385][544]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Braum/Fighting_Idle_-_Copy_Take_001.Fighting_Idle_-_Copy_Take_001, at AnimationSequence/57202eef2c688c3c77bc4a651b0cd5c4790d10ea
+[2024.12.02-11.19.44:842][544]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Braum/Fighting_Idle_-_Copy_mixamo_com.Fighting_Idle_-_Copy_mixamo_com
+[2024.12.02-11.19.44:876][544]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Braum/Fighting_Idle_-_Copy_mixamo_com.Fighting_Idle_-_Copy_mixamo_com
+[2024.12.02-11.19.44:911][544]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Braum/Fighting_Idle_-_Copy_mixamo_com.Fighting_Idle_-_Copy_mixamo_com, at AnimationSequence/27513b02274f57bc6ae578d82d2331b410748759
+[2024.12.02-11.19.47:137][751]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Braum/Fighting_Idle_-_Copy_mixamo_com.Fighting_Idle_-_Copy_mixamo_com
+[2024.12.02-11.19.47:138][751]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-11.19.47:138][751]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-11.19.47:148][751]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_151:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.02-11.19.47:371][751]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-11.19.47:371][751]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-11.19.47:545][751]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-11.19.47:545][751]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-11.19.47:556][751]LogViewport: Scene viewport resized to 761x318, mode Windowed.
+[2024.12.02-11.19.47:566][751]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.12.02-11.19.59:387][825]LogSlate: Window 'Fighting_Idle_-_Copy_mixamo_com' being destroyed
+[2024.12.02-11.19.59:460][825]LogWorld: UWorld::CleanupWorld for World_153, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-11.19.59:460][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-11.19.59:466][825]LogWorld: UWorld::CleanupWorld for World_151, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-11.19.59:466][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-11.19.59:524][825]LogWorld: UWorld::CleanupWorld for World_152, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-11.19.59:524][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-11.20.03:372][219]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Braum/Fighting_Idle_-_Copy_mixamo_com.Fighting_Idle_-_Copy_mixamo_com
+[2024.12.02-11.20.03:373][219]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-11.20.03:373][219]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-11.20.03:381][219]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_154:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.02-11.20.03:604][219]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-11.20.03:604][219]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-11.20.03:760][219]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-11.20.03:760][219]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-11.20.03:770][219]LogViewport: Scene viewport resized to 761x318, mode Windowed.
+[2024.12.02-11.20.03:782][219]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.12.02-11.20.14:339][166]LogSlate: Window 'Fighting_Idle_-_Copy_mixamo_com' being destroyed
+[2024.12.02-11.20.14:432][166]LogWorld: UWorld::CleanupWorld for World_156, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-11.20.14:432][166]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-11.20.14:438][166]LogWorld: UWorld::CleanupWorld for World_154, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-11.20.14:438][166]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-11.20.14:478][166]LogWorld: UWorld::CleanupWorld for World_155, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-11.20.14:478][166]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-11.20.16:597][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.12.02-11.20.17:980][385]LogSlate: Window 'Delete Assets' being destroyed
+[2024.12.02-11.20.17:988][385]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/Characters/Braum/Fighting_Idle_-_Copy_mixamo_com.Fighting_Idle_-_Copy_mixamo_com
+	Asset Type: AnimSequence
+	Asset Name: /Game/Characters/Braum/Fighting_Idle_-_Copy_Take_001.Fighting_Idle_-_Copy_Take_001
+	Asset Type: AnimSequence
+[2024.12.02-11.20.18:310][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.12.02-11.20.18:320][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.12.02-11.20.18:330][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.12.02-11.20.45:380][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.12.02-11.20.45:381][535]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/MAP_Fighting_Stage' took 0.011
+[2024.12.02-11.20.45:381][535]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/monk/themonk_low] ([1] browsable assets)...
+[2024.12.02-11.20.45:407][535]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Characters/monk/themonk_low.themonk_low]
+[2024.12.02-11.20.45:407][535]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/monk/themonk_low]
+[2024.12.02-11.20.45:684][535]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/monk/themonk_low_Auto6
+[2024.12.02-11.20.45:684][535]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/themonk_low_Auto68303240646278023FE98C18859D4117F.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Autosaves/Game/Characters/monk/themonk_low_Auto6.uasset'
+[2024.12.02-11.20.45:685][535]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/monk/themonk_low_Skeleton] ([1] browsable assets)...
+[2024.12.02-11.20.45:685][535]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/monk/themonk_low_Skeleton]
+[2024.12.02-11.20.45:688][535]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/monk/themonk_low_Skeleton_Auto6
+[2024.12.02-11.20.45:688][535]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/themonk_low_Skeleton_Auto65CF153444EAC406455F336AA2FFB4868.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Autosaves/Game/Characters/monk/themonk_low_Skeleton_Auto6.uasset'
+[2024.12.02-11.20.45:689][535]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Braum/Fighting_Idle] ([1] browsable assets)...
+[2024.12.02-11.20.45:694][535]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Characters/Braum/Fighting_Idle.Fighting_Idle]
+[2024.12.02-11.20.45:695][535]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Braum/Fighting_Idle]
+[2024.12.02-11.20.45:785][535]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Braum/Fighting_Idle_Auto6
+[2024.12.02-11.20.45:785][535]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Fighting_Idle_Auto6C8C65C404D559A9D93BB889137D09C10.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Autosaves/Game/Characters/Braum/Fighting_Idle_Auto6.uasset'
+[2024.12.02-11.20.45:786][535]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Braum/Fighting_Idle_Skeleton] ([1] browsable assets)...
+[2024.12.02-11.20.45:791][535]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Characters/Braum/Fighting_Idle_Skeleton.Fighting_Idle_Skeleton]
+[2024.12.02-11.20.45:791][535]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Braum/Fighting_Idle_Skeleton]
+[2024.12.02-11.20.45:794][535]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Braum/Fighting_Idle_Skeleton_Auto6
+[2024.12.02-11.20.45:794][535]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Fighting_Idle_Skeleton_Auto6CBEDC5834A6367B05AB7048ED4EDD8BC.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Autosaves/Game/Characters/Braum/Fighting_Idle_Skeleton_Auto6.uasset'
+[2024.12.02-11.20.45:795][535]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Braum/Fighting_Idle_PhysicsAsset] ([1] browsable assets)...
+[2024.12.02-11.20.45:799][535]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Characters/Braum/Fighting_Idle_PhysicsAsset.Fighting_Idle_PhysicsAsset]
+[2024.12.02-11.20.45:799][535]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Braum/Fighting_Idle_PhysicsAsset]
+[2024.12.02-11.20.45:808][535]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Braum/Fighting_Idle_PhysicsAsset_Auto6
+[2024.12.02-11.20.45:808][535]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Fighting_Idle_PhysicsAsset_Auto6420AE14640D60D98CEF85EBA8BF8615D.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Autosaves/Game/Characters/Braum/Fighting_Idle_PhysicsAsset_Auto6.uasset'
+[2024.12.02-11.20.45:809][535]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Braum/Standing_Walk_Forward_mixamo_com] ([1] browsable assets)...
+[2024.12.02-11.20.45:813][535]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Braum/Standing_Walk_Forward_mixamo_com.Standing_Walk_Forward_mixamo_com]
+[2024.12.02-11.20.45:813][535]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Braum/Standing_Walk_Forward_mixamo_com]
+[2024.12.02-11.20.45:831][535]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Braum/Standing_Walk_Forward_mixamo_com_Auto6
+[2024.12.02-11.20.45:831][535]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Standing_Walk_Forward_mixamo_comDC4D6DC848E544825B2F4AB583ADE5B9.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Autosaves/Game/Characters/Braum/Standing_Walk_Forward_mixamo_com_Auto6.uasset'
+[2024.12.02-11.20.45:832][535]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Braum/Fighting_Idle__1__mixamo_com] ([1] browsable assets)...
+[2024.12.02-11.20.45:836][535]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Braum/Fighting_Idle__1__mixamo_com.Fighting_Idle__1__mixamo_com]
+[2024.12.02-11.20.45:836][535]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Braum/Fighting_Idle__1__mixamo_com]
+[2024.12.02-11.20.45:859][535]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Braum/Fighting_Idle__1__mixamo_com_Auto6
+[2024.12.02-11.20.45:859][535]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Fighting_Idle__1__mixamo_com_AutFE665CAB470623C45360F7B295F1E8BE.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Autosaves/Game/Characters/Braum/Fighting_Idle__1__mixamo_com_Auto6.uasset'
+[2024.12.02-11.20.45:860][535]LogFileHelpers: Auto-saving content packages took 0.479
+[2024.12.02-12.05.24:892][933]LogDerivedDataCache: C:/Users/Student/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:14.053 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 7434 files in 9300 folders with total size 1446 MiB.
+[2024.12.02-12.33.45:618][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.12.02-12.33.48:411][412]LogSlate: Window 'Save Content' being destroyed
+[2024.12.02-12.41.19:545][382]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.02-12.41.19:855][382]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.02-12.41.19:855][382]PIE: New page: PIE session: MAP_Fighting_Stage (2 Dec 2024, 12:41:19)
+[2024.12.02-12.41.19:897][382]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MAP_Fighting_Stage
+[2024.12.02-12.41.19:902][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004790s)
+[2024.12.02-12.41.19:902][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MAP_Fighting_Stage.MAP_Fighting_Stage to /Game/Level/UEDPIE_0_MAP_Fighting_Stage.MAP_Fighting_Stage (0.004830s)
+[2024.12.02-12.41.19:912][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.12.02-12.41.19:915][382]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-12.41.19:915][382]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-12.41.19:915][382]LogAIModule: Creating AISystem for world MAP_Fighting_Stage
+[2024.12.02-12.41.19:915][382]LogPlayLevel: PIE: World Init took: (0.000667s)
+[2024.12.02-12.41.19:915][382]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.12.02-12.41.19:915][382]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.02-12.41.19:915][382]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.02-12.41.19:915][382]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.02-12.41.19:915][382]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.02-12.41.19:916][382]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.02-12.41.19:916][382]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.02-12.41.19:916][382]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.02-12.41.19:916][382]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.02-12.41.19:916][382]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.02-12.41.19:916][382]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.02-12.41.19:916][382]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.02-12.41.19:917][382]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.02-12.41.19:935][382]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.12.02-12.41.19:935][382]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.02-12.41.19:935][382]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.02-12.41.19:935][382]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.02-12.41.19:935][382]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.12.02-12.41.19:935][382]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.12.02-12.41.19:937][382]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.12.02-12.41.19:937][382]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.12.02-12.41.19:937][382]LogInit: FAudioDevice initialized with ID 8.
+[2024.12.02-12.41.19:937][382]LogAudio: Display: Audio Device (ID: 8) registered with world 'MAP_Fighting_Stage'.
+[2024.12.02-12.41.19:937][382]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.12.02-12.41.19:941][382]LogLoad: Game class is 'BP_FightingGameMode_C'
+[2024.12.02-12.41.19:942][382]LogWorld: Bringing World /Game/Level/UEDPIE_0_MAP_Fighting_Stage.MAP_Fighting_Stage up for play (max tick rate 0) at 2024.12.02-12.41.19
+[2024.12.02-12.41.19:943][382]LogOnline: OSS: Created online subsystem instance for: :Context_164
+[2024.12.02-12.41.19:943][382]LogWorld: Bringing up level for play took: 0.002462
+[2024.12.02-12.41.19:944][382]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.12.02-12.41.19:944][382]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.12.02-12.41.19:944][382]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.12.02-12.41.19:944][382]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.12.02-12.41.19:944][382]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.12.02-12.41.19:944][382]LogNet: GameNetDriver IpNetDriver_6 IpNetDriver listening on port 17777
+[2024.12.02-12.41.19:944][382]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.12.02-12.41.19:944][382]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.12.02-12.41.19:944][382]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.12.02-12.41.19:944][382]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.12.02-12.41.19:948][382]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.12.02-12.41.19:948][382]PIE: Server logged in
+[2024.12.02-12.41.19:948][382]PIE: Play in editor total start time 0.094 seconds.
+[2024.12.02-12.41.21:408][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.02-12.41.21:408][546]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MAP_Fighting_Stage
+[2024.12.02-12.41.21:408][546]LogWorld: UWorld::CleanupWorld for MAP_Fighting_Stage, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-12.41.21:409][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-12.41.21:410][546]LogNet: World NetDriver shutdown IpNetDriver_6 [GameNetDriver]
+[2024.12.02-12.41.21:410][546]LogNet: DestroyNamedNetDriver IpNetDriver_6 [GameNetDriver]
+[2024.12.02-12.41.21:410][546]LogExit: GameNetDriver IpNetDriver_6 shut down
+[2024.12.02-12.41.21:411][546]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.02-12.41.21:415][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-12.41.21:424][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.02-12.41.21:424][546]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.12.02-12.41.21:424][546]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.12.02-12.41.21:426][546]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.12.02-12.41.21:431][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.12.02-12.41.21:494][548]LogPlayLevel: Display: Destroying online subsystem :Context_164
+[2024.12.02-12.41.27:232][183]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.02-12.41.27:250][183]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.02-12.41.27:250][183]PIE: New page: PIE session: MAP_Fighting_Stage (2 Dec 2024, 12:41:27)
+[2024.12.02-12.41.27:278][183]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MAP_Fighting_Stage
+[2024.12.02-12.41.27:282][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004388s)
+[2024.12.02-12.41.27:282][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MAP_Fighting_Stage.MAP_Fighting_Stage to /Game/Level/UEDPIE_0_MAP_Fighting_Stage.MAP_Fighting_Stage (0.004417s)
+[2024.12.02-12.41.27:291][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.12.02-12.41.27:293][183]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-12.41.27:293][183]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-12.41.27:293][183]LogAIModule: Creating AISystem for world MAP_Fighting_Stage
+[2024.12.02-12.41.27:293][183]LogPlayLevel: PIE: World Init took: (0.000673s)
+[2024.12.02-12.41.27:293][183]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.12.02-12.41.27:293][183]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.02-12.41.27:293][183]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.02-12.41.27:293][183]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.02-12.41.27:293][183]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.02-12.41.27:293][183]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.02-12.41.27:293][183]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.02-12.41.27:293][183]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.02-12.41.27:293][183]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.02-12.41.27:294][183]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.02-12.41.27:294][183]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.02-12.41.27:294][183]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.02-12.41.27:295][183]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.02-12.41.27:311][183]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.12.02-12.41.27:311][183]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.02-12.41.27:311][183]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.02-12.41.27:311][183]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.02-12.41.27:311][183]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.12.02-12.41.27:311][183]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.12.02-12.41.27:313][183]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.12.02-12.41.27:313][183]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.12.02-12.41.27:313][183]LogInit: FAudioDevice initialized with ID 9.
+[2024.12.02-12.41.27:313][183]LogAudio: Display: Audio Device (ID: 9) registered with world 'MAP_Fighting_Stage'.
+[2024.12.02-12.41.27:313][183]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.12.02-12.41.27:315][183]LogLoad: Game class is 'BP_FightingGameMode_C'
+[2024.12.02-12.41.27:316][183]LogWorld: Bringing World /Game/Level/UEDPIE_0_MAP_Fighting_Stage.MAP_Fighting_Stage up for play (max tick rate 0) at 2024.12.02-12.41.27
+[2024.12.02-12.41.27:317][183]LogOnline: OSS: Created online subsystem instance for: :Context_165
+[2024.12.02-12.41.27:317][183]LogWorld: Bringing up level for play took: 0.002264
+[2024.12.02-12.41.27:317][183]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.12.02-12.41.27:317][183]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.12.02-12.41.27:317][183]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.12.02-12.41.27:317][183]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.12.02-12.41.27:317][183]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.12.02-12.41.27:317][183]LogNet: GameNetDriver IpNetDriver_7 IpNetDriver listening on port 17777
+[2024.12.02-12.41.27:317][183]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.12.02-12.41.27:317][183]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.12.02-12.41.27:317][183]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.12.02-12.41.27:318][183]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.12.02-12.41.27:322][183]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.12.02-12.41.27:322][183]PIE: Server logged in
+[2024.12.02-12.41.27:323][183]PIE: Play in editor total start time 0.073 seconds.
+[2024.12.02-12.41.29:658][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.02-12.41.29:658][447]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MAP_Fighting_Stage
+[2024.12.02-12.41.29:658][447]LogWorld: UWorld::CleanupWorld for MAP_Fighting_Stage, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-12.41.29:658][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-12.41.29:659][447]LogNet: World NetDriver shutdown IpNetDriver_7 [GameNetDriver]
+[2024.12.02-12.41.29:659][447]LogNet: DestroyNamedNetDriver IpNetDriver_7 [GameNetDriver]
+[2024.12.02-12.41.29:659][447]LogExit: GameNetDriver IpNetDriver_7 shut down
+[2024.12.02-12.41.29:661][447]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.02-12.41.29:664][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-12.41.29:672][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.02-12.41.29:673][447]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.12.02-12.41.29:673][447]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.12.02-12.41.29:674][447]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.12.02-12.41.29:680][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.12.02-12.41.29:735][451]LogPlayLevel: Display: Destroying online subsystem :Context_165
+[2024.12.02-12.41.45:332][252]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Braum/Standing_Walk_Forward_mixamo_com.Standing_Walk_Forward_mixamo_com
+[2024.12.02-12.41.45:333][252]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-12.41.45:333][252]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-12.41.45:340][252]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_157:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.02-12.41.45:638][252]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-12.41.45:638][252]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-12.41.45:822][252]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-12.41.45:822][252]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-12.41.45:832][252]LogViewport: Scene viewport resized to 761x318, mode Windowed.
+[2024.12.02-12.41.45:871][252]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.12.02-12.41.53:935][988]LogSlate: Window 'Standing_Walk_Forward_mixamo_com' being destroyed
+[2024.12.02-12.41.54:028][988]LogWorld: UWorld::CleanupWorld for World_159, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-12.41.54:028][988]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-12.41.54:034][988]LogWorld: UWorld::CleanupWorld for World_157, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-12.41.54:034][988]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-12.41.54:080][988]LogWorld: UWorld::CleanupWorld for World_158, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-12.41.54:080][988]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-12.53.17:082][812]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Braum/Fighting_Idle__1__mixamo_com.Fighting_Idle__1__mixamo_com
+[2024.12.02-12.53.17:083][812]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-12.53.17:083][812]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-12.53.17:091][812]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_160:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.02-12.53.17:592][812]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-12.53.17:593][812]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-12.53.17:753][812]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-12.53.17:753][812]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-12.53.17:764][812]LogViewport: Scene viewport resized to 761x318, mode Windowed.
+[2024.12.02-12.53.17:776][812]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.12.02-12.53.20:126][ 34]LogSlate: Window 'Fighting_Idle__1__mixamo_com' being destroyed
+[2024.12.02-12.53.20:183][ 34]LogWorld: UWorld::CleanupWorld for World_162, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-12.53.20:184][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-12.53.20:191][ 34]LogWorld: UWorld::CleanupWorld for World_160, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-12.53.20:191][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-12.53.20:229][ 34]LogWorld: UWorld::CleanupWorld for World_161, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-12.53.20:229][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
