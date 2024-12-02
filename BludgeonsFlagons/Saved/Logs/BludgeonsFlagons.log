@@ -2104,3 +2104,371 @@ Would you like to regenerate the Skeleton from this mesh?
 [2024.12.02-10.25.50:895][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
 [2024.12.02-10.25.50:905][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
 [2024.12.02-10.25.50:912][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.12.02-10.27.17:359][146]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/monk/themonk_low.themonk_low
+[2024.12.02-10.27.17:361][146]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-10.27.17:361][146]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-10.27.17:369][146]LoadErrors: The Skeleton  themonk_low_Skeleton is missing bones that SkeletalMesh  themonk_low needs. They will be added now. Please save the Skeleton!
+[2024.12.02-10.27.17:442][146]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.02-10.27.17:897][146]LogToolMenus: Warning: Menu already registered : SkeletalMeshEditor.MeshContextMenu
+[2024.12.02-10.27.17:996][146]LogViewport: Scene viewport resized to 955x499, mode Windowed.
+[2024.12.02-10.27.22:343][494]LogSlate: Window 'themonk_low' being destroyed
+[2024.12.02-10.27.22:381][494]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-10.27.22:381][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-10.27.24:075][684]LogSlate: Window 'Message Log' being destroyed
+[2024.12.02-10.27.24:079][684]LogSlate: Window 'Message Log' being destroyed
+[2024.12.02-10.29.29:890][178]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\CHARS\Braum\Bodvar_unrigged.fbx)
+[2024.12.02-10.29.29:894][178]LogFbx: Loading FBX Scene from D:\CHARS\Braum\Bodvar_unrigged.fbx
+[2024.12.02-10.29.29:902][178]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.02-10.29.38:421][178]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.12.02-10.29.38:522][178]LogFbx: Display: Triangulating static mesh polySurface20
+[2024.12.02-10.29.38:705][178]LogStaticMesh: Display: Building static mesh Bodvar_unrigged...
+[2024.12.02-10.29.38:781][178]LogStaticMesh: Built static mesh [0.08s] /Game/Characters/Braum/Bodvar_unrigged.Bodvar_unrigged
+[2024.12.02-10.29.38:824][178]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.12.02-10.29.39:333][181]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-10.29.39:354][181]LogShaderCompilers: Display: ================================================
+[2024.12.02-10.29.39:354][181]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.02-10.29.39:354][181]LogShaderCompilers: Display: Total job queries 588, among them cache hits 209 (35.54%)
+[2024.12.02-10.29.39:354][181]LogShaderCompilers: Display: Tracking 263 distinct input hashes that result in 113 distinct outputs (42.97%)
+[2024.12.02-10.29.39:354][181]LogShaderCompilers: Display: RAM used: 6.10 MiB of 1.60 GiB budget. Usage: 0.37%
+[2024.12.02-10.29.39:354][181]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.02-10.29.39:354][181]LogShaderCompilers: Display: Shaders Compiled: 263
+[2024.12.02-10.29.39:354][181]LogShaderCompilers: Display: Jobs assigned 263, completed 263 (100%)
+[2024.12.02-10.29.39:354][181]LogShaderCompilers: Display: Average time worker was idle: 30.25 s
+[2024.12.02-10.29.39:354][181]LogShaderCompilers: Display: Time job spent in pending queue: average 0.23 s, longest 1.30 s
+[2024.12.02-10.29.39:354][181]LogShaderCompilers: Display: Job execution time: average 0.22 s, max 0.43 s
+[2024.12.02-10.29.39:354][181]LogShaderCompilers: Display: Job life time (pending + execution): average 0.45 s, max 1.61
+[2024.12.02-10.29.39:354][181]LogShaderCompilers: Display: Shader code size: average 39.427 KiB, min 4.359 KiB, max 95.887 KiB
+[2024.12.02-10.29.39:354][181]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 15.54 s
+[2024.12.02-10.29.39:354][181]LogShaderCompilers: Display: Jobs were issued in 263 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.02-10.29.39:354][181]LogShaderCompilers: Display: Average processing rate: 16.93 jobs/sec
+[2024.12.02-10.29.39:354][181]LogShaderCompilers: Display: Total thread time: 38.095 s
+[2024.12.02-10.29.39:354][181]LogShaderCompilers: Display: Total thread preprocess time: 4.061 s
+[2024.12.02-10.29.39:354][181]LogShaderCompilers: Display: Percentage time preprocessing: 10.66%
+[2024.12.02-10.29.39:354][181]LogShaderCompilers: Display: Effective parallelization: 2.45 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.02-10.29.39:354][181]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.02-10.29.39:354][181]LogShaderCompilers: Display:                        FLumenFrontLayerTranslucencyGBufferVS (compiled    1 times, average 0.26 sec, max 0.26 sec, min 0.26 sec)
+[2024.12.02-10.29.39:354][181]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 0.26 sec, max 0.26 sec, min 0.26 sec)
+[2024.12.02-10.29.39:354][181]LogShaderCompilers: Display:                        FLumenTranslucencyRadianceCacheMarkVS (compiled    1 times, average 0.25 sec, max 0.25 sec, min 0.25 sec)
+[2024.12.02-10.29.39:354][181]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2024.12.02-10.29.39:354][181]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    1 times, average 0.20 sec, max 0.20 sec, min 0.20 sec)
+[2024.12.02-10.29.39:354][181]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.02-10.29.39:354][181]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 22.66% of total time (compiled   56 times, average 0.15 sec, max 0.35 sec, min 0.11 sec)
+[2024.12.02-10.29.39:354][181]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 21.90% of total time (compiled   54 times, average 0.15 sec, max 0.25 sec, min 0.10 sec)
+[2024.12.02-10.29.39:354][181]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.95% of total time (compiled   30 times, average 0.15 sec, max 0.21 sec, min 0.12 sec)
+[2024.12.02-10.29.39:354][181]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 5.54% of total time (compiled   30 times, average 0.07 sec, max 0.10 sec, min 0.05 sec)
+[2024.12.02-10.29.39:354][181]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 3.64% of total time (compiled    8 times, average 0.17 sec, max 0.27 sec, min 0.14 sec)
+[2024.12.02-10.29.39:354][181]LogShaderCompilers: Display: ================================================
+[2024.12.02-10.29.41:074][373]LogSlate: Window 'Message Log' being destroyed
+[2024.12.02-10.29.41:078][373]LogSlate: Window 'Message Log' being destroyed
+[2024.12.02-10.29.42:030][478]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Characters/Braum/Bodvar_unrigged.Bodvar_unrigged
+[2024.12.02-10.29.42:082][478]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-10.29.42:082][478]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-10.29.42:449][478]LogViewport: Scene viewport resized to 938x535, mode Windowed.
+[2024.12.02-10.29.47:182][953]LogSlate: Window 'Bodvar_unrigged' being destroyed
+[2024.12.02-10.29.47:263][953]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-10.29.47:263][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-10.30.13:539][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.12.02-10.30.13:541][ 37]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/MAP_Fighting_Stage' took 0.013
+[2024.12.02-10.30.13:541][ 37]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/monk/themonk_low] ([1] browsable assets)...
+[2024.12.02-10.30.13:541][ 37]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/monk/themonk_low]
+[2024.12.02-10.30.13:837][ 37]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/monk/themonk_low_Auto2
+[2024.12.02-10.30.13:837][ 37]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/themonk_low_Auto28B7A941F4D904A6A27755D9AF3248FEE.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Autosaves/Game/Characters/monk/themonk_low_Auto2.uasset'
+[2024.12.02-10.30.13:838][ 37]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/monk/AnzoSkin] ([1] browsable assets)...
+[2024.12.02-10.30.13:838][ 37]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/monk/AnzoSkin]
+[2024.12.02-10.30.13:841][ 37]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/monk/AnzoSkin_Auto2
+[2024.12.02-10.30.13:841][ 37]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/AnzoSkin_Auto2289FD32443ED2DC4F84DBF80DBC4C98F.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Autosaves/Game/Characters/monk/AnzoSkin_Auto2.uasset'
+[2024.12.02-10.30.13:842][ 37]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/monk/themonk_low_Skeleton] ([1] browsable assets)...
+[2024.12.02-10.30.13:842][ 37]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/monk/themonk_low_Skeleton]
+[2024.12.02-10.30.13:843][ 37]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/monk/themonk_low_Skeleton_Auto2
+[2024.12.02-10.30.13:843][ 37]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/themonk_low_Skeleton_Auto2FE5FF8FE42E5D8EF50868F997F72ADD2.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Autosaves/Game/Characters/monk/themonk_low_Skeleton_Auto2.uasset'
+[2024.12.02-10.30.13:844][ 37]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/monk/themonk_low_PhysicsAsset] ([1] browsable assets)...
+[2024.12.02-10.30.13:844][ 37]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/monk/themonk_low_PhysicsAsset]
+[2024.12.02-10.30.13:875][ 37]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/monk/themonk_low_PhysicsAsset_Auto2
+[2024.12.02-10.30.13:875][ 37]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/themonk_low_PhysicsAsset_Auto202B6594743A0D70665F898B85A77959C.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Autosaves/Game/Characters/monk/themonk_low_PhysicsAsset_Auto2.uasset'
+[2024.12.02-10.30.13:875][ 37]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/monk/textures/monk_low_Base_color] ([1] browsable assets)...
+[2024.12.02-10.30.13:875][ 37]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/monk/textures/monk_low_Base_color]
+[2024.12.02-10.30.14:383][ 37]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/monk/textures/monk_low_Base_color_Auto2
+[2024.12.02-10.30.14:383][ 37]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/monk_low_Base_color_Auto247601856472F7435C3349A87888BA92A.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Autosaves/Game/Characters/monk/textures/monk_low_Base_color_Auto2.uasset'
+[2024.12.02-10.30.14:384][ 37]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/monk/textures/monk_low_Normal] ([1] browsable assets)...
+[2024.12.02-10.30.14:384][ 37]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/monk/textures/monk_low_Normal]
+[2024.12.02-10.30.15:320][ 37]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/monk/textures/monk_low_Normal_Auto2
+[2024.12.02-10.30.15:320][ 37]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/monk_low_Normal_Auto26CEAE3AA4DF1719EFF925286F792ADF9.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Autosaves/Game/Characters/monk/textures/monk_low_Normal_Auto2.uasset'
+[2024.12.02-10.30.15:321][ 37]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/monk/textures/monk_low_Roughness] ([1] browsable assets)...
+[2024.12.02-10.30.15:321][ 37]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/monk/textures/monk_low_Roughness]
+[2024.12.02-10.30.15:434][ 37]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/monk/textures/monk_low_Roughness_Auto2
+[2024.12.02-10.30.15:434][ 37]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/monk_low_Roughness_Auto2A6A15D41436D0207F23D328B26CB0165.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Autosaves/Game/Characters/monk/textures/monk_low_Roughness_Auto2.uasset'
+[2024.12.02-10.30.15:435][ 37]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/monk/textures/monk_low_Mixed_AO] ([1] browsable assets)...
+[2024.12.02-10.30.15:435][ 37]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/monk/textures/monk_low_Mixed_AO]
+[2024.12.02-10.30.15:550][ 37]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/monk/textures/monk_low_Mixed_AO_Auto2
+[2024.12.02-10.30.15:551][ 37]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/monk_low_Mixed_AO_Auto21A27626E451C6123F6EDAC98EB6AC465.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Autosaves/Game/Characters/monk/textures/monk_low_Mixed_AO_Auto2.uasset'
+[2024.12.02-10.30.15:551][ 37]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/monk/textures/monk_low_Metallic] ([1] browsable assets)...
+[2024.12.02-10.30.15:551][ 37]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/monk/textures/monk_low_Metallic]
+[2024.12.02-10.30.15:665][ 37]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/monk/textures/monk_low_Metallic_Auto2
+[2024.12.02-10.30.15:665][ 37]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/monk_low_Metallic_Auto29503EB3E4754A7BC4C56B69D975418CD.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Autosaves/Game/Characters/monk/textures/monk_low_Metallic_Auto2.uasset'
+[2024.12.02-10.30.15:666][ 37]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/monk/textures/monk_low_Height] ([1] browsable assets)...
+[2024.12.02-10.30.15:666][ 37]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/monk/textures/monk_low_Height]
+[2024.12.02-10.30.15:917][ 37]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/monk/textures/monk_low_Height_Auto2
+[2024.12.02-10.30.15:917][ 37]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/monk_low_Height_Auto207431CF24B1D49A1E15CD4A5701B03C5.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Autosaves/Game/Characters/monk/textures/monk_low_Height_Auto2.uasset'
+[2024.12.02-10.30.15:918][ 37]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/monk/textures/eyes/eye_low_Roughness] ([1] browsable assets)...
+[2024.12.02-10.30.15:920][ 37]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/monk/textures/eyes/eye_low_Roughness.eye_low_Roughness]
+[2024.12.02-10.30.15:920][ 37]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/monk/textures/eyes/eye_low_Roughness]
+[2024.12.02-10.30.16:033][ 37]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/monk/textures/eyes/eye_low_Roughness_Auto2
+[2024.12.02-10.30.16:033][ 37]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/eye_low_Roughness_Auto251E706F645915CFCEC8D429996EC2AE5.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Autosaves/Game/Characters/monk/textures/eyes/eye_low_Roughness_Auto2.uasset'
+[2024.12.02-10.30.16:034][ 37]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/monk/textures/eyes/eye_low_Normal] ([1] browsable assets)...
+[2024.12.02-10.30.16:035][ 37]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/monk/textures/eyes/eye_low_Normal.eye_low_Normal]
+[2024.12.02-10.30.16:035][ 37]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/monk/textures/eyes/eye_low_Normal]
+[2024.12.02-10.30.16:978][ 37]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/monk/textures/eyes/eye_low_Normal_Auto2
+[2024.12.02-10.30.16:978][ 37]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/eye_low_Normal_Auto2061BB0204386FC1AC71E4B8EB4D8B252.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Autosaves/Game/Characters/monk/textures/eyes/eye_low_Normal_Auto2.uasset'
+[2024.12.02-10.30.16:978][ 37]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/monk/textures/eyes/eye_low_Metallic] ([1] browsable assets)...
+[2024.12.02-10.30.16:980][ 37]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/monk/textures/eyes/eye_low_Metallic.eye_low_Metallic]
+[2024.12.02-10.30.16:980][ 37]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/monk/textures/eyes/eye_low_Metallic]
+[2024.12.02-10.30.17:093][ 37]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/monk/textures/eyes/eye_low_Metallic_Auto2
+[2024.12.02-10.30.17:093][ 37]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/eye_low_Metallic_Auto2A000A2984E54BBCAF26C38B05B357490.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Autosaves/Game/Characters/monk/textures/eyes/eye_low_Metallic_Auto2.uasset'
+[2024.12.02-10.30.17:094][ 37]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/monk/textures/eyes/eye_low_Height] ([1] browsable assets)...
+[2024.12.02-10.30.17:096][ 37]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/monk/textures/eyes/eye_low_Height.eye_low_Height]
+[2024.12.02-10.30.17:096][ 37]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/monk/textures/eyes/eye_low_Height]
+[2024.12.02-10.30.17:454][ 37]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/monk/textures/eyes/eye_low_Height_Auto2
+[2024.12.02-10.30.17:454][ 37]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/eye_low_Height_Auto29C704FBA45E6FB15E0C718BD547CF873.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Autosaves/Game/Characters/monk/textures/eyes/eye_low_Height_Auto2.uasset'
+[2024.12.02-10.30.17:455][ 37]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/monk/textures/eyes/eye_low_Base_color] ([1] browsable assets)...
+[2024.12.02-10.30.17:456][ 37]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/monk/textures/eyes/eye_low_Base_color.eye_low_Base_color]
+[2024.12.02-10.30.17:456][ 37]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/monk/textures/eyes/eye_low_Base_color]
+[2024.12.02-10.30.18:167][ 37]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/monk/textures/eyes/eye_low_Base_color_Auto2
+[2024.12.02-10.30.18:167][ 37]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/eye_low_Base_color_Auto2A1A9F33F41A4A3CD4E53EFA276BEB61F.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Autosaves/Game/Characters/monk/textures/eyes/eye_low_Base_color_Auto2.uasset'
+[2024.12.02-10.30.18:168][ 37]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Braum/Bodvar_unrigged] ([1] browsable assets)...
+[2024.12.02-10.30.18:217][ 37]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Characters/Braum/Bodvar_unrigged.Bodvar_unrigged]
+[2024.12.02-10.30.18:217][ 37]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Braum/Bodvar_unrigged]
+[2024.12.02-10.30.18:239][ 37]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Braum/Bodvar_unrigged_Auto2
+[2024.12.02-10.30.18:239][ 37]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Bodvar_unrigged_Auto22B670A3349A24E24B69F63A33ED32CE9.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Autosaves/Game/Characters/Braum/Bodvar_unrigged_Auto2.uasset'
+[2024.12.02-10.30.18:240][ 37]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Braum/aiStandardSurface1] ([1] browsable assets)...
+[2024.12.02-10.30.18:258][ 37]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/Braum/aiStandardSurface1.aiStandardSurface1]
+[2024.12.02-10.30.18:258][ 37]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Braum/aiStandardSurface1]
+[2024.12.02-10.30.18:287][ 37]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Braum/aiStandardSurface1_Auto2
+[2024.12.02-10.30.18:287][ 37]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/aiStandardSurface1_Auto2A089962A4702C6FF7EFF83B65E3B9FF1.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Autosaves/Game/Characters/Braum/aiStandardSurface1_Auto2.uasset'
+[2024.12.02-10.30.18:287][ 37]LogFileHelpers: Auto-saving content packages took 4.748
+[2024.12.02-10.30.31:460][528]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.12.02-10.30.31:468][528]LogContentBrowser: Creating deferred item: NewFolder
+[2024.12.02-10.30.31:473][529]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.12.02-10.30.38:065][318]LogContentBrowser: Attempting asset rename: NewFolder -> textures
+[2024.12.02-10.30.38:066][318]LogContentBrowser: End creating deferred item NewFolder
+[2024.12.02-10.31.49:293][378]LogInterchangeEngine: [Pending] Importing
+[2024.12.02-10.31.49:293][378]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Student/Downloads/bodvar_lowpoly_test_standardSurface1_OcclusionRoughnessMetallic.png]
+[2024.12.02-10.31.49:293][378]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.12.02-10.31.49:293][378]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Student/Downloads/bodvar_lowpoly_test_standardSurface1_Normal.png]
+[2024.12.02-10.31.49:293][378]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.12.02-10.31.49:293][378]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Student/Downloads/bodvar_lowpoly_test_standardSurface1_BaseColor.png]
+[2024.12.02-10.31.49:306][379]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.12.02-10.31.49:626][379]LogTexture: Display: Building textures: /Game/Characters/Braum/textures/bodvar_lowpoly_test_standardSurface1_BaseColor.bodvar_lowpoly_test_standardSurface1_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.12.02-10.31.49:636][379]LogTexture: Display: Building textures: /Game/Characters/Braum/textures/bodvar_lowpoly_test_standardSurface1_OcclusionRoughnessMetallic.bodvar_lowpoly_test_standardSurface1_OcclusionRoughnessMetallic (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.12.02-10.31.49:670][379]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.12.02-10.31.49:672][379]LogTexture: Display: Building textures: /Game/Characters/Braum/textures/bodvar_lowpoly_test_standardSurface1_Normal.bodvar_lowpoly_test_standardSurface1_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 213.562488 MB), EncodeSpeed: Fast
+[2024.12.02-10.31.49:682][379]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.12.02-10.31.49:682][379]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.12.02-10.31.49:695][379]LogInterchangeEngine: [Success] Import Done
+[2024.12.02-10.31.49:788][380]LogInterchangeEngine: [Success] Import Done
+[2024.12.02-10.31.53:697][691]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Characters/Braum/Bodvar_unrigged.Bodvar_unrigged
+[2024.12.02-10.31.53:746][691]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-10.31.53:746][691]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-10.31.54:116][691]LogViewport: Scene viewport resized to 938x535, mode Windowed.
+[2024.12.02-10.31.55:656][831]LogViewport: Scene viewport resized to 935x558, mode Windowed.
+[2024.12.02-10.31.55:722][833]LogViewport: Scene viewport resized to 673x373, mode Windowed.
+[2024.12.02-10.31.55:741][834]LogViewport: Scene viewport resized to 577x304, mode Windowed.
+[2024.12.02-10.31.56:665][926]LogViewport: Scene viewport resized to 1877x1254, mode Windowed.
+[2024.12.02-10.31.57:572][ 25]LogSlate: Window 'Bodvar_unrigged' being destroyed
+[2024.12.02-10.31.59:603][265]LogEditorFactories: Performing atomic reimport of [D:/CHARS/Braum/Bodvar_unrigged.fbx]
+[2024.12.02-10.31.59:606][265]LogFbx: Loading FBX Scene from D:/CHARS/Braum/Bodvar_unrigged.fbx
+[2024.12.02-10.31.59:613][265]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.02-10.31.59:667][265]LogFbx: Display: Triangulating static mesh polySurface20
+[2024.12.02-10.31.59:893][265]LogEditorFactories: -- imported successfully
+[2024.12.02-10.31.59:895][265]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.12.02-10.32.06:239][940]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Characters/Braum/aiStandardSurface1.aiStandardSurface1
+[2024.12.02-10.32.06:242][940]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-10.32.06:242][940]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-10.32.06:531][940]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.02-10.32.06:531][940]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.02-10.32.06:531][940]MaterialEditorStats: Shader Count: 0
+[2024.12.02-10.32.06:533][940]LogViewport: Scene viewport resized to 504x624, mode Windowed.
+[2024.12.02-10.32.06:567][942]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.12.02-10.32.06:567][942]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.12.02-10.32.06:567][942]MaterialEditorStats: Texture samplers: 2/16
+[2024.12.02-10.32.06:567][942]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.02-10.32.06:567][942]MaterialEditorStats: Shader Count: 4
+[2024.12.02-10.32.08:888][213]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.02-10.32.08:888][213]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.02-10.32.08:888][213]MaterialEditorStats: Shader Count: 0
+[2024.12.02-10.32.08:937][215]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.12.02-10.32.08:938][215]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.12.02-10.32.08:938][215]MaterialEditorStats: Texture samplers: 2/16
+[2024.12.02-10.32.08:938][215]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.02-10.32.08:938][215]MaterialEditorStats: Shader Count: 4
+[2024.12.02-10.32.19:802][440]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.02-10.32.19:802][440]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.02-10.32.19:802][440]MaterialEditorStats: Shader Count: 0
+[2024.12.02-10.32.19:828][441]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.12.02-10.32.19:828][441]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.12.02-10.32.19:828][441]MaterialEditorStats: Texture samplers: 2/16
+[2024.12.02-10.32.19:828][441]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.02-10.32.19:828][441]MaterialEditorStats: Shader Count: 4
+[2024.12.02-10.32.31:243][754]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.02-10.32.31:243][754]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.12.02-10.32.31:243][754]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.02-10.32.31:243][754]MaterialEditorStats: Shader Count: 0
+[2024.12.02-10.32.31:405][764]MaterialEditorStats: Texture samplers: 1/16
+[2024.12.02-10.32.31:405][764]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.12.02-10.32.31:405][764]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.02-10.32.31:405][764]MaterialEditorStats: Shader Count: 1
+[2024.12.02-10.32.31:539][774]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.12.02-10.32.31:539][774]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.12.02-10.32.31:539][774]MaterialEditorStats: Texture samplers: 3/16
+[2024.12.02-10.32.31:539][774]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.12.02-10.32.31:539][774]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.02-10.32.31:539][774]MaterialEditorStats: Shader Count: 4
+[2024.12.02-10.32.40:243][741]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.02-10.32.40:243][741]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.12.02-10.32.40:243][741]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.02-10.32.40:243][741]MaterialEditorStats: Shader Count: 0
+[2024.12.02-10.32.40:286][743]LogShaderCompilers: Display: ================================================
+[2024.12.02-10.32.40:286][743]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.02-10.32.40:286][743]LogShaderCompilers: Display: Total job queries 646, among them cache hits 255 (39.47%)
+[2024.12.02-10.32.40:286][743]LogShaderCompilers: Display: Tracking 271 distinct input hashes that result in 113 distinct outputs (41.70%)
+[2024.12.02-10.32.40:286][743]LogShaderCompilers: Display: RAM used: 6.26 MiB of 1.60 GiB budget. Usage: 0.38%
+[2024.12.02-10.32.40:286][743]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.02-10.32.40:286][743]LogShaderCompilers: Display: Shaders Compiled: 271
+[2024.12.02-10.32.40:286][743]LogShaderCompilers: Display: Jobs assigned 275, completed 271 (98.55%)
+[2024.12.02-10.32.40:286][743]LogShaderCompilers: Display: Average time worker was idle: 38.89 s
+[2024.12.02-10.32.40:286][743]LogShaderCompilers: Display: Time job spent in pending queue: average 0.22 s, longest 1.30 s
+[2024.12.02-10.32.40:286][743]LogShaderCompilers: Display: Job execution time: average 0.22 s, max 0.43 s
+[2024.12.02-10.32.40:286][743]LogShaderCompilers: Display: Job life time (pending + execution): average 0.45 s, max 1.61
+[2024.12.02-10.32.40:286][743]LogShaderCompilers: Display: Shader code size: average 39.284 KiB, min 4.359 KiB, max 95.887 KiB
+[2024.12.02-10.32.40:286][743]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 16.12 s
+[2024.12.02-10.32.40:286][743]LogShaderCompilers: Display: Jobs were issued in 275 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.02-10.32.40:286][743]LogShaderCompilers: Display: Average processing rate: 16.81 jobs/sec
+[2024.12.02-10.32.40:286][743]LogShaderCompilers: Display: Total thread time: 39.008 s
+[2024.12.02-10.32.40:286][743]LogShaderCompilers: Display: Total thread preprocess time: 4.183 s
+[2024.12.02-10.32.40:286][743]LogShaderCompilers: Display: Percentage time preprocessing: 10.72%
+[2024.12.02-10.32.40:286][743]LogShaderCompilers: Display: Effective parallelization: 2.42 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.02-10.32.40:286][743]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.02-10.32.40:286][743]LogShaderCompilers: Display:                        FLumenFrontLayerTranslucencyGBufferVS (compiled    1 times, average 0.26 sec, max 0.26 sec, min 0.26 sec)
+[2024.12.02-10.32.40:286][743]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 0.26 sec, max 0.26 sec, min 0.26 sec)
+[2024.12.02-10.32.40:286][743]LogShaderCompilers: Display:                        FLumenTranslucencyRadianceCacheMarkVS (compiled    1 times, average 0.25 sec, max 0.25 sec, min 0.25 sec)
+[2024.12.02-10.32.40:286][743]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2024.12.02-10.32.40:286][743]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    1 times, average 0.20 sec, max 0.20 sec, min 0.20 sec)
+[2024.12.02-10.32.40:286][743]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.02-10.32.40:286][743]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 23.10% of total time (compiled   59 times, average 0.15 sec, max 0.35 sec, min 0.11 sec)
+[2024.12.02-10.32.40:286][743]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 22.32% of total time (compiled   57 times, average 0.15 sec, max 0.25 sec, min 0.10 sec)
+[2024.12.02-10.32.40:286][743]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.96% of total time (compiled   31 times, average 0.15 sec, max 0.21 sec, min 0.11 sec)
+[2024.12.02-10.32.40:286][743]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 5.55% of total time (compiled   31 times, average 0.07 sec, max 0.10 sec, min 0.05 sec)
+[2024.12.02-10.32.40:286][743]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 3.55% of total time (compiled    8 times, average 0.17 sec, max 0.27 sec, min 0.14 sec)
+[2024.12.02-10.32.40:286][743]LogShaderCompilers: Display: ================================================
+[2024.12.02-10.32.40:380][752]MaterialEditorStats: Texture samplers: 2/16
+[2024.12.02-10.32.40:380][752]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.12.02-10.32.40:380][752]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.02-10.32.40:380][752]MaterialEditorStats: Shader Count: 1
+[2024.12.02-10.32.40:513][761]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.12.02-10.32.40:513][761]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.12.02-10.32.40:513][761]MaterialEditorStats: Texture samplers: 4/16
+[2024.12.02-10.32.40:513][761]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.12.02-10.32.40:513][761]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.02-10.32.40:513][761]MaterialEditorStats: Shader Count: 4
+[2024.12.02-10.32.48:691][710]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.02-10.32.48:691][710]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.12.02-10.32.48:691][710]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.02-10.32.48:691][710]MaterialEditorStats: Shader Count: 0
+[2024.12.02-10.32.48:911][727]MaterialEditorStats: Texture samplers: 2/16
+[2024.12.02-10.32.48:911][727]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.12.02-10.32.48:911][727]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.02-10.32.48:911][727]MaterialEditorStats: Shader Count: 1
+[2024.12.02-10.32.49:048][737]MaterialEditorStats: Base pass shader: 205 instructions
+[2024.12.02-10.32.49:048][737]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.12.02-10.32.49:048][737]MaterialEditorStats: Texture samplers: 5/16
+[2024.12.02-10.32.49:048][737]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.12.02-10.32.49:048][737]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.02-10.32.49:048][737]MaterialEditorStats: Shader Count: 4
+[2024.12.02-10.32.51:424][ 11]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.02-10.32.51:424][ 11]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.12.02-10.32.51:424][ 11]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.02-10.32.51:424][ 11]MaterialEditorStats: Shader Count: 0
+[2024.12.02-10.32.51:567][ 22]MaterialEditorStats: Texture samplers: 3/16
+[2024.12.02-10.32.51:567][ 22]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.12.02-10.32.51:567][ 22]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.02-10.32.51:567][ 22]MaterialEditorStats: Shader Count: 1
+[2024.12.02-10.32.51:700][ 30]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.12.02-10.32.51:700][ 30]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.12.02-10.32.51:700][ 30]MaterialEditorStats: Texture samplers: 5/16
+[2024.12.02-10.32.51:700][ 30]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.12.02-10.32.51:700][ 30]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.02-10.32.51:700][ 30]MaterialEditorStats: Shader Count: 4
+[2024.12.02-10.32.52:661][136]LogMaterialEditor: Applying material aiStandardSurface1
+[2024.12.02-10.32.52:710][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.12.02-10.32.53:201][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.12.02-10.32.53:632][182]LogMaterialEditor: Saving and Compiling material aiStandardSurface1
+[2024.12.02-10.32.53:633][182]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.02-10.32.54:213][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Braum/aiStandardSurface1" FILE="D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/Braum/aiStandardSurface1.uasset" SILENT=true
+[2024.12.02-10.32.54:216][182]LogSavePackage: Moving output files for package: /Game/Characters/Braum/aiStandardSurface1
+[2024.12.02-10.32.54:216][182]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/aiStandardSurface1E0A69E6C4E92B2E4A60558B913AB78EE.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/Braum/aiStandardSurface1.uasset'
+[2024.12.02-10.32.54:221][182]LogFileHelpers: InternalPromptForCheckoutAndSave took 587 ms (total: 3.15 sec)
+[2024.12.02-10.32.54:221][182]AssetCheck: New page: Asset Save: aiStandardSurface1
+[2024.12.02-10.32.54:221][182]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Characters/Braum/aiStandardSurface1.aiStandardSurface1
+[2024.12.02-10.32.54:222][182]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.12.02-10.32.54:222][182]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.12.02-10.32.54:222][182]MaterialEditorStats: MaxSampler: 255 instructions
+[2024.12.02-10.32.54:222][182]MaterialEditorStats: Texture samplers: 6/16
+[2024.12.02-10.32.54:222][182]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.12.02-10.32.54:222][182]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.12.02-10.32.54:222][182]MaterialEditorStats: Shader Count: 16
+[2024.12.02-10.33.00:271][842]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-10.33.00:271][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-10.33.02:024][ 45]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.02-10.33.02:058][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Braum/Bodvar_unrigged" FILE="D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/Braum/Bodvar_unrigged.uasset" SILENT=true
+[2024.12.02-10.33.02:080][ 45]LogSavePackage: Moving output files for package: /Game/Characters/Braum/Bodvar_unrigged
+[2024.12.02-10.33.02:080][ 45]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/Bodvar_unriggedC0F706F04BAE78DD0EEEB3A035A39A9D.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Characters/Braum/Bodvar_unrigged.uasset'
+[2024.12.02-10.33.02:086][ 45]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 3.21 sec)
+[2024.12.02-10.33.02:086][ 45]AssetCheck: New page: Asset Save: Bodvar_unrigged
+[2024.12.02-10.33.02:086][ 45]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Characters/Braum/Bodvar_unrigged.Bodvar_unrigged
+[2024.12.02-10.33.07:276][637]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-10.33.07:276][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-10.33.38:542][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.12.02-10.33.39:607][235]LogSlate: Window 'Delete Assets' being destroyed
+[2024.12.02-10.33.39:638][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.12.02-10.33.39:647][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.12.02-10.33.39:654][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.12.02-10.33.45:105][415]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\CHARS\Braum\Bodvar_unrigged.fbx)
+[2024.12.02-10.33.45:109][415]LogFbx: Loading FBX Scene from D:\CHARS\Braum\Bodvar_unrigged.fbx
+[2024.12.02-10.33.45:116][415]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.02-10.33.51:048][415]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.12.02-10.33.51:095][415]LogFbx: Triangulating skeletal mesh polySurface20
+[2024.12.02-10.33.51:242][415]LogFbx: Bones digested - 2  Depth of hierarchy - 2
+[2024.12.02-10.33.51:487][415]LogSkeletalMesh: Section 0: Material=0, 16336 triangles
+[2024.12.02-10.33.51:505][415]LogSkeletalMesh: Building Skeletal Mesh Bodvar_unrigged...
+[2024.12.02-10.33.51:523][415]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Bodvar_unrigged) ...
+[2024.12.02-10.33.51:698][415]LogSkeletalMesh: Built Skeletal Mesh [0.19s] /Game/Characters/Braum/Bodvar_unrigged.Bodvar_unrigged
+[2024.12.02-10.33.51:796][415]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-10.33.51:796][415]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-10.33.51:808][415]LogMaterial: Display: Material /Game/Characters/Braum/aiStandardSurface1.aiStandardSurface1 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.12.02-10.33.51:819][415]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-10.33.51:820][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-10.33.51:834][415]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.12.02-10.33.51:834][415]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2024.12.02-10.33.52:456][450]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-10.33.53:175][533]LogSlate: Window 'Message Log' being destroyed
+[2024.12.02-10.33.53:179][533]LogSlate: Window 'Message Log' being destroyed
+[2024.12.02-10.33.56:821][959]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Characters/Braum/Bodvar_unrigged_Skeleton.Bodvar_unrigged_Skeleton
+[2024.12.02-10.33.56:822][959]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-10.33.56:822][959]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-10.33.56:829][959]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.02-10.33.57:083][959]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-10.33.57:083][959]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-10.33.57:170][959]LogViewport: Scene viewport resized to 761x499, mode Windowed.
+[2024.12.02-10.34.00:727][276]LogSlate: Window 'Bodvar_unrigged_Skeleton' being destroyed
+[2024.12.02-10.34.00:838][276]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-10.34.00:838][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-10.34.00:879][276]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-10.34.00:879][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-10.35.00:833][435]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.02-10.35.00:887][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MAP_Fighting_Stage" FILE="D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Level/MAP_Fighting_Stage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.02-10.35.01:250][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.12.02-10.35.01:284][435]LogSavePackage: Moving output files for package: /Game/Level/MAP_Fighting_Stage
+[2024.12.02-10.35.01:285][435]LogSavePackage: Moving 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Saved/MAP_Fighting_StageFD69668649A6591274C5BDBB6264EB9C.tmp' to 'D:/UNREAL/git9/Bludgeons--Flagons/BludgeonsFlagons/Content/Level/MAP_Fighting_Stage.umap'
+[2024.12.02-10.35.01:303][435]LogFileHelpers: Saving map 'MAP_Fighting_Stage' took 0.416
+[2024.12.02-10.35.01:307][435]LogFileHelpers: InternalPromptForCheckoutAndSave took 474 ms (total: 3.69 sec)
+[2024.12.02-10.35.01:309][435]AssetCheck: New page: Asset Save: MAP_Fighting_Stage
+[2024.12.02-10.35.01:309][435]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/MAP_Fighting_Stage.MAP_Fighting_Stage
