@@ -6265,3 +6265,681 @@ Make sure 'BP_ThirdPersonCharacter_C' has been compiled for  Shoot Projectile 1
 [2024.12.03-01.03.30:707][762]LogFileHelpers: InternalPromptForCheckoutAndSave took 196 ms (total: 554 ms)
 [2024.12.03-01.03.30:710][762]AssetCheck: New page: Asset Save: NS_RocketExhaust_Violet
 [2024.12.03-01.03.30:710][762]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/RocketThrusterExhaustFX/FX/NS_RocketExhaust_Violet.NS_RocketExhaust_Violet
+[2024.12.03-01.04.20:110][836]LogEditorViewport: Clicking Background
+[2024.12.03-01.04.26:309][308]LogViewport: Scene viewport resized to 1522x927, mode Windowed.
+[2024.12.03-01.04.33:793][188]BlueprintLog: New page: Compile BP_NymphSpell
+[2024.12.03-01.04.33:829][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.12.03-01.04.35:042][294]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.03-01.04.35:046][294]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.03-01.04.35:046][294]PIE: New page: PIE session: MAP_Fighting_Stage (3 Dec 2024, 01:04:35)
+[2024.12.03-01.04.35:080][294]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MAP_Fighting_Stage
+[2024.12.03-01.04.35:086][294]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006017s)
+[2024.12.03-01.04.35:086][294]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MAP_Fighting_Stage.MAP_Fighting_Stage to /Game/Level/UEDPIE_0_MAP_Fighting_Stage.MAP_Fighting_Stage (0.006048s)
+[2024.12.03-01.04.35:102][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.12.03-01.04.35:106][294]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.03-01.04.35:106][294]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.03-01.04.35:106][294]LogAIModule: Creating AISystem for world MAP_Fighting_Stage
+[2024.12.03-01.04.35:106][294]LogPlayLevel: PIE: World Init took: (0.000739s)
+[2024.12.03-01.04.35:107][294]LogAudio: Display: Creating Audio Device:                 Id: 64, Scope: Unique, Realtime: True
+[2024.12.03-01.04.35:107][294]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.03-01.04.35:107][294]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.03-01.04.35:107][294]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.03-01.04.35:107][294]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.03-01.04.35:107][294]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.03-01.04.35:107][294]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.03-01.04.35:107][294]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.03-01.04.35:107][294]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.03-01.04.35:107][294]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.03-01.04.35:107][294]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.03-01.04.35:107][294]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.03-01.04.35:109][294]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.03-01.04.35:127][294]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (Corsair VOID ELITE Surround USB Adapter)
+[2024.12.03-01.04.35:127][294]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.03-01.04.35:127][294]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.03-01.04.35:127][294]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.03-01.04.35:128][294]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=64
+[2024.12.03-01.04.35:128][294]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=64
+[2024.12.03-01.04.35:128][294]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=64
+[2024.12.03-01.04.35:128][294]LogInit: FAudioDevice initialized with ID 64.
+[2024.12.03-01.04.35:128][294]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=64
+[2024.12.03-01.04.35:128][294]LogAudio: Display: Audio Device (ID: 64) registered with world 'MAP_Fighting_Stage'.
+[2024.12.03-01.04.35:128][294]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 64
+[2024.12.03-01.04.35:131][294]LogLoad: Game class is 'BP_FightingGameMode_C'
+[2024.12.03-01.04.35:132][294]LogWorld: Bringing World /Game/Level/UEDPIE_0_MAP_Fighting_Stage.MAP_Fighting_Stage up for play (max tick rate 0) at 2024.12.03-01.04.35
+[2024.12.03-01.04.35:133][294]LogWorld: Bringing up level for play took: 0.001606
+[2024.12.03-01.04.35:134][294]LogOnline: OSS: Created online subsystem instance for: :Context_79
+[2024.12.03-01.04.35:134][294]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.12.03-01.04.35:134][294]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.12.03-01.04.35:134][294]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.12.03-01.04.35:135][294]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.12.03-01.04.35:139][294]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.12.03-01.04.35:139][294]PIE: Server logged in
+[2024.12.03-01.04.35:140][294]PIE: Play in editor total start time 0.094 seconds.
+[2024.12.03-01.04.37:820][471]LogBlueprintUserMessages: [BP_ThirdPersonChar2_C_0] 140.0
+[2024.12.03-01.04.40:331][678]LogBlueprintUserMessages: [BP_ThirdPersonChar2_C_0] 130.0
+[2024.12.03-01.04.43:023][900]LogBlueprintUserMessages: [BP_ThirdPersonChar2_C_0] 120.0
+[2024.12.03-01.04.43:401][929]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.03-01.04.43:401][929]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MAP_Fighting_Stage
+[2024.12.03-01.04.43:401][929]LogWorld: UWorld::CleanupWorld for MAP_Fighting_Stage, bSessionEnded=true, bCleanupResources=true
+[2024.12.03-01.04.43:403][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.03-01.04.43:406][929]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.03-01.04.43:411][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.03-01.04.43:423][929]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.03-01.04.43:423][929]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 64
+[2024.12.03-01.04.43:423][929]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=64
+[2024.12.03-01.04.43:425][929]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=64
+[2024.12.03-01.04.43:432][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.12.03-01.04.43:475][930]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2024.12.03-01.05.35:499][ 95]BlueprintLog: New page: Compile BP_NymphSpell
+[2024.12.03-01.05.35:533][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.12.03-01.05.36:587][177]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.03-01.05.36:591][177]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.03-01.05.36:591][177]PIE: New page: PIE session: MAP_Fighting_Stage (3 Dec 2024, 01:05:36)
+[2024.12.03-01.05.36:591][177]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MAP_Fighting_Stage
+[2024.12.03-01.05.36:597][177]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006035s)
+[2024.12.03-01.05.36:597][177]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MAP_Fighting_Stage.MAP_Fighting_Stage to /Game/Level/UEDPIE_0_MAP_Fighting_Stage.MAP_Fighting_Stage (0.006062s)
+[2024.12.03-01.05.36:613][177]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.12.03-01.05.36:619][177]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.03-01.05.36:619][177]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.03-01.05.36:620][177]LogAIModule: Creating AISystem for world MAP_Fighting_Stage
+[2024.12.03-01.05.36:620][177]LogPlayLevel: PIE: World Init took: (0.000706s)
+[2024.12.03-01.05.36:620][177]LogAudio: Display: Creating Audio Device:                 Id: 65, Scope: Unique, Realtime: True
+[2024.12.03-01.05.36:620][177]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.03-01.05.36:620][177]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.03-01.05.36:620][177]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.03-01.05.36:620][177]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.03-01.05.36:620][177]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.03-01.05.36:620][177]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.03-01.05.36:620][177]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.03-01.05.36:620][177]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.03-01.05.36:620][177]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.03-01.05.36:620][177]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.03-01.05.36:620][177]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.03-01.05.36:622][177]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.03-01.05.36:640][177]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (Corsair VOID ELITE Surround USB Adapter)
+[2024.12.03-01.05.36:640][177]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.03-01.05.36:640][177]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.03-01.05.36:640][177]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.03-01.05.36:640][177]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=65
+[2024.12.03-01.05.36:640][177]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=65
+[2024.12.03-01.05.36:642][177]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=65
+[2024.12.03-01.05.36:642][177]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=65
+[2024.12.03-01.05.36:642][177]LogInit: FAudioDevice initialized with ID 65.
+[2024.12.03-01.05.36:642][177]LogAudio: Display: Audio Device (ID: 65) registered with world 'MAP_Fighting_Stage'.
+[2024.12.03-01.05.36:642][177]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 65
+[2024.12.03-01.05.36:644][177]LogLoad: Game class is 'BP_FightingGameMode_C'
+[2024.12.03-01.05.36:645][177]LogWorld: Bringing World /Game/Level/UEDPIE_0_MAP_Fighting_Stage.MAP_Fighting_Stage up for play (max tick rate 0) at 2024.12.03-01.05.36
+[2024.12.03-01.05.36:646][177]LogWorld: Bringing up level for play took: 0.001581
+[2024.12.03-01.05.36:647][177]LogOnline: OSS: Created online subsystem instance for: :Context_80
+[2024.12.03-01.05.36:648][177]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.12.03-01.05.36:648][177]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.12.03-01.05.36:648][177]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.12.03-01.05.36:648][177]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.12.03-01.05.36:653][177]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.12.03-01.05.36:653][177]PIE: Server logged in
+[2024.12.03-01.05.36:653][177]PIE: Play in editor total start time 0.062 seconds.
+[2024.12.03-01.05.43:940][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.03-01.05.43:940][729]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MAP_Fighting_Stage
+[2024.12.03-01.05.43:940][729]LogWorld: UWorld::CleanupWorld for MAP_Fighting_Stage, bSessionEnded=true, bCleanupResources=true
+[2024.12.03-01.05.43:940][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.03-01.05.43:948][729]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.03-01.05.43:953][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.03-01.05.43:965][729]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.03-01.05.43:966][729]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 65
+[2024.12.03-01.05.43:966][729]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=65
+[2024.12.03-01.05.43:968][729]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=65
+[2024.12.03-01.05.43:971][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.03-01.05.43:974][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.12.03-01.05.44:017][730]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2024.12.03-01.05.56:545][143]BlueprintLog: New page: Compile BP_NymphSpell
+[2024.12.03-01.05.56:580][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.12.03-01.06.09:356][659]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2443.689941
+[2024.12.03-01.06.09:496][676]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.03-01.06.09:497][676]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2443.822754, Update Interval: 344.715729
+[2024.12.03-01.06.49:509][309]BlueprintLog: New page: Compile BP_NymphSpell
+[2024.12.03-01.06.49:546][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.12.03-01.06.50:497][376]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.03-01.06.50:501][376]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.03-01.06.50:501][376]PIE: New page: PIE session: MAP_Fighting_Stage (3 Dec 2024, 01:06:50)
+[2024.12.03-01.06.50:501][376]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MAP_Fighting_Stage
+[2024.12.03-01.06.50:508][376]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005956s)
+[2024.12.03-01.06.50:508][376]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MAP_Fighting_Stage.MAP_Fighting_Stage to /Game/Level/UEDPIE_0_MAP_Fighting_Stage.MAP_Fighting_Stage (0.005984s)
+[2024.12.03-01.06.50:524][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.12.03-01.06.50:528][376]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.03-01.06.50:528][376]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.03-01.06.50:530][376]LogAIModule: Creating AISystem for world MAP_Fighting_Stage
+[2024.12.03-01.06.50:530][376]LogPlayLevel: PIE: World Init took: (0.000751s)
+[2024.12.03-01.06.50:530][376]LogAudio: Display: Creating Audio Device:                 Id: 66, Scope: Unique, Realtime: True
+[2024.12.03-01.06.50:530][376]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.03-01.06.50:530][376]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.03-01.06.50:530][376]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.03-01.06.50:530][376]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.03-01.06.50:530][376]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.03-01.06.50:530][376]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.03-01.06.50:530][376]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.03-01.06.50:530][376]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.03-01.06.50:530][376]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.03-01.06.50:530][376]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.03-01.06.50:530][376]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.03-01.06.50:532][376]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.03-01.06.50:549][376]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (Corsair VOID ELITE Surround USB Adapter)
+[2024.12.03-01.06.50:549][376]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.03-01.06.50:549][376]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.03-01.06.50:549][376]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.03-01.06.50:550][376]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=66
+[2024.12.03-01.06.50:550][376]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=66
+[2024.12.03-01.06.50:551][376]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=66
+[2024.12.03-01.06.50:551][376]LogInit: FAudioDevice initialized with ID 66.
+[2024.12.03-01.06.50:551][376]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=66
+[2024.12.03-01.06.50:551][376]LogAudio: Display: Audio Device (ID: 66) registered with world 'MAP_Fighting_Stage'.
+[2024.12.03-01.06.50:551][376]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 66
+[2024.12.03-01.06.50:554][376]LogLoad: Game class is 'BP_FightingGameMode_C'
+[2024.12.03-01.06.50:555][376]LogWorld: Bringing World /Game/Level/UEDPIE_0_MAP_Fighting_Stage.MAP_Fighting_Stage up for play (max tick rate 0) at 2024.12.03-01.06.50
+[2024.12.03-01.06.50:555][376]LogWorld: Bringing up level for play took: 0.001641
+[2024.12.03-01.06.50:556][376]LogOnline: OSS: Created online subsystem instance for: :Context_81
+[2024.12.03-01.06.50:558][376]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.12.03-01.06.50:558][376]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.12.03-01.06.50:558][376]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.12.03-01.06.50:558][376]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.12.03-01.06.50:562][376]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.12.03-01.06.50:562][376]PIE: Server logged in
+[2024.12.03-01.06.50:562][376]PIE: Play in editor total start time 0.061 seconds.
+[2024.12.03-01.06.52:762][540]LogBlueprintUserMessages: [BP_ThirdPersonChar2_C_0] 140.0
+[2024.12.03-01.06.55:322][752]LogBlueprintUserMessages: [BP_ThirdPersonChar2_C_0] 130.0
+[2024.12.03-01.06.58:096][982]LogBlueprintUserMessages: [BP_ThirdPersonChar2_C_0] 120.0
+[2024.12.03-01.07.00:824][208]LogBlueprintUserMessages: [BP_ThirdPersonChar2_C_0] 110.0
+[2024.12.03-01.07.03:481][427]LogBlueprintUserMessages: [BP_ThirdPersonChar2_C_0] 100.0
+[2024.12.03-01.07.06:724][696]LogBlueprintUserMessages: [BP_ThirdPersonChar2_C_0] 90.0
+[2024.12.03-01.07.09:640][937]LogBlueprintUserMessages: [BP_ThirdPersonChar2_C_0] 80.0
+[2024.12.03-01.07.12:453][169]LogBlueprintUserMessages: [BP_ThirdPersonChar2_C_0] 70.0
+[2024.12.03-01.07.15:210][396]LogBlueprintUserMessages: [BP_ThirdPersonChar2_C_0] 60.0
+[2024.12.03-01.07.17:872][615]LogBlueprintUserMessages: [BP_ThirdPersonChar2_C_0] 50.0
+[2024.12.03-01.07.20:511][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.03-01.07.20:511][829]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MAP_Fighting_Stage
+[2024.12.03-01.07.20:511][829]LogWorld: UWorld::CleanupWorld for MAP_Fighting_Stage, bSessionEnded=true, bCleanupResources=true
+[2024.12.03-01.07.20:512][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.03-01.07.20:515][829]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.03-01.07.20:520][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.03-01.07.20:530][829]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.03-01.07.20:531][829]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 66
+[2024.12.03-01.07.20:531][829]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=66
+[2024.12.03-01.07.20:532][829]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=66
+[2024.12.03-01.07.20:535][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.03-01.07.20:538][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.12.03-01.07.20:581][830]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2024.12.03-01.09.19:472][710]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.12.03-01.09.19:542][710]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.12.03-01.09.46:132][567]BlueprintLog: New page: Compile BP_ProjectileMaster
+[2024.12.03-01.09.46:181][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.12.03-01.09.50:378][983]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.12.03-01.09.50:387][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.03-01.09.50:397][983]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.12.03-01.09.50:397][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.03-01.09.50:457][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.12.03-01.09.51:035][ 34]LogShaderCompilers: Display: ================================================
+[2024.12.03-01.09.51:035][ 34]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.03-01.09.51:035][ 34]LogShaderCompilers: Display: Total job queries 213, among them cache hits 37 (17.37%)
+[2024.12.03-01.09.51:035][ 34]LogShaderCompilers: Display: Tracking 146 distinct input hashes that result in 96 distinct outputs (65.75%)
+[2024.12.03-01.09.51:035][ 34]LogShaderCompilers: Display: RAM used: 3.45 MiB of 1.60 GiB budget. Usage: 0.21%
+[2024.12.03-01.09.51:035][ 34]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.03-01.09.51:035][ 34]LogShaderCompilers: Display: Shaders Compiled: 127
+[2024.12.03-01.09.51:035][ 34]LogShaderCompilers: Display: Jobs assigned 127, completed 127 (100%)
+[2024.12.03-01.09.51:035][ 34]LogShaderCompilers: Display: Average time worker was idle: 82.66 s
+[2024.12.03-01.09.51:035][ 34]LogShaderCompilers: Display: Time job spent in pending queue: average 0.38 s, longest 1.72 s
+[2024.12.03-01.09.51:035][ 34]LogShaderCompilers: Display: Job execution time: average 0.40 s, max 2.16 s
+[2024.12.03-01.09.51:035][ 34]LogShaderCompilers: Display: Job life time (pending + execution): average 0.78 s, max 2.18
+[2024.12.03-01.09.51:035][ 34]LogShaderCompilers: Display: Shader code size: average 36.759 KiB, min 2.041 KiB, max 95.887 KiB
+[2024.12.03-01.09.51:035][ 34]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 19.25 s
+[2024.12.03-01.09.51:035][ 34]LogShaderCompilers: Display: Jobs were issued in 127 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.03-01.09.51:035][ 34]LogShaderCompilers: Display: Average processing rate: 6.60 jobs/sec
+[2024.12.03-01.09.51:035][ 34]LogShaderCompilers: Display: Total thread time: 27.645 s
+[2024.12.03-01.09.51:035][ 34]LogShaderCompilers: Display: Total thread preprocess time: 2.648 s
+[2024.12.03-01.09.51:036][ 34]LogShaderCompilers: Display: Percentage time preprocessing: 9.58%
+[2024.12.03-01.09.51:036][ 34]LogShaderCompilers: Display: Effective parallelization: 1.44 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.03-01.09.51:036][ 34]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.03-01.09.51:036][ 34]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    4 times, average 0.31 sec, max 0.39 sec, min 0.21 sec)
+[2024.12.03-01.09.51:036][ 34]LogShaderCompilers: Display:                        FLumenFrontLayerTranslucencyGBufferVS (compiled    1 times, average 0.30 sec, max 0.30 sec, min 0.30 sec)
+[2024.12.03-01.09.51:036][ 34]LogShaderCompilers: Display:                        FLumenTranslucencyRadianceCacheMarkVS (compiled    1 times, average 0.30 sec, max 0.30 sec, min 0.30 sec)
+[2024.12.03-01.09.51:036][ 34]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   19 times, average 0.28 sec, max 0.50 sec, min 0.19 sec)
+[2024.12.03-01.09.51:036][ 34]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2024.12.03-01.09.51:036][ 34]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.03-01.09.51:036][ 34]LogShaderCompilers: Display:                                               FNiagaraShader - 23.15% of total time (compiled   38 times, average 0.17 sec, max 0.46 sec, min 0.03 sec)
+[2024.12.03-01.09.51:036][ 34]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 21.82% of total time (compiled   23 times, average 0.26 sec, max 0.42 sec, min 0.17 sec)
+[2024.12.03-01.09.51:036][ 34]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 19.35% of total time (compiled   19 times, average 0.28 sec, max 0.50 sec, min 0.19 sec)
+[2024.12.03-01.09.51:036][ 34]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.30% of total time (compiled   13 times, average 0.24 sec, max 0.31 sec, min 0.17 sec)
+[2024.12.03-01.09.51:036][ 34]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 5.66% of total time (compiled   13 times, average 0.12 sec, max 0.17 sec, min 0.08 sec)
+[2024.12.03-01.09.51:036][ 34]LogShaderCompilers: Display: ================================================
+[2024.12.03-01.09.52:537][154]LogNiagara: Compiling System NiagaraSystem /Game/RocketThrusterExhaustFX/FX/NS_RocketExhaust_Violet.NS_RocketExhaust_Violet took 2.335517 sec (time since issued), 2.276338 sec (combined shader worker time).
+[2024.12.03-01.09.52:837][188]LogDerivedDataCache: C:/Users/rahad/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/rahad/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyNIAGARASM/0f/bf/019f037f320d02ef4fc5541fe190de55336d.udd from 'NS_RocketExhaust_Violet/NE_Particulates/ParticleGPUComputeScript'.
+[2024.12.03-01.10.59:518][ 41]BlueprintLog: New page: Compile BP_ProjectileMaster
+[2024.12.03-01.10.59:576][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.12.03-01.11.00:343][104]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.12.03-01.11.00:414][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.12.03-01.11.22:098][525]LogSlate: Window 'Delete Variable' being destroyed
+[2024.12.03-01.11.26:121][979]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.12.03-01.11.26:197][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.12.03-01.11.42:779][932]BlueprintLog: New page: Compile BP_ProjectileMaster
+[2024.12.03-01.11.42:830][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.12.03-01.12.04:680][438]BlueprintLog: New page: Compile BP_ProjectileMaster
+[2024.12.03-01.12.04:731][438]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.12.03-01.12.06:054][547]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.03-01.12.06:058][547]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.12.03-01.12.06:061][547]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonCharacter before play...
+[2024.12.03-01.12.06:159][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.12.03-01.12.06:170][547]LogPlayLevel: PlayLevel: Blueprint regeneration took 112 ms (1 blueprints)
+[2024.12.03-01.12.06:170][547]PIE: New page: PIE session: MAP_Fighting_Stage (3 Dec 2024, 01:12:06)
+[2024.12.03-01.12.06:170][547]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MAP_Fighting_Stage
+[2024.12.03-01.12.06:176][547]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005428s)
+[2024.12.03-01.12.06:176][547]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MAP_Fighting_Stage.MAP_Fighting_Stage to /Game/Level/UEDPIE_0_MAP_Fighting_Stage.MAP_Fighting_Stage (0.005453s)
+[2024.12.03-01.12.06:186][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.12.03-01.12.06:187][547]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.03-01.12.06:187][547]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.03-01.12.06:187][547]LogAIModule: Creating AISystem for world MAP_Fighting_Stage
+[2024.12.03-01.12.06:187][547]LogPlayLevel: PIE: World Init took: (0.000722s)
+[2024.12.03-01.12.06:187][547]LogAudio: Display: Creating Audio Device:                 Id: 67, Scope: Unique, Realtime: True
+[2024.12.03-01.12.06:188][547]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.03-01.12.06:188][547]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.03-01.12.06:188][547]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.03-01.12.06:188][547]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.03-01.12.06:188][547]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.03-01.12.06:188][547]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.03-01.12.06:188][547]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.03-01.12.06:188][547]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.03-01.12.06:188][547]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.03-01.12.06:188][547]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.03-01.12.06:188][547]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.03-01.12.06:191][547]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.03-01.12.06:209][547]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (Corsair VOID ELITE Surround USB Adapter)
+[2024.12.03-01.12.06:209][547]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.03-01.12.06:209][547]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.03-01.12.06:209][547]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.03-01.12.06:209][547]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=67
+[2024.12.03-01.12.06:209][547]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=67
+[2024.12.03-01.12.06:211][547]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=67
+[2024.12.03-01.12.06:211][547]LogInit: FAudioDevice initialized with ID 67.
+[2024.12.03-01.12.06:211][547]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=67
+[2024.12.03-01.12.06:211][547]LogAudio: Display: Audio Device (ID: 67) registered with world 'MAP_Fighting_Stage'.
+[2024.12.03-01.12.06:211][547]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 67
+[2024.12.03-01.12.06:214][547]LogLoad: Game class is 'BP_FightingGameMode_C'
+[2024.12.03-01.12.06:215][547]LogWorld: Bringing World /Game/Level/UEDPIE_0_MAP_Fighting_Stage.MAP_Fighting_Stage up for play (max tick rate 0) at 2024.12.03-01.12.06
+[2024.12.03-01.12.06:215][547]LogWorld: Bringing up level for play took: 0.001488
+[2024.12.03-01.12.06:217][547]LogOnline: OSS: Created online subsystem instance for: :Context_82
+[2024.12.03-01.12.06:217][547]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.12.03-01.12.06:217][547]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.12.03-01.12.06:217][547]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.12.03-01.12.06:218][547]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.12.03-01.12.06:222][547]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.12.03-01.12.06:222][547]PIE: Server logged in
+[2024.12.03-01.12.06:222][547]PIE: Play in editor total start time 0.164 seconds.
+[2024.12.03-01.12.07:239][622]LogBlueprintUserMessages: [BP_NymphSpell_C_2] projectile dead
+[2024.12.03-01.12.08:142][700]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] projectile alive
+[2024.12.03-01.12.09:642][822]LogBlueprintUserMessages: [BP_NymphSpell_C_0] projectile dead
+[2024.12.03-01.12.10:418][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.03-01.12.10:418][887]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MAP_Fighting_Stage
+[2024.12.03-01.12.10:418][887]LogWorld: UWorld::CleanupWorld for MAP_Fighting_Stage, bSessionEnded=true, bCleanupResources=true
+[2024.12.03-01.12.10:419][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.03-01.12.10:423][887]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.03-01.12.10:428][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.03-01.12.10:440][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.03-01.12.10:440][887]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 67
+[2024.12.03-01.12.10:441][887]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=67
+[2024.12.03-01.12.10:442][887]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=67
+[2024.12.03-01.12.10:448][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.12.03-01.12.10:541][889]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2024.12.03-01.12.37:353][741]LogSlate: Window 'Color Picker' being destroyed
+[2024.12.03-01.12.50:023][250]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2844.422363
+[2024.12.03-01.12.50:174][268]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.03-01.12.50:174][268]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2844.564209, Update Interval: 319.644165
+[2024.12.03-01.13.33:909][340]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.12.03-01.13.33:984][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.12.03-01.13.54:767][683]LogSlate: Took 0.000099 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.12.03-01.13.54:854][685]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.03-01.13.54:937][687]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.03-01.14.14:058][927]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.12.03-01.14.14:138][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.12.03-01.14.16:345][162]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.12.03-01.14.16:425][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.12.03-01.14.59:036][221]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.12.03-01.14.59:109][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.12.03-01.15.00:498][331]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.03-01.15.00:502][331]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.03-01.15.00:502][331]PIE: New page: PIE session: MAP_Fighting_Stage (3 Dec 2024, 01:15:00)
+[2024.12.03-01.15.00:539][331]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MAP_Fighting_Stage
+[2024.12.03-01.15.00:545][331]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006038s)
+[2024.12.03-01.15.00:545][331]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MAP_Fighting_Stage.MAP_Fighting_Stage to /Game/Level/UEDPIE_0_MAP_Fighting_Stage.MAP_Fighting_Stage (0.006070s)
+[2024.12.03-01.15.00:560][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.12.03-01.15.00:570][331]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.03-01.15.00:570][331]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.03-01.15.00:570][331]LogAIModule: Creating AISystem for world MAP_Fighting_Stage
+[2024.12.03-01.15.00:570][331]LogPlayLevel: PIE: World Init took: (0.000759s)
+[2024.12.03-01.15.00:570][331]LogAudio: Display: Creating Audio Device:                 Id: 68, Scope: Unique, Realtime: True
+[2024.12.03-01.15.00:570][331]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.03-01.15.00:570][331]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.03-01.15.00:570][331]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.03-01.15.00:570][331]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.03-01.15.00:570][331]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.03-01.15.00:570][331]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.03-01.15.00:570][331]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.03-01.15.00:570][331]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.03-01.15.00:571][331]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.03-01.15.00:571][331]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.03-01.15.00:571][331]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.03-01.15.00:572][331]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.03-01.15.00:590][331]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (Corsair VOID ELITE Surround USB Adapter)
+[2024.12.03-01.15.00:590][331]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.03-01.15.00:590][331]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.03-01.15.00:590][331]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.03-01.15.00:590][331]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=68
+[2024.12.03-01.15.00:590][331]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=68
+[2024.12.03-01.15.00:592][331]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=68
+[2024.12.03-01.15.00:592][331]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=68
+[2024.12.03-01.15.00:592][331]LogInit: FAudioDevice initialized with ID 68.
+[2024.12.03-01.15.00:592][331]LogAudio: Display: Audio Device (ID: 68) registered with world 'MAP_Fighting_Stage'.
+[2024.12.03-01.15.00:592][331]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 68
+[2024.12.03-01.15.00:595][331]LogLoad: Game class is 'BP_FightingGameMode_C'
+[2024.12.03-01.15.00:596][331]LogWorld: Bringing World /Game/Level/UEDPIE_0_MAP_Fighting_Stage.MAP_Fighting_Stage up for play (max tick rate 0) at 2024.12.03-01.15.00
+[2024.12.03-01.15.00:597][331]LogWorld: Bringing up level for play took: 0.001563
+[2024.12.03-01.15.00:597][331]LogOnline: OSS: Created online subsystem instance for: :Context_85
+[2024.12.03-01.15.00:598][331]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.12.03-01.15.00:598][331]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.12.03-01.15.00:598][331]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.12.03-01.15.00:598][331]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.12.03-01.15.00:602][331]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.12.03-01.15.00:602][331]PIE: Server logged in
+[2024.12.03-01.15.00:603][331]PIE: Play in editor total start time 0.101 seconds.
+[2024.12.03-01.15.01:647][408]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] projectile alive
+[2024.12.03-01.15.01:685][411]LogBlueprintUserMessages: [BP_NymphSpell_C_2] projectile dead
+[2024.12.03-01.15.03:148][530]LogBlueprintUserMessages: [BP_ThirdPersonChar2_C_0] 140.0
+[2024.12.03-01.15.03:148][530]LogBlueprintUserMessages: [BP_NymphSpell_C_0] projectile dead
+[2024.12.03-01.15.04:135][616]LogScript: Warning: Attempted to access BP_NymphSpell_C_0 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_NymphSpell_C_0 is not valid (pending kill or garbage)
+	BP_ThirdPersonCharacter_C /Game/Level/UEDPIE_0_MAP_Fighting_Stage.MAP_Fighting_Stage:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:05FA
+[2024.12.03-01.15.04:135][616]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_NymphSpell_C_0 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_NymphSpell_C_0 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2024.12.03-01.15.06:400][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.03-01.15.06:400][810]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MAP_Fighting_Stage
+[2024.12.03-01.15.06:400][810]LogWorld: UWorld::CleanupWorld for MAP_Fighting_Stage, bSessionEnded=true, bCleanupResources=true
+[2024.12.03-01.15.06:401][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.03-01.15.06:404][810]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.03-01.15.06:408][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.03-01.15.06:421][810]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.03-01.15.06:422][810]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 68
+[2024.12.03-01.15.06:422][810]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=68
+[2024.12.03-01.15.06:423][810]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=68
+[2024.12.03-01.15.06:427][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.03-01.15.06:430][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.12.03-01.15.06:516][811]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2024.12.03-01.15.21:865][985]LogSlate: Window 'Message Log' being destroyed
+[2024.12.03-01.15.21:870][985]LogSlate: Window 'Message Log' being destroyed
+[2024.12.03-01.15.37:336][822]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.12.03-01.15.37:403][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.12.03-01.15.38:210][860]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.03-01.15.38:214][860]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.03-01.15.38:214][860]PIE: New page: PIE session: MAP_Fighting_Stage (3 Dec 2024, 01:15:38)
+[2024.12.03-01.15.38:214][860]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MAP_Fighting_Stage
+[2024.12.03-01.15.38:220][860]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006799s)
+[2024.12.03-01.15.38:220][860]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MAP_Fighting_Stage.MAP_Fighting_Stage to /Game/Level/UEDPIE_0_MAP_Fighting_Stage.MAP_Fighting_Stage (0.006825s)
+[2024.12.03-01.15.38:236][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.12.03-01.15.38:243][860]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.03-01.15.38:243][860]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.03-01.15.38:243][860]LogAIModule: Creating AISystem for world MAP_Fighting_Stage
+[2024.12.03-01.15.38:243][860]LogPlayLevel: PIE: World Init took: (0.000714s)
+[2024.12.03-01.15.38:243][860]LogAudio: Display: Creating Audio Device:                 Id: 69, Scope: Unique, Realtime: True
+[2024.12.03-01.15.38:243][860]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.03-01.15.38:243][860]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.03-01.15.38:243][860]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.03-01.15.38:243][860]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.03-01.15.38:243][860]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.03-01.15.38:243][860]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.03-01.15.38:243][860]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.03-01.15.38:243][860]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.03-01.15.38:243][860]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.03-01.15.38:243][860]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.03-01.15.38:243][860]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.03-01.15.38:245][860]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.03-01.15.38:263][860]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (Corsair VOID ELITE Surround USB Adapter)
+[2024.12.03-01.15.38:263][860]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.03-01.15.38:263][860]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.03-01.15.38:263][860]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.03-01.15.38:263][860]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=69
+[2024.12.03-01.15.38:263][860]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=69
+[2024.12.03-01.15.38:265][860]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=69
+[2024.12.03-01.15.38:265][860]LogInit: FAudioDevice initialized with ID 69.
+[2024.12.03-01.15.38:265][860]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=69
+[2024.12.03-01.15.38:265][860]LogAudio: Display: Audio Device (ID: 69) registered with world 'MAP_Fighting_Stage'.
+[2024.12.03-01.15.38:265][860]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 69
+[2024.12.03-01.15.38:267][860]LogLoad: Game class is 'BP_FightingGameMode_C'
+[2024.12.03-01.15.38:268][860]LogWorld: Bringing World /Game/Level/UEDPIE_0_MAP_Fighting_Stage.MAP_Fighting_Stage up for play (max tick rate 0) at 2024.12.03-01.15.38
+[2024.12.03-01.15.38:269][860]LogWorld: Bringing up level for play took: 0.001510
+[2024.12.03-01.15.38:270][860]LogOnline: OSS: Created online subsystem instance for: :Context_86
+[2024.12.03-01.15.38:270][860]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.12.03-01.15.38:270][860]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.12.03-01.15.38:270][860]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.12.03-01.15.38:271][860]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.12.03-01.15.38:276][860]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.12.03-01.15.38:276][860]PIE: Server logged in
+[2024.12.03-01.15.38:276][860]PIE: Play in editor total start time 0.062 seconds.
+[2024.12.03-01.15.38:941][907]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] projectile alive
+[2024.12.03-01.15.39:399][943]LogBlueprintUserMessages: [BP_NymphSpell_C_2] projectile dead
+[2024.12.03-01.15.40:435][ 26]LogBlueprintUserMessages: [BP_ThirdPersonChar2_C_0] 140.0
+[2024.12.03-01.15.40:435][ 26]LogBlueprintUserMessages: [BP_NymphSpell_C_0] projectile dead
+[2024.12.03-01.15.41:429][112]LogScript: Warning: Attempted to access BP_NymphSpell_C_0 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_NymphSpell_C_0 is not valid (pending kill or garbage)
+	BP_ThirdPersonCharacter_C /Game/Level/UEDPIE_0_MAP_Fighting_Stage.MAP_Fighting_Stage:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:05EC
+[2024.12.03-01.15.41:429][112]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_NymphSpell_C_0 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_NymphSpell_C_0 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2024.12.03-01.15.42:964][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.03-01.15.42:964][243]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MAP_Fighting_Stage
+[2024.12.03-01.15.42:964][243]LogWorld: UWorld::CleanupWorld for MAP_Fighting_Stage, bSessionEnded=true, bCleanupResources=true
+[2024.12.03-01.15.42:965][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.03-01.15.42:971][243]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.03-01.15.42:975][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.03-01.15.42:987][243]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.03-01.15.42:987][243]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 69
+[2024.12.03-01.15.42:987][243]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=69
+[2024.12.03-01.15.42:989][243]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=69
+[2024.12.03-01.15.42:992][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.03-01.15.42:995][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.12.03-01.15.43:073][244]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2024.12.03-01.15.44:666][359]LogSlate: Window 'Message Log' being destroyed
+[2024.12.03-01.15.44:683][359]LogSlate: Window 'Message Log' being destroyed
+[2024.12.03-01.16.13:623][753]LogSlate: Window 'Message Log' being destroyed
+[2024.12.03-01.16.13:628][753]LogSlate: Window 'Message Log' being destroyed
+[2024.12.03-01.16.28:977][590]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.12.03-01.16.29:042][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.12.03-01.16.29:884][629]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.03-01.16.29:889][629]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.03-01.16.29:889][629]PIE: New page: PIE session: MAP_Fighting_Stage (3 Dec 2024, 01:16:29)
+[2024.12.03-01.16.29:920][629]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MAP_Fighting_Stage
+[2024.12.03-01.16.29:925][629]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005990s)
+[2024.12.03-01.16.29:926][629]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MAP_Fighting_Stage.MAP_Fighting_Stage to /Game/Level/UEDPIE_0_MAP_Fighting_Stage.MAP_Fighting_Stage (0.006021s)
+[2024.12.03-01.16.29:939][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.12.03-01.16.29:948][629]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.03-01.16.29:948][629]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.03-01.16.29:948][629]LogAIModule: Creating AISystem for world MAP_Fighting_Stage
+[2024.12.03-01.16.29:948][629]LogPlayLevel: PIE: World Init took: (0.000702s)
+[2024.12.03-01.16.29:948][629]LogAudio: Display: Creating Audio Device:                 Id: 70, Scope: Unique, Realtime: True
+[2024.12.03-01.16.29:948][629]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.03-01.16.29:948][629]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.03-01.16.29:948][629]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.03-01.16.29:948][629]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.03-01.16.29:948][629]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.03-01.16.29:948][629]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.03-01.16.29:948][629]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.03-01.16.29:948][629]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.03-01.16.29:949][629]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.03-01.16.29:949][629]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.03-01.16.29:949][629]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.03-01.16.29:951][629]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.03-01.16.29:969][629]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (Corsair VOID ELITE Surround USB Adapter)
+[2024.12.03-01.16.29:969][629]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.03-01.16.29:969][629]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.03-01.16.29:969][629]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.03-01.16.29:969][629]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=70
+[2024.12.03-01.16.29:969][629]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=70
+[2024.12.03-01.16.29:970][629]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=70
+[2024.12.03-01.16.29:970][629]LogInit: FAudioDevice initialized with ID 70.
+[2024.12.03-01.16.29:970][629]LogAudio: Display: Audio Device (ID: 70) registered with world 'MAP_Fighting_Stage'.
+[2024.12.03-01.16.29:970][629]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=70
+[2024.12.03-01.16.29:970][629]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 70
+[2024.12.03-01.16.29:974][629]LogLoad: Game class is 'BP_FightingGameMode_C'
+[2024.12.03-01.16.29:975][629]LogWorld: Bringing World /Game/Level/UEDPIE_0_MAP_Fighting_Stage.MAP_Fighting_Stage up for play (max tick rate 0) at 2024.12.03-01.16.29
+[2024.12.03-01.16.29:975][629]LogWorld: Bringing up level for play took: 0.001508
+[2024.12.03-01.16.29:976][629]LogOnline: OSS: Created online subsystem instance for: :Context_87
+[2024.12.03-01.16.29:977][629]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.12.03-01.16.29:977][629]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.12.03-01.16.29:977][629]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.12.03-01.16.29:977][629]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.12.03-01.16.29:981][629]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.12.03-01.16.29:981][629]PIE: Server logged in
+[2024.12.03-01.16.29:982][629]PIE: Play in editor total start time 0.092 seconds.
+[2024.12.03-01.16.30:610][673]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] projectile alive
+[2024.12.03-01.16.31:071][709]LogBlueprintUserMessages: [BP_NymphSpell_C_2] projectile dead
+[2024.12.03-01.16.32:107][792]LogBlueprintUserMessages: [BP_ThirdPersonChar2_C_0] 140.0
+[2024.12.03-01.16.32:107][792]LogBlueprintUserMessages: [BP_NymphSpell_C_0] projectile dead
+[2024.12.03-01.16.34:161][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.03-01.16.34:161][967]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MAP_Fighting_Stage
+[2024.12.03-01.16.34:161][967]LogWorld: UWorld::CleanupWorld for MAP_Fighting_Stage, bSessionEnded=true, bCleanupResources=true
+[2024.12.03-01.16.34:161][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.03-01.16.34:164][967]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.03-01.16.34:168][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.03-01.16.34:181][967]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.03-01.16.34:183][967]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 70
+[2024.12.03-01.16.34:183][967]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=70
+[2024.12.03-01.16.34:184][967]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=70
+[2024.12.03-01.16.34:187][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.03-01.16.34:190][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.12.03-01.16.34:232][968]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2024.12.03-01.16.52:102][ 33]LogEditorTransaction: Undo Delete current selection
+[2024.12.03-01.17.08:705][949]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.03-01.17.08:713][949]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.12.03-01.17.08:713][949]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.03-01.17.08:713][949]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.03-01.17.08:753][949]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.12.03-01.17.08:753][949]LogWorldPartition: Display: WorldPartition initialize took 40 ms
+[2024.12.03-01.17.08:774][949]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.03-01.17.09:392][  1]LogShaderCompilers: Display: ================================================
+[2024.12.03-01.17.09:392][  1]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.03-01.17.09:392][  1]LogShaderCompilers: Display: Total job queries 230, among them cache hits 38 (16.52%)
+[2024.12.03-01.17.09:392][  1]LogShaderCompilers: Display: Tracking 153 distinct input hashes that result in 103 distinct outputs (67.32%)
+[2024.12.03-01.17.09:392][  1]LogShaderCompilers: Display: RAM used: 3.57 MiB of 1.60 GiB budget. Usage: 0.22%
+[2024.12.03-01.17.09:392][  1]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.03-01.17.09:392][  1]LogShaderCompilers: Display: Shaders Compiled: 134
+[2024.12.03-01.17.09:392][  1]LogShaderCompilers: Display: Jobs assigned 142, completed 134 (94.37%)
+[2024.12.03-01.17.09:392][  1]LogShaderCompilers: Display: Average time worker was idle: 178.60 s
+[2024.12.03-01.17.09:392][  1]LogShaderCompilers: Display: Time job spent in pending queue: average 0.35 s, longest 1.72 s
+[2024.12.03-01.17.09:392][  1]LogShaderCompilers: Display: Job execution time: average 0.39 s, max 2.16 s
+[2024.12.03-01.17.09:392][  1]LogShaderCompilers: Display: Job life time (pending + execution): average 0.75 s, max 2.18
+[2024.12.03-01.17.09:392][  1]LogShaderCompilers: Display: Shader code size: average 36.02 KiB, min 2.041 KiB, max 95.887 KiB
+[2024.12.03-01.17.09:392][  1]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 20.95 s
+[2024.12.03-01.17.09:392][  1]LogShaderCompilers: Display: Jobs were issued in 142 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.03-01.17.09:392][  1]LogShaderCompilers: Display: Average processing rate: 6.39 jobs/sec
+[2024.12.03-01.17.09:392][  1]LogShaderCompilers: Display: Total thread time: 28.557 s
+[2024.12.03-01.17.09:392][  1]LogShaderCompilers: Display: Total thread preprocess time: 2.703 s
+[2024.12.03-01.17.09:392][  1]LogShaderCompilers: Display: Percentage time preprocessing: 9.47%
+[2024.12.03-01.17.09:392][  1]LogShaderCompilers: Display: Effective parallelization: 1.36 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.03-01.17.09:392][  1]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.03-01.17.09:392][  1]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    4 times, average 0.31 sec, max 0.39 sec, min 0.21 sec)
+[2024.12.03-01.17.09:392][  1]LogShaderCompilers: Display:                        FLumenFrontLayerTranslucencyGBufferVS (compiled    1 times, average 0.30 sec, max 0.30 sec, min 0.30 sec)
+[2024.12.03-01.17.09:392][  1]LogShaderCompilers: Display:                        FLumenTranslucencyRadianceCacheMarkVS (compiled    1 times, average 0.30 sec, max 0.30 sec, min 0.30 sec)
+[2024.12.03-01.17.09:392][  1]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   19 times, average 0.28 sec, max 0.50 sec, min 0.19 sec)
+[2024.12.03-01.17.09:392][  1]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2024.12.03-01.17.09:392][  1]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.03-01.17.09:392][  1]LogShaderCompilers: Display:                                               FNiagaraShader - 24.76% of total time (compiled   43 times, average 0.16 sec, max 0.46 sec, min 0.03 sec)
+[2024.12.03-01.17.09:393][  1]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 21.13% of total time (compiled   23 times, average 0.26 sec, max 0.42 sec, min 0.17 sec)
+[2024.12.03-01.17.09:393][  1]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.73% of total time (compiled   19 times, average 0.28 sec, max 0.50 sec, min 0.19 sec)
+[2024.12.03-01.17.09:393][  1]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.94% of total time (compiled   13 times, average 0.24 sec, max 0.31 sec, min 0.17 sec)
+[2024.12.03-01.17.09:393][  1]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.33% of total time (compiled   15 times, average 0.12 sec, max 0.17 sec, min 0.08 sec)
+[2024.12.03-01.17.09:393][  1]LogShaderCompilers: Display: ================================================
+[2024.12.03-01.17.20:664][335]BlueprintLog: New page: Compile BP_ProjectileMaster
+[2024.12.03-01.17.20:722][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.12.03-01.17.21:598][390]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.03-01.17.21:601][390]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.12.03-01.17.21:603][390]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms
+[2024.12.03-01.17.21:603][390]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.12.03-01.17.21:608][390]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonCharacter before play...
+[2024.12.03-01.17.21:720][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.12.03-01.17.21:733][390]LogPlayLevel: PlayLevel: Blueprint regeneration took 130 ms (1 blueprints)
+[2024.12.03-01.17.21:733][390]PIE: New page: PIE session: MAP_Fighting_Stage (3 Dec 2024, 01:17:21)
+[2024.12.03-01.17.21:733][390]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MAP_Fighting_Stage
+[2024.12.03-01.17.21:739][390]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005899s)
+[2024.12.03-01.17.21:739][390]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MAP_Fighting_Stage.MAP_Fighting_Stage to /Game/Level/UEDPIE_0_MAP_Fighting_Stage.MAP_Fighting_Stage (0.005925s)
+[2024.12.03-01.17.21:750][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.12.03-01.17.21:751][390]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.03-01.17.21:751][390]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.03-01.17.21:752][390]LogAIModule: Creating AISystem for world MAP_Fighting_Stage
+[2024.12.03-01.17.21:752][390]LogPlayLevel: PIE: World Init took: (0.000767s)
+[2024.12.03-01.17.21:752][390]LogAudio: Display: Creating Audio Device:                 Id: 71, Scope: Unique, Realtime: True
+[2024.12.03-01.17.21:752][390]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.03-01.17.21:752][390]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.03-01.17.21:752][390]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.03-01.17.21:752][390]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.03-01.17.21:752][390]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.03-01.17.21:752][390]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.03-01.17.21:752][390]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.03-01.17.21:752][390]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.03-01.17.21:752][390]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.03-01.17.21:752][390]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.03-01.17.21:752][390]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.03-01.17.21:754][390]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.03-01.17.21:774][390]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (Corsair VOID ELITE Surround USB Adapter)
+[2024.12.03-01.17.21:774][390]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.03-01.17.21:774][390]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.03-01.17.21:774][390]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.03-01.17.21:774][390]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=71
+[2024.12.03-01.17.21:774][390]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=71
+[2024.12.03-01.17.21:776][390]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=71
+[2024.12.03-01.17.21:776][390]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=71
+[2024.12.03-01.17.21:776][390]LogInit: FAudioDevice initialized with ID 71.
+[2024.12.03-01.17.21:776][390]LogAudio: Display: Audio Device (ID: 71) registered with world 'MAP_Fighting_Stage'.
+[2024.12.03-01.17.21:776][390]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 71
+[2024.12.03-01.17.21:779][390]LogLoad: Game class is 'BP_FightingGameMode_C'
+[2024.12.03-01.17.21:780][390]LogWorld: Bringing World /Game/Level/UEDPIE_0_MAP_Fighting_Stage.MAP_Fighting_Stage up for play (max tick rate 0) at 2024.12.03-01.17.21
+[2024.12.03-01.17.21:781][390]LogWorld: Bringing up level for play took: 0.001892
+[2024.12.03-01.17.21:782][390]LogOnline: OSS: Created online subsystem instance for: :Context_88
+[2024.12.03-01.17.21:782][390]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.12.03-01.17.21:783][390]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.12.03-01.17.21:783][390]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.12.03-01.17.21:783][390]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.12.03-01.17.21:787][390]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.12.03-01.17.21:788][390]PIE: Server logged in
+[2024.12.03-01.17.21:788][390]PIE: Play in editor total start time 0.187 seconds.
+[2024.12.03-01.17.24:189][576]LogBlueprintUserMessages: [BP_ThirdPersonChar2_C_0] 140.0
+[2024.12.03-01.17.26:749][789]LogBlueprintUserMessages: [BP_ThirdPersonChar2_C_0] 130.0
+[2024.12.03-01.17.29:254][997]LogBlueprintUserMessages: [BP_ThirdPersonChar2_C_0] 120.0
+[2024.12.03-01.17.32:049][229]LogBlueprintUserMessages: [BP_ThirdPersonChar2_C_0] 110.0
+[2024.12.03-01.17.34:624][442]LogBlueprintUserMessages: [BP_ThirdPersonChar2_C_0] 100.0
+[2024.12.03-01.17.37:743][702]LogBlueprintUserMessages: [BP_ThirdPersonChar2_C_0] 90.0
+[2024.12.03-01.17.38:759][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.03-01.17.38:759][786]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MAP_Fighting_Stage
+[2024.12.03-01.17.38:759][786]LogWorld: UWorld::CleanupWorld for MAP_Fighting_Stage, bSessionEnded=true, bCleanupResources=true
+[2024.12.03-01.17.38:760][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.03-01.17.38:762][786]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.03-01.17.38:767][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.03-01.17.38:782][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.03-01.17.38:782][786]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 71
+[2024.12.03-01.17.38:783][786]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=71
+[2024.12.03-01.17.38:784][786]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=71
+[2024.12.03-01.17.38:791][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.12.03-01.17.38:832][787]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2024.12.03-01.17.48:035][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.12.03-01.17.48:851][830]LogSlate: Window 'Save Content' being destroyed
+[2024.12.03-01.17.48:860][830]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.03-01.17.48:884][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MAP_Fighting_Stage" FILE="F:/Bludgeons--Flagons/BludgeonsFlagons/Content/Level/MAP_Fighting_Stage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.03-01.17.48:907][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.12.03-01.17.48:938][830]LogSavePackage: Moving output files for package: /Game/Level/MAP_Fighting_Stage
+[2024.12.03-01.17.48:938][830]LogSavePackage: Moving 'F:/Bludgeons--Flagons/BludgeonsFlagons/Saved/MAP_Fighting_Stage771737C2498CAE09216256AB85ED04DE.tmp' to 'F:/Bludgeons--Flagons/BludgeonsFlagons/Content/Level/MAP_Fighting_Stage.umap'
+[2024.12.03-01.17.48:944][830]LogFileHelpers: Saving map 'MAP_Fighting_Stage' took 0.060
+[2024.12.03-01.17.48:944][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Projectile/BP_NymphSpell" FILE="F:/Bludgeons--Flagons/BludgeonsFlagons/Content/Blueprints/Projectile/BP_NymphSpell.uasset" SILENT=true
+[2024.12.03-01.17.48:952][830]LogSavePackage: Moving output files for package: /Game/Blueprints/Projectile/BP_NymphSpell
+[2024.12.03-01.17.48:952][830]LogSavePackage: Moving 'F:/Bludgeons--Flagons/BludgeonsFlagons/Saved/BP_NymphSpell10BD26CB41458015F987C495381E27A0.tmp' to 'F:/Bludgeons--Flagons/BludgeonsFlagons/Content/Blueprints/Projectile/BP_NymphSpell.uasset'
+[2024.12.03-01.17.49:009][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Projectile/BP_ProjectileMaster" FILE="F:/Bludgeons--Flagons/BludgeonsFlagons/Content/Blueprints/Projectile/BP_ProjectileMaster.uasset" SILENT=true
+[2024.12.03-01.17.49:015][830]LogSavePackage: Moving output files for package: /Game/Blueprints/Projectile/BP_ProjectileMaster
+[2024.12.03-01.17.49:016][830]LogSavePackage: Moving 'F:/Bludgeons--Flagons/BludgeonsFlagons/Saved/BP_ProjectileMasterFCF542AC4E7E94C9F3C8D8AA5D8839EA.tmp' to 'F:/Bludgeons--Flagons/BludgeonsFlagons/Content/Blueprints/Projectile/BP_ProjectileMaster.uasset'
+[2024.12.03-01.17.49:027][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter" FILE="F:/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2024.12.03-01.17.49:056][830]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.12.03-01.17.49:056][830]LogSavePackage: Moving 'F:/Bludgeons--Flagons/BludgeonsFlagons/Saved/BP_ThirdPersonCharacter1FFC4DDD40AFD78D99937C84525ECD2F.tmp' to 'F:/Bludgeons--Flagons/BludgeonsFlagons/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.12.03-01.17.49:065][830]LogFileHelpers: InternalPromptForCheckoutAndSave took 203 ms (total: 758 ms)
+[2024.12.03-01.17.49:067][830]AssetCheck: New page: Asset Save: multiple assets
+[2024.12.03-01.17.49:067][830]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/MAP_Fighting_Stage.MAP_Fighting_Stage
+[2024.12.03-01.17.49:067][830]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Projectile/BP_NymphSpell.BP_NymphSpell
+[2024.12.03-01.17.49:067][830]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Projectile/BP_ProjectileMaster.BP_ProjectileMaster
+[2024.12.03-01.17.49:067][830]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
