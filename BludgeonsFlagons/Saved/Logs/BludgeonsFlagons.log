@@ -3587,3 +3587,323 @@ Make sure 'BP_ThirdPersonChar2_C' has been compiled for  Get SpellSphere
 [2024.12.03-14.40.17:015][301]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Testing/BP_ThirdPersonChar2.BP_ThirdPersonChar2
 [2024.12.03-14.40.17:015][301]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
 [2024.12.03-14.40.17:024][301]LogAutomationController: Ignoring very large delta of 2.64 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.12.03-14.45.08:333][959]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13341.764648
+[2024.12.03-14.45.09:333][962]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.03-14.45.09:333][962]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13342.431641, Update Interval: 328.036133
+[2024.12.03-14.51.36:231][ 29]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13729.555664
+[2024.12.03-14.51.37:232][ 32]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.03-14.51.37:232][ 32]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13730.221680, Update Interval: 305.039215
+[2024.12.03-14.57.24:613][ 74]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14077.840820
+[2024.12.03-14.57.25:613][ 77]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.03-14.57.25:613][ 77]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14078.507812, Update Interval: 333.080841
+[2024.12.03-15.03.36:661][190]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14449.764648
+[2024.12.03-15.03.37:660][193]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.03-15.03.37:660][193]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14450.429688, Update Interval: 342.994476
+[2024.12.03-15.04.50:928][412]LogDerivedDataCache: C:/Users/Student/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:11.075 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 6334 files in 8032 folders with total size 609 MiB.
+[2024.12.03-15.10.09:711][369]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14842.696289
+[2024.12.03-15.10.10:711][372]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.03-15.10.10:711][372]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14843.362305, Update Interval: 311.882080
+[2024.12.03-15.15.57:425][412]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15190.322266
+[2024.12.03-15.15.58:428][415]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.03-15.15.58:428][415]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15190.990234, Update Interval: 345.039825
+[2024.12.03-15.22.22:820][568]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15575.612305
+[2024.12.03-15.22.24:153][572]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.03-15.22.24:153][572]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15576.611328, Update Interval: 307.491058
+[2024.12.03-15.24.06:921][939]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.03-15.24.06:925][939]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.03-15.24.06:925][939]PIE: New page: PIE session: MAP_Fighting_Stage (3 Dec 2024, 15:24:06)
+[2024.12.03-15.24.06:946][939]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MAP_Fighting_Stage
+[2024.12.03-15.24.06:950][939]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004492s)
+[2024.12.03-15.24.06:950][939]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MAP_Fighting_Stage.MAP_Fighting_Stage to /Game/Level/UEDPIE_0_MAP_Fighting_Stage.MAP_Fighting_Stage (0.004521s)
+[2024.12.03-15.24.06:959][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.12.03-15.24.06:961][939]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.03-15.24.06:961][939]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.03-15.24.06:961][939]LogAIModule: Creating AISystem for world MAP_Fighting_Stage
+[2024.12.03-15.24.06:961][939]LogPlayLevel: PIE: World Init took: (0.000747s)
+[2024.12.03-15.24.06:962][939]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2024.12.03-15.24.06:962][939]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.03-15.24.06:962][939]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.03-15.24.06:962][939]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.03-15.24.06:962][939]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.03-15.24.06:962][939]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.03-15.24.06:962][939]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.03-15.24.06:962][939]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.03-15.24.06:962][939]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.03-15.24.06:962][939]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.03-15.24.06:962][939]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.03-15.24.06:962][939]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.03-15.24.06:964][939]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.03-15.24.06:981][939]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.12.03-15.24.06:981][939]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.03-15.24.06:981][939]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.03-15.24.06:981][939]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.03-15.24.06:982][939]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2024.12.03-15.24.06:982][939]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2024.12.03-15.24.06:983][939]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2024.12.03-15.24.06:983][939]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2024.12.03-15.24.06:983][939]LogInit: FAudioDevice initialized with ID 33.
+[2024.12.03-15.24.06:983][939]LogAudio: Display: Audio Device (ID: 33) registered with world 'MAP_Fighting_Stage'.
+[2024.12.03-15.24.06:983][939]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 33
+[2024.12.03-15.24.06:984][939]LogLoad: Game class is 'BP_FightingGameMode_C'
+[2024.12.03-15.24.06:985][939]LogWorld: Bringing World /Game/Level/UEDPIE_0_MAP_Fighting_Stage.MAP_Fighting_Stage up for play (max tick rate 0) at 2024.12.03-15.24.06
+[2024.12.03-15.24.06:986][939]LogWorld: Bringing up level for play took: 0.001251
+[2024.12.03-15.24.06:987][939]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2024.12.03-15.24.06:987][939]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.12.03-15.24.06:987][939]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.12.03-15.24.06:987][939]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.12.03-15.24.06:988][939]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.12.03-15.24.06:991][939]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.12.03-15.24.06:991][939]PIE: Server logged in
+[2024.12.03-15.24.06:992][939]PIE: Play in editor total start time 0.067 seconds.
+[2024.12.03-15.24.09:377][140]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 140.0
+[2024.12.03-15.24.16:346][750]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.03-15.24.16:346][750]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MAP_Fighting_Stage
+[2024.12.03-15.24.16:346][750]LogWorld: UWorld::CleanupWorld for MAP_Fighting_Stage, bSessionEnded=true, bCleanupResources=true
+[2024.12.03-15.24.16:347][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.03-15.24.16:349][750]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.03-15.24.16:353][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.03-15.24.16:363][750]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.03-15.24.16:363][750]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 33
+[2024.12.03-15.24.16:363][750]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2024.12.03-15.24.16:364][750]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2024.12.03-15.24.16:368][750]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.03-15.24.16:371][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.12.03-15.24.16:422][751]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2024.12.03-15.24.26:157][467]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Medieval_Banquet/WineGlass/SM_WineGlass.SM_WineGlass
+[2024.12.03-15.24.26:157][467]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Medieval_Banquet/WineGlass/SM_WineGlass.SM_WineGlass
+[2024.12.03-15.24.26:158][467]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Medieval_Banquet/WineGlass/SM_WineGlass.SM_WineGlass as actor: StaticMeshActor /Game/Level/MAP_Fighting_Stage.MAP_Fighting_Stage:PersistentLevel.StaticMeshActor_8
+[2024.12.03-15.24.26:953][522]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Medieval_Banquet/WineGlass/SM_WineGlass.SM_WineGlass
+[2024.12.03-15.24.26:953][522]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Medieval_Banquet/WineGlass/SM_WineGlass.SM_WineGlass
+[2024.12.03-15.24.26:954][522]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Medieval_Banquet/WineGlass/SM_WineGlass.SM_WineGlass as actor: StaticMeshActor /Game/Level/MAP_Fighting_Stage.MAP_Fighting_Stage:PersistentLevel.StaticMeshActor_11
+[2024.12.03-15.24.53:836][430]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Medieval_Banquet/Knife/SM_Knife.SM_Knife
+[2024.12.03-15.24.53:836][430]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Medieval_Banquet/Knife/SM_Knife.SM_Knife
+[2024.12.03-15.24.53:836][430]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Medieval_Banquet/Knife/SM_Knife.SM_Knife as actor: StaticMeshActor /Game/Level/MAP_Fighting_Stage.MAP_Fighting_Stage:PersistentLevel.StaticMeshActor_14
+[2024.12.03-15.24.54:445][471]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Medieval_Banquet/Knife/SM_Knife.SM_Knife
+[2024.12.03-15.24.54:445][471]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Medieval_Banquet/Knife/SM_Knife.SM_Knife
+[2024.12.03-15.24.54:445][471]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Medieval_Banquet/Knife/SM_Knife.SM_Knife as actor: StaticMeshActor /Game/Level/MAP_Fighting_Stage.MAP_Fighting_Stage:PersistentLevel.StaticMeshActor_17
+[2024.12.03-15.25.02:767][102]Cmd: MODE GRID=0
+[2024.12.03-15.25.54:195][938]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Medieval_Banquet/WoodenChair/SM_WoodenChair.SM_WoodenChair
+[2024.12.03-15.25.54:195][938]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Medieval_Banquet/WoodenChair/SM_WoodenChair.SM_WoodenChair
+[2024.12.03-15.25.54:195][938]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Medieval_Banquet/WoodenChair/SM_WoodenChair.SM_WoodenChair as actor: StaticMeshActor /Game/Level/MAP_Fighting_Stage.MAP_Fighting_Stage:PersistentLevel.StaticMeshActor_23
+[2024.12.03-15.25.54:892][985]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Medieval_Banquet/WoodenChair/SM_WoodenChair.SM_WoodenChair
+[2024.12.03-15.25.54:892][985]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Medieval_Banquet/WoodenChair/SM_WoodenChair.SM_WoodenChair
+[2024.12.03-15.25.54:893][985]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Medieval_Banquet/WoodenChair/SM_WoodenChair.SM_WoodenChair as actor: StaticMeshActor /Game/Level/MAP_Fighting_Stage.MAP_Fighting_Stage:PersistentLevel.StaticMeshActor_25
+[2024.12.03-15.26.34:996][967]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Medieval_Banquet/Jug/SM_Jug.SM_Jug
+[2024.12.03-15.26.34:996][967]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Medieval_Banquet/Jug/SM_Jug.SM_Jug
+[2024.12.03-15.26.34:996][967]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Medieval_Banquet/Jug/SM_Jug.SM_Jug as actor: StaticMeshActor /Game/Level/MAP_Fighting_Stage.MAP_Fighting_Stage:PersistentLevel.StaticMeshActor_28
+[2024.12.03-15.26.36:168][ 53]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Medieval_Banquet/Jug/SM_Jug.SM_Jug
+[2024.12.03-15.26.36:168][ 53]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Medieval_Banquet/Jug/SM_Jug.SM_Jug
+[2024.12.03-15.26.36:168][ 53]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Medieval_Banquet/Jug/SM_Jug.SM_Jug as actor: StaticMeshActor /Game/Level/MAP_Fighting_Stage.MAP_Fighting_Stage:PersistentLevel.StaticMeshActor_35
+[2024.12.03-15.27.03:210][960]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Medieval_Banquet/BeerBarrel/SM_BeerBarrel.SM_BeerBarrel
+[2024.12.03-15.27.03:210][960]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Medieval_Banquet/BeerBarrel/SM_BeerBarrel.SM_BeerBarrel
+[2024.12.03-15.27.03:211][960]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Medieval_Banquet/BeerBarrel/SM_BeerBarrel.SM_BeerBarrel as actor: StaticMeshActor /Game/Level/MAP_Fighting_Stage.MAP_Fighting_Stage:PersistentLevel.StaticMeshActor_36
+[2024.12.03-15.27.04:178][ 28]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Medieval_Banquet/BeerBarrel/SM_BeerBarrel.SM_BeerBarrel
+[2024.12.03-15.27.04:178][ 28]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Medieval_Banquet/BeerBarrel/SM_BeerBarrel.SM_BeerBarrel
+[2024.12.03-15.27.04:179][ 28]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Medieval_Banquet/BeerBarrel/SM_BeerBarrel.SM_BeerBarrel as actor: StaticMeshActor /Game/Level/MAP_Fighting_Stage.MAP_Fighting_Stage:PersistentLevel.StaticMeshActor_39
+[2024.12.03-15.27.05:095][ 98]Cmd: DELETE
+[2024.12.03-15.27.05:096][ 98]Cmd: ACTOR DELETE
+[2024.12.03-15.27.05:098][ 98]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.03-15.27.05:108][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.12.03-15.27.05:112][ 98]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2024.12.03-15.27.39:704][765]Cmd: DELETE
+[2024.12.03-15.27.39:704][765]Cmd: ACTOR DELETE
+[2024.12.03-15.27.39:706][765]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.03-15.27.39:715][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.12.03-15.27.39:717][765]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2024.12.03-15.27.42:702][995]Cmd: MODE ROTGRID=0
+[2024.12.03-15.28.01:105][335]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Medieval_Banquet/Grapes/SM_Grapes.SM_Grapes
+[2024.12.03-15.28.01:105][335]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Medieval_Banquet/Grapes/SM_Grapes.SM_Grapes
+[2024.12.03-15.28.01:105][335]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Medieval_Banquet/Grapes/SM_Grapes.SM_Grapes as actor: StaticMeshActor /Game/Level/MAP_Fighting_Stage.MAP_Fighting_Stage:PersistentLevel.StaticMeshActor_42
+[2024.12.03-15.28.02:007][395]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Medieval_Banquet/Grapes/SM_Grapes.SM_Grapes
+[2024.12.03-15.28.02:007][395]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Medieval_Banquet/Grapes/SM_Grapes.SM_Grapes
+[2024.12.03-15.28.02:009][395]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Medieval_Banquet/Grapes/SM_Grapes.SM_Grapes as actor: StaticMeshActor /Game/Level/MAP_Fighting_Stage.MAP_Fighting_Stage:PersistentLevel.StaticMeshActor_43
+[2024.12.03-15.28.05:157][605]Cmd: TRANSACTION UNDO
+[2024.12.03-15.28.05:157][605]LogEditorTransaction: Undo Scale Elements
+[2024.12.03-15.28.05:867][616]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15918.361328
+[2024.12.03-15.28.05:867][616]54519_NS_RocketExhaust_Violet_MessageLog: System successfully compiled.
+[2024.12.03-15.28.05:997][626]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.03-15.28.05:997][626]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15918.480469, Update Interval: 302.836395
+[2024.12.03-15.28.25:982][ 47]Cmd: DELETE
+[2024.12.03-15.28.25:982][ 47]Cmd: ACTOR DELETE
+[2024.12.03-15.28.25:984][ 47]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.03-15.28.26:000][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.12.03-15.28.26:002][ 47]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.12.03-15.28.28:559][245]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Medieval_Banquet/Grapes/SM_Grapes.SM_Grapes
+[2024.12.03-15.28.28:559][245]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Medieval_Banquet/Grapes/SM_Grapes.SM_Grapes
+[2024.12.03-15.28.28:560][245]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Medieval_Banquet/Grapes/SM_Grapes.SM_Grapes as actor: StaticMeshActor /Game/Level/MAP_Fighting_Stage.MAP_Fighting_Stage:PersistentLevel.StaticMeshActor_44
+[2024.12.03-15.28.29:289][305]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Medieval_Banquet/Grapes/SM_Grapes.SM_Grapes
+[2024.12.03-15.28.29:289][305]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Medieval_Banquet/Grapes/SM_Grapes.SM_Grapes
+[2024.12.03-15.28.29:290][305]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Medieval_Banquet/Grapes/SM_Grapes.SM_Grapes as actor: StaticMeshActor /Game/Level/MAP_Fighting_Stage.MAP_Fighting_Stage:PersistentLevel.StaticMeshActor_45
+[2024.12.03-15.28.35:365][749]LogEditorViewport: Clicking Background
+[2024.12.03-15.28.50:149][803]Cmd: TRANSACTION UNDO
+[2024.12.03-15.28.50:149][803]LogEditorTransaction: Undo Scale Elements
+[2024.12.03-15.28.50:829][814]54519_NS_RocketExhaust_Violet_MessageLog: System successfully compiled.
+[2024.12.03-15.29.06:253][917]LogEditorViewport: Clicking Background
+[2024.12.03-15.33.52:225][236]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16264.788086
+[2024.12.03-15.33.53:225][239]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.03-15.33.53:225][239]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16265.454102, Update Interval: 325.750916
+[2024.12.03-15.34.54:630][626]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.03-15.34.54:694][628]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.03-15.34.54:738][630]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.03-15.34.55:207][651]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.03-15.34.55:397][653]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.03-15.34.55:417][654]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.03-15.34.55:440][655]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.03-15.35.09:351][721]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Medieval_Banquet/Bench2/SM_Bench2.SM_Bench2
+[2024.12.03-15.35.09:351][721]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Medieval_Banquet/Bench2/SM_Bench2.SM_Bench2
+[2024.12.03-15.35.09:352][721]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Medieval_Banquet/Bench2/SM_Bench2.SM_Bench2 as actor: StaticMeshActor /Game/Level/MAP_Fighting_Stage.MAP_Fighting_Stage:PersistentLevel.StaticMeshActor_46
+[2024.12.03-15.35.09:859][759]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Medieval_Banquet/Bench2/SM_Bench2.SM_Bench2
+[2024.12.03-15.35.09:859][759]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Medieval_Banquet/Bench2/SM_Bench2.SM_Bench2
+[2024.12.03-15.35.09:860][759]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Medieval_Banquet/Bench2/SM_Bench2.SM_Bench2 as actor: StaticMeshActor /Game/Level/MAP_Fighting_Stage.MAP_Fighting_Stage:PersistentLevel.StaticMeshActor_47
+[2024.12.03-15.35.41:758][184]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Medieval_Banquet/Bench2/M_Bench2.M_Bench2
+[2024.12.03-15.35.41:775][184]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.03-15.35.41:775][184]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.03-15.35.41:874][184]MaterialEditorStats: Texture samplers: 0/16
+[2024.12.03-15.35.41:874][184]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.03-15.35.41:874][184]MaterialEditorStats: Shader Count: 0
+[2024.12.03-15.35.41:883][184]LogViewport: Scene viewport resized to 502x601, mode Windowed.
+[2024.12.03-15.35.41:926][185]LogShaderCompilers: Display: ================================================
+[2024.12.03-15.35.41:927][185]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.03-15.35.41:927][185]LogShaderCompilers: Display: Total job queries 39, among them cache hits 5 (12.82%)
+[2024.12.03-15.35.41:927][185]LogShaderCompilers: Display: Tracking 32 distinct input hashes that result in 29 distinct outputs (90.62%)
+[2024.12.03-15.35.41:927][185]LogShaderCompilers: Display: RAM used: 916.67 KiB of 1.60 GiB budget. Usage: 0.05%
+[2024.12.03-15.35.41:927][185]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.03-15.35.41:927][185]LogShaderCompilers: Display: Shaders Compiled: 28
+[2024.12.03-15.35.41:927][185]LogShaderCompilers: Display: Jobs assigned 28, completed 28 (100%)
+[2024.12.03-15.35.41:927][185]LogShaderCompilers: Display: Average time worker was idle: 118.89 s
+[2024.12.03-15.35.41:927][185]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2024.12.03-15.35.41:927][185]LogShaderCompilers: Display: Job execution time: average 0.34 s, max 0.92 s
+[2024.12.03-15.35.41:927][185]LogShaderCompilers: Display: Job life time (pending + execution): average 0.39 s, max 0.94
+[2024.12.03-15.35.41:927][185]LogShaderCompilers: Display: Shader code size: average 46.598 KiB, min 3.662 KiB, max 88.961 KiB
+[2024.12.03-15.35.41:927][185]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.92 s
+[2024.12.03-15.35.41:927][185]LogShaderCompilers: Display: Jobs were issued in 28 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.03-15.35.41:927][185]LogShaderCompilers: Display: Average processing rate: 4.73 jobs/sec
+[2024.12.03-15.35.41:927][185]LogShaderCompilers: Display: Total thread time: 6.007 s
+[2024.12.03-15.35.41:927][185]LogShaderCompilers: Display: Total thread preprocess time: 1.814 s
+[2024.12.03-15.35.41:927][185]LogShaderCompilers: Display: Percentage time preprocessing: 30.20%
+[2024.12.03-15.35.41:927][185]LogShaderCompilers: Display: Effective parallelization: 1.01 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.03-15.35.41:927][185]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.03-15.35.41:927][185]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    6 times, average 0.32 sec, max 0.51 sec, min 0.14 sec)
+[2024.12.03-15.35.41:927][185]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 0.31 sec, max 0.57 sec, min 0.14 sec)
+[2024.12.03-15.35.41:927][185]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 0.26 sec, max 0.36 sec, min 0.15 sec)
+[2024.12.03-15.35.41:927][185]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled    1 times, average 0.15 sec, max 0.15 sec, min 0.15 sec)
+[2024.12.03-15.35.41:927][185]LogShaderCompilers: Display:                                               FNiagaraShader (compiled   13 times, average 0.14 sec, max 0.30 sec, min 0.03 sec)
+[2024.12.03-15.35.41:927][185]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.03-15.35.41:927][185]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 31.52% of total time (compiled    6 times, average 0.32 sec, max 0.51 sec, min 0.14 sec)
+[2024.12.03-15.35.41:927][185]LogShaderCompilers: Display:                                               FNiagaraShader - 30.37% of total time (compiled   13 times, average 0.14 sec, max 0.30 sec, min 0.03 sec)
+[2024.12.03-15.35.41:927][185]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 25.88% of total time (compiled    5 times, average 0.31 sec, max 0.57 sec, min 0.14 sec)
+[2024.12.03-15.35.41:927][185]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.49% of total time (compiled    2 times, average 0.26 sec, max 0.36 sec, min 0.15 sec)
+[2024.12.03-15.35.41:927][185]LogShaderCompilers: Display:                                            FDistortionMeshVS - 2.42% of total time (compiled    1 times, average 0.15 sec, max 0.15 sec, min 0.15 sec)
+[2024.12.03-15.35.41:927][185]LogShaderCompilers: Display: ================================================
+[2024.12.03-15.35.41:982][186]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.12.03-15.35.41:982][186]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.12.03-15.35.41:982][186]MaterialEditorStats: Texture samplers: 2/16
+[2024.12.03-15.35.41:982][186]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.12.03-15.35.41:982][186]MaterialEditorStats: Shader Count: 4
+[2024.12.03-15.40.07:076][ 99]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16639.613281
+[2024.12.03-15.40.07:206][111]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.03-15.40.07:206][111]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16639.730469, Update Interval: 303.907593
+[2024.12.03-15.46.04:671][215]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16992.554688
+[2024.12.03-15.46.04:800][227]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.03-15.46.04:800][227]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16992.671875, Update Interval: 333.080841
+[2024.12.03-15.50.02:789][115]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.12.03-15.50.02:794][115]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.12.03-15.50.02:801][115]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.12.03-15.50.02:814][116]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.12.03-15.50.03:973][224]LogContentBrowser: Attempting asset rename: NewBlueprint -> ada
+[2024.12.03-15.50.03:978][224]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.12.03-15.50.04:294][254]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ada.ada
+[2024.12.03-15.50.04:295][254]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.03-15.50.04:295][254]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.03-15.50.04:402][254]LogViewport: Scene viewport resized to 1522x1173, mode Windowed.
+[2024.12.03-15.52.20:851][553]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17365.998047
+[2024.12.03-15.52.21:851][556]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.03-15.52.21:851][556]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17366.666016, Update Interval: 331.777100
+[2024.12.03-15.58.45:564][707]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17751.070312
+[2024.12.03-15.58.46:564][710]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.03-15.58.46:564][710]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17751.738281, Update Interval: 323.939941
+[2024.12.03-16.04.51:904][805]LogDerivedDataCache: C:/Users/Student/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:12.050 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 6342 files in 8040 folders with total size 609 MiB.
+[2024.12.03-16.04.57:270][822]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18123.140625
+[2024.12.03-16.04.58:270][825]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.03-16.04.58:270][825]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18123.808594, Update Interval: 336.589264
+[2024.12.03-16.09.03:482][862]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.03-16.09.03:486][862]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.03-16.09.03:486][862]PIE: New page: PIE session: MAP_Fighting_Stage (3 Dec 2024, 16:09:03)
+[2024.12.03-16.09.03:486][862]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_MAP_Fighting_Stage
+[2024.12.03-16.09.03:491][862]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004855s)
+[2024.12.03-16.09.03:491][862]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MAP_Fighting_Stage.MAP_Fighting_Stage to /Game/Level/UEDPIE_0_MAP_Fighting_Stage.MAP_Fighting_Stage (0.004884s)
+[2024.12.03-16.09.03:517][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.12.03-16.09.03:519][862]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.03-16.09.03:519][862]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.03-16.09.03:519][862]LogAIModule: Creating AISystem for world MAP_Fighting_Stage
+[2024.12.03-16.09.03:520][862]LogPlayLevel: PIE: World Init took: (0.000663s)
+[2024.12.03-16.09.03:520][862]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2024.12.03-16.09.03:520][862]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.03-16.09.03:520][862]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.03-16.09.03:520][862]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.03-16.09.03:520][862]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.03-16.09.03:520][862]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.03-16.09.03:520][862]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.03-16.09.03:520][862]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.03-16.09.03:520][862]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.03-16.09.03:520][862]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.03-16.09.03:520][862]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.03-16.09.03:520][862]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.03-16.09.03:521][862]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.03-16.09.03:537][862]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.12.03-16.09.03:538][862]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.03-16.09.03:538][862]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.03-16.09.03:538][862]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.03-16.09.03:538][862]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2024.12.03-16.09.03:538][862]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2024.12.03-16.09.03:540][862]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2024.12.03-16.09.03:540][862]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2024.12.03-16.09.03:540][862]LogInit: FAudioDevice initialized with ID 34.
+[2024.12.03-16.09.03:540][862]LogAudio: Display: Audio Device (ID: 34) registered with world 'MAP_Fighting_Stage'.
+[2024.12.03-16.09.03:540][862]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2024.12.03-16.09.03:541][862]LogLoad: Game class is 'BP_FightingGameMode_C'
+[2024.12.03-16.09.03:543][862]LogWorld: Bringing World /Game/Level/UEDPIE_0_MAP_Fighting_Stage.MAP_Fighting_Stage up for play (max tick rate 0) at 2024.12.03-16.09.03
+[2024.12.03-16.09.03:543][862]LogWorld: Bringing up level for play took: 0.001425
+[2024.12.03-16.09.03:544][862]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2024.12.03-16.09.03:545][862]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.12.03-16.09.03:545][862]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.12.03-16.09.03:545][862]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.12.03-16.09.03:545][862]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.12.03-16.09.03:549][862]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.12.03-16.09.03:549][862]PIE: Server logged in
+[2024.12.03-16.09.03:549][862]PIE: Play in editor total start time 0.062 seconds.
+[2024.12.03-16.09.06:683][197]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 140.0
+[2024.12.03-16.09.07:694][311]LogBlueprintUserMessages: [BP_ThirdPersonChar2_C_0] 140.0
+[2024.12.03-16.09.12:607][884]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 130.0
+[2024.12.03-16.09.13:062][935]LogBlueprintUserMessages: [BP_ThirdPersonChar2_C_0] 130.0
+[2024.12.03-16.09.13:921][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.03-16.09.13:921][ 32]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_MAP_Fighting_Stage
+[2024.12.03-16.09.13:922][ 32]LogWorld: UWorld::CleanupWorld for MAP_Fighting_Stage, bSessionEnded=true, bCleanupResources=true
+[2024.12.03-16.09.13:922][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.03-16.09.13:924][ 32]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.03-16.09.13:928][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.03-16.09.13:937][ 32]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.03-16.09.13:938][ 32]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2024.12.03-16.09.13:938][ 32]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2024.12.03-16.09.13:939][ 32]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2024.12.03-16.09.13:943][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.03-16.09.13:945][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.12.03-16.09.13:990][ 33]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2024.12.03-16.09.16:137][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.12.03-16.09.31:042][223]LogSlate: Window 'Save Content' being destroyed
+[2024.12.03-16.09.31:080][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.12.03-16.09.31:097][223]LogAutomationController: Ignoring very large delta of 14.97 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.12.03-16.09.34:728][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.12.03-16.09.35:526][533]LogSlate: Window 'Save Content' being destroyed
+[2024.12.03-16.09.35:540][533]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.03-16.09.35:595][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.12.03-16.09.35:616][533]LogSavePackage: Moving output files for package: /Game/Level/MAP_Fighting_Stage
+[2024.12.03-16.09.35:617][533]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Bludgeons--Flagons/BludgeonsFlagons/Saved/MAP_Fighting_Stage5D02D5B5457636EBB190859BE83B8457.tmp' to '../../../../../../Users/Student/Documents/Bludgeons--Flagons/BludgeonsFlagons/Content/Level/MAP_Fighting_Stage.umap'
+[2024.12.03-16.09.35:622][533]LogFileHelpers: Saving map 'MAP_Fighting_Stage' took 0.044
+[2024.12.03-16.09.35:622][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ada" FILE="../../../../../../Users/Student/Documents/Bludgeons--Flagons/BludgeonsFlagons/Content/ada.uasset" SILENT=true
+[2024.12.03-16.09.35:624][533]LogSavePackage: Moving output files for package: /Game/ada
+[2024.12.03-16.09.35:624][533]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Bludgeons--Flagons/BludgeonsFlagons/Saved/ada2D1D9D6E47EF2E4407E18BAF7767A707.tmp' to '../../../../../../Users/Student/Documents/Bludgeons--Flagons/BludgeonsFlagons/Content/ada.uasset'
+[2024.12.03-16.09.35:632][533]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 643 ms)
+[2024.12.03-16.09.35:633][533]AssetCheck: New page: Asset Save: multiple assets
+[2024.12.03-16.09.35:633][533]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/MAP_Fighting_Stage.MAP_Fighting_Stage
+[2024.12.03-16.09.35:633][533]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ada.ada
