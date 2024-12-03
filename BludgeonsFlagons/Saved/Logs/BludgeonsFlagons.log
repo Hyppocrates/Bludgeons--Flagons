@@ -4165,3 +4165,13 @@ Make sure 'BP_ThirdPersonChar2_C' has been compiled for  Get SpellSphere
 [2024.12.03-16.19.59:507][ 87]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
 [2024.12.03-16.19.59:507][ 87]MaterialEditorStats: Shader Count: 16
 [2024.12.03-16.19.59:534][ 87]LogAutomationController: Ignoring very large delta of 2.05 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.12.03-16.20.18:875][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.12.03-16.20.19:820][698]LogSlate: Window 'Delete Assets' being destroyed
+[2024.12.03-16.20.19:858][698]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.12.03-16.20.19:858][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.03-16.20.19:873][698]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ada.ada
+	Asset Type: Blueprint
+[2024.12.03-16.20.20:164][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.12.03-16.20.20:176][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.12.03-16.20.20:184][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
